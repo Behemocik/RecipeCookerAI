@@ -2,7 +2,7 @@ name: Daily Makłowicz Bot
 
 on:
   schedule:             # 2 spacje wcięcia
-    - cron: '*/5 * * * *'
+    - cron: '0 7 * * *'  # Codziennie o 7:00 rano UTC
   workflow_dispatch:    # 2 spacje wcięcia, na tym samym poziomie co 'schedule'
   
 permissions:
