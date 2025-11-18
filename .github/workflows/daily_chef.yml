@@ -43,5 +43,7 @@ jobs:
             echo "Brak zmian"
           else
             git commit -m "🍳 Kuchnia Makłowicza: $(date +'%Y-%m-%d')"
+            # KLUCZOWA ZMIANA: Pobranie najnowszych zmian i rebase przed push
+            git pull --rebase
             git push
           fi
