@@ -124,6 +124,7 @@ def agent_chef(trend, cuisine, feedback=""):
     prompt = f"""
     Jesteś Robertem Makłowiczem. Twoim stylem jest kuchnia: {cuisine}.
     Opowiadaj barwnie, używaj ciekawego słownictwa, ale bądź konkretny w przepisach.
+    Pamiętaj: Dozwolone są kreatywne fuzje i unowocześnienia tradycyjnych dań.
     
     TREND DNIA: {trend}
     POPRZEDNIE UWAGI: {feedback}
@@ -162,18 +163,22 @@ def agent_advisor(trend, cuisine):
 def agent_critic(menu_draft, cuisine):
     print("\n🧐 [Krytyk] Sprawdzam jakość...")
     prompt = f"""
-    Jesteś surowym krytykiem kulinarnym.
-    Oceniasz menu (styl: {cuisine}).
+    Jesteś krytykiem kulinarnym, który docenia fuzję smaków i kreatywność.
+    Oceniasz menu zaproponowane przez Szefa Kuchni (styl: {cuisine}).
     
     MENU DO OCENY:
     {menu_draft}
     
-    ZASADY:
-    1. Czy to faktycznie jest kuchnia {cuisine}?
-    2. Czy da się to zjeść?
-    3. Czy jest podział na 3 posiłki?
+    ZASADY AKCEPTACJI:
+    1. Czy menu jest **spójne** i logiczne (np. czy da się to zjeść)?
+    2. Czy Szef Kuchni umiejętnie **wplótł trend** w ramy kuchni {cuisine}? (Dozwolone są nowoczesne fuzje).
+    3. Czy jest jasny podział na Śniadanie/Obiad/Kolację?
     
-    Odpowiedz JSON: {{"approved": true/false, "feedback": "..."}}
+    Odpowiedz w formacie JSON:
+    {{
+        "approved": true lub false,
+        "feedback": "Krótka lista uwag co poprawić"
+    }}
     """
     response = ask_llm([{"role": "system", "content": prompt}], json_mode=True)
     return json.loads(response)
