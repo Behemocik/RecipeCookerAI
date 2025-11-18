@@ -38,7 +38,13 @@ CUISINES = list(CUISINE_MAP.keys())
 def load_history():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+            # 1. Odczytaj całą zawartość i usuń białe znaki (np. puste linie)
+            content = f.read().strip()
+            
+            # 2. Sprawdź, czy treść nie jest pusta
+            if content:
+                return json.loads(content)
+    # Jeśli plik nie istnieje LUB jest pusty, zwróć domyślny słownik
     return {"last_trends": [], "last_cuisines": []}
 
 def save_history(trend, cuisine):
