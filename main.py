@@ -198,7 +198,7 @@ def agent_critic(menu_draft, cuisine):
 def main():
     history = load_history()
     
-    max_global_attempts = 3
+    max_global_attempts = 5
     final_menu = "" 
     successful_run = False
     
@@ -232,7 +232,7 @@ def main():
             attempts = 0
             feedback = ""
             
-            while attempts < 3:
+            while attempts < 5:
                 attempts += 1
                 print(f"--- Próba generowania nr {attempts} ---")
                 
