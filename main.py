@@ -103,10 +103,17 @@ def agent_tiktoker(history):
     banned_topics = ", ".join(history.get("last_trends", []))
     
     prompt = f"""
-    Jesteś researcherem trendów kulinarnych.
+    Jesteś researcherem trendów kulinarnych (TikTok/Instagram).
+    
     TWOJE DANE: {search_results}
-    HISTORIA (Tego NIE wybieraj): {banned_topics}
-    ZADANIE: Wybierz JEDEN trend lub składnik. Zwróć tylko jego nazwę.
+    
+    HISTORIA TRENDÓW (Kategorycznie zakazane jest wybieranie któregokolwiek z tych trendów):
+    {banned_topics}
+    
+    ZADANIE:
+    Wybierz JEDEN trend lub składnik, który jest teraz modny.
+    MUSISZ wybrać trend, który nie znajduje się na liście HISTORYCZNEJ.
+    Zwróć tylko nazwę tego trendu (maks 5 słów).
     """
     trend = ask_llm([{"role": "system", "content": prompt}])
     print(f"📱 [TikToker] Wybrałem trend: {trend}")
@@ -136,6 +143,22 @@ def agent_chef(trend, cuisine, feedback=""):
     """
     return ask_llm([{"role": "system", "content": prompt}])
 
+def agent_advisor(trend, cuisine):
+    """Sprawdza, czy trend pasuje do kuchni."""
+    print(f"\n🧠 [Doradca] Analizuję zgodność trendu '{trend}' z kuchnią {cuisine}...")
+    
+    prompt = f"""
+    Jesteś ekspertem kulinarnym. Oceniasz, czy trend: "{trend}"
+    jest realistycznie możliwy do wplecenia w autentyczną kuchnię: {cuisine}.
+    
+    ZADANIE:
+    Odpowiedz TYLKO w formacie JSON.
+    Zwróć approved: true, jeśli trend jest w ogóle wykonalny.
+    Zwróć approved: false, jeśli trend jest absurdalny lub niezgodny z kuchnią.
+    """
+    response = ask_llm([{"role": "system", "content": prompt}], json_mode=True)
+    return json.loads(response)
+
 def agent_critic(menu_draft, cuisine):
     print("\n🧐 [Krytyk] Sprawdzam jakość...")
     prompt = f"""
@@ -158,42 +181,66 @@ def agent_critic(menu_draft, cuisine):
 # --- MAIN ---
 
 def main():
+    # 1. Ładowanie pamięci
     history = load_history()
     
-    # Losowanie kuchni (unikanie powtórzeń)
+    # 2. Wybór kuchni (unikanie powtórzeń)
     available = [c for c in CUISINES if c not in history.get("last_cuisines", [])]
     if not available: available = CUISINES
     today_cuisine = random.choice(available)
     
+    # 3. TikToker znajduje trend
     trend = agent_tiktoker(history)
     
-    attempts = 0
-    feedback = ""
-    final_menu = ""
+    # Inicjalizacja menu (na wypadek błędu)
+    final_menu = "" 
     
-    while attempts < 3:
-        attempts += 1
-        draft = agent_chef(trend, today_cuisine, feedback)
-        review = agent_critic(draft, today_cuisine)
+    # --- TUTAJ WSTAWIASZ NOWY KOD (Logika decyzyjna Doradcy) ---
+    
+    # 4. Agent Doradca sprawdza, czy trend pasuje do kuchni
+    advisor_check = agent_advisor(trend, today_cuisine) # Pamiętaj, by dodać definicję agent_advisor!
+    
+    if not advisor_check["approved"]:
+        print(f"❌ [Doradca] Trend '{trend}' nie pasuje do {today_cuisine}. Koniec pracy.")
+        final_menu = "Doradca odrzucił trend. Zaczniemy od nowa jutro."
+    else:
+        print("✅ [Doradca] Trend jest spójny. Przekazuję do Szefa Kuchni.")
         
-        if review["approved"]:
-            print("✅ [Krytyk] Menu zaakceptowane!")
-            final_menu = draft
-            break
-        else:
-            print(f"❌ [Krytyk] Odrzucono: {review['feedback']}")
-            feedback = review['feedback']
+        # 5. Pętla Produkcyjna (Szef <-> Krytyk)
+        attempts = 0
+        feedback = ""
+        
+        while attempts < 3:
+            attempts += 1
+            print(f"--- Próba generowania nr {attempts} ---")
+            
+            draft = agent_chef(trend, today_cuisine, feedback)
+            review = agent_critic(draft, today_cuisine)
+            
+            if review["approved"]:
+                print("✅ [Krytyk] Menu zaakceptowane!")
+                final_menu = draft
+                break
+            else:
+                print(f"❌ [Krytyk] Odrzucono: {review['feedback']}")
+                feedback = review['feedback']
     
-    if not final_menu: final_menu = "Makłowicz poszedł na wino. Brak menu."
+    # WAŻNE: To jest zabezpieczenie, jeśli pętla się nie powiedzie po 3 próbach
+    if not final_menu: 
+        final_menu = "Makłowicz poszedł na wino. Brak menu."
+
+    # --- KONIEC LOGIKI, ZACZYNA SIĘ PUBLIKACJA ---
     
+    # 6. Publikacja i Zapis
     send_webhook(final_menu, today_cuisine)
     save_history(trend, today_cuisine)
     
-    # Zapis lokalny
+    # Zapisz plik lokalnie dla repozytorium
     folder = "daily_plans"
     if not os.path.exists(folder): os.makedirs(folder)
-    with open(f"{folder}/{datetime.datetime.now().strftime('%Y-%m-%d')}.md", "w", encoding="utf-8") as f:
-        f.write(f"# Kierunek: {today_cuisine}\nTrend: {trend}\n\n{final_menu}")
+    today_str = datetime.datetime.now().strftime("%Y-%m-%d")
+    with open(f"{folder}/{today_str}.md", "w", encoding="utf-8") as f:
+        f.write(f"# Menu Dnia: {today_cuisine}\nTrend: {trend}\n\n{final_menu}")
 
 if __name__ == "__main__":
     main()
