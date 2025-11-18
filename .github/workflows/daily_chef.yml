@@ -1,9 +1,9 @@
 name: Daily Makłowicz Bot
 
 on:
-  - schedule:             # Zewnętrzny element listy
-      - cron: '30 18 * * *' # Godzina 18:30 UTC
-  - workflow_dispatch:    # Drugi element listy
+  schedule:             # Zewnętrzny element listy
+    - cron: '36 18 * * *' # Godzina 18:36 UTC
+  workflow_dispatch:    # Drugi element listy
 
 permissions:
   contents: write       # Zgoda na zapisywanie plików
