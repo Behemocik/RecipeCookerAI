@@ -96,25 +96,35 @@ def ask_llm(messages, json_mode=False):
 
 # --- AGENCI ---
 
-def agent_tiktoker(history):
+# Zmieniona definicja: dodajemy current_banned_trends
+def agent_tiktoker(history, current_banned_trends):
+    """Agent 1: Szuka trendu, unika powtórzeń (historycznych i dzisiejszych)"""
     print("\n📱 [TikToker] Szukam co jest viralowe...")
+    
+    # 1. Szukamy w Google
     year = datetime.datetime.now().year
     search_results = google_search(f"viral food trends {year} tiktok instagram")
-    banned_topics = ", ".join(history.get("last_trends", []))
+    
+    # Łączymy trendy z historii z trendami, które nie przeszły dziś
+    history_banned = history.get("last_trends", [])
+    # TUTAJ JEST KLUCZOWA ZMIANA: łączymy obie listy i tworzymy jeden string
+    all_banned_topics = ", ".join(history_banned + current_banned_trends)
     
     prompt = f"""
     Jesteś researcherem trendów kulinarnych (TikTok/Instagram).
     
-    TWOJE DANE: {search_results}
+    TWOJE DANE:
+    {search_results}
     
-    HISTORIA TRENDÓW (Kategorycznie zakazane jest wybieranie któregokolwiek z tych trendów):
-    {banned_topics}
+    HISTORIA TRENDÓW (Tego NIE WOLNO ci wybrać, bo było ostatnio LUB ODRZUCONO WCZEŚNIEJ W TEJ SESJI):
+    {all_banned_topics}
     
     ZADANIE:
-    Wybierz JEDEN trend lub składnik, który jest teraz modny.
+    Wybierz JEDEN konkretny trend lub składnik, który jest teraz modny.
     MUSISZ wybrać trend, który nie znajduje się na liście HISTORYCZNEJ.
     Zwróć tylko nazwę tego trendu (maks 5 słów).
     """
+    
     trend = ask_llm([{"role": "system", "content": prompt}])
     print(f"📱 [TikToker] Wybrałem trend: {trend}")
     return trend
@@ -188,10 +198,12 @@ def agent_critic(menu_draft, cuisine):
 def main():
     history = load_history()
     
-    # 1. Definicja zewnętrznej pętli ponawiania (3 próby)
     max_global_attempts = 3
     final_menu = "" 
     successful_run = False
+    
+    # NOWOŚĆ: Lista trendów, które nie przeszły walidacji Doradcy dzisiaj
+    banned_trends_today = [] 
 
     for global_attempt in range(max_global_attempts):
         print(f"\n======== PRÓBA GLOBALNA {global_attempt + 1} / {max_global_attempts} ========")
@@ -202,15 +214,17 @@ def main():
         today_cuisine = random.choice(available)
         print(f"🌍 Losuję kuchnię: {today_cuisine}")
         
-        # 3. TikToker znajduje trend
-        trend = agent_tiktoker(history)
+        # 3. TikToker znajduje trend - PRZEKAZUJEMY LISTĘ ZABLOKOWANYCH
+        trend = agent_tiktoker(history, banned_trends_today)
         
         # 4. Agent Doradca sprawdza spójność
         advisor_check = agent_advisor(trend, today_cuisine)
         
         if not advisor_check["approved"]:
             print(f"❌ [Doradca] Trend '{trend}' nie pasuje do {today_cuisine}. Ponawiam próbę.")
-            continue  # Przechodzi do kolejnej próby w pętli for
+            # KLUCZOWA ZMIANA: Dodajemy odrzucony trend do listy na dziś
+            banned_trends_today.append(trend) 
+            continue 
         else:
             print("✅ [Doradca] Trend jest spójny. Przekazuję do Szefa Kuchni.")
             
@@ -229,25 +243,22 @@ def main():
                     print("✅ [Krytyk] Menu zaakceptowane!")
                     final_menu = draft
                     successful_run = True
-                    break # Wychodzi z pętli while
+                    break
                 else:
                     print(f"❌ [Krytyk] Odrzucono: {review['feedback']}")
                     feedback = review['feedback']
             
             if successful_run:
-                break # Wychodzi z pętli for (globalnej), bo mamy sukces!
+                break
 
     # --- ZAKOŃCZENIE I PUBLIKACJA ---
     
-    # Ustawienie końcowej wiadomości w przypadku globalnej porażki
     if not final_menu:
         final_menu = f"Po {max_global_attempts} próbach agent nie znalazł spójnego menu na dziś. Dziś Makłowicz poszedł na wino."
 
-    # Publikacja i Zapis
     send_webhook(final_menu, today_cuisine)
-    save_history(trend if successful_run else "FAILURE", today_cuisine) # Zapisujemy tylko udane trendy
+    save_history(trend if successful_run else "FAILURE", today_cuisine)
     
-    # Zapisz plik lokalnie dla repozytorium
     folder = "daily_plans"
     if not os.path.exists(folder): os.makedirs(folder)
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
