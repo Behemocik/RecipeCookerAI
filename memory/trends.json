@@ -1,0 +1,26 @@
+{
+    "last_trends": [
+        [
+            {
+                "nazwa": "Ramen Fusion",
+                "opis": "Nowoczesne połączenie tradycyjnej japońskiej kuchni z modernistycznymi technikami, tworzące unikalne danie z wyjątkowym smakiem."
+            },
+            {
+                "nazwa": "Sushiburger",
+                "opis": "Klasyczne japońskie sushimaki połączone z amerykańskim burgerem, tworzące niepowtarzalne i smaczne doświadczenie kulinarne."
+            },
+            {
+                "nazwa": "Ciasto Japońskie z niezwykłymi składnikami",
+                "opis": "Proste i eleganckie ciasto japońskie, które łączy tradycyjne składniki z nowoczesnymi i niezwykłymi dodatkami, tworzące unikalne danie."
+            },
+            {
+                "nazwa": "Banchany z niezwykłymi składnikami",
+                "opis": "Tradycyjne japońskie banchany, które zostały zmodernizowane przez niezwykłe i smaczne składniki, tworzące nowoczesne i niepowtarzalne danie."
+            },
+            {
+                "nazwa": "Japońskie Piwo z wyjątkowymi składnikami",
+                "opis": "Wyjątkowe japońskie piwo, które zostało urozmaicone przez niezwykłe składniki, tworzące unikalne i smaczne doświadczenie kulinarne."
+            }
+        ]
+    ]
+}
