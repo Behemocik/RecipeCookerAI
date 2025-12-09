@@ -1,12 +1,12 @@
 name: Daily Makłowicz Bot
 
 on:
-  schedule:             # 2 spacje wcięcia
+  schedule:
     - cron: '0 7 * * *'  # Codziennie o 7:00 rano UTC
-  workflow_dispatch:    # 2 spacje wcięcia, na tym samym poziomie co 'schedule'
-  
+  workflow_dispatch:
+
 permissions:
-  contents: write       # Zgoda na zapisywanie plików
+  contents: write
 
 jobs:
   run_kitchen:
@@ -29,9 +29,11 @@ jobs:
       - name: Gotowanie
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GOOGLE_CX: ${{ secrets.GOOGLE_CX }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
         run: python main.py
 
       - name: Zapisanie historii
@@ -39,12 +41,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add daily_plans/
-          git add recipe_history.json
+          git add memory/
           if git diff --staged --quiet; then
             echo "Brak zmian"
           else
             git commit -m "🍳 Kuchnia Makłowicza: $(date +'%Y-%m-%d')"
-            # KLUCZOWA ZMIANA: Pobranie najnowszych zmian i rebase przed push
             git pull --rebase
             git push
           fi
