@@ -1,18 +1,19 @@
 {
     "last_cuisines": [
+        "USA (Cajun/Creole)",
         "Turecka (Kebab/Meze)",
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1448404101229445171,
+        "message_id": 1448406054085066848,
         "options": [
-            "Soczewicza Turecka z Czerwonej Soczewicy",
-            "Vegański Kebab z Soi i Seitanu Tureckiego",
-            "Turecki Słone Ciasto z Fasolką i Szpinakiem (Tort Turecki)"
+            "Kebab Cajun z Kurczaka",
+            "Krewetkowe Rollo Kebaby z Cajun Twistem",
+            "Kebab Creole z Frytkami"
         ]
     }
 }

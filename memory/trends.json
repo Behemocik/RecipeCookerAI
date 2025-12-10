@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab Cajun z Kurczaka",
+                "opis": "Kebab z kurczaka w stylu cajun, z dodatkiem przypraw Cajun i smakami południowych Stanów Zjednoczonych."
+            },
+            {
+                "nazwa": "Rollo Kebab z Krewetkami",
+                "opis": "Kebab z krewetkami, kapustą pekińską i kapustą białą, z przyprawami i sosami w stylu amerykańskiego południa."
+            },
+            {
+                "nazwa": "Szybki Kebab Creole z Frytkami",
+                "opis": "Kebab szybki i smaczny, z frytkami i przyprawami w stylu creole, idealny jako danie główne lub dodatek do kolacji."
+            }
+        ],
+        [
+            {
                 "nazwa": "Soczewicza Turecka z Czerwonej Soczewicy",
                 "opis": "Tradycyjna turecka potrawa z czerwonej soczewicy, idealna jako szybki i smaczny wegański przepis."
             },
