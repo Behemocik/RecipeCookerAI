@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Pao de Queijo z Kozim Mlekiem",
+                "opis": "Klasyczne brazylijskie pączki z kozim mlekiem i serem, które będą idealnym pomysłem na lunch lub snack."
+            },
+            {
+                "nazwa": "Feijoada z Szybkim Piekarnikiem",
+                "opis": "Tradycyjna brazylijska feijoada gotowana w szybkim piekarniku, co pozwoli na szybkie przygotowanie smacznego i aromatycznego dania."
+            },
+            {
+                "nazwa": "Brazyliańskie Skirtle z Kaczką i Cebulką",
+                "opis": "Nowoczesna wersja tradycyjnego brazylijskiego skirtle, z kaczką i cebulką, które będą dodawać specjalny smak i aromat do dania."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ramen Fusion",
                 "opis": "Nowoczesne połączenie tradycyjnej japońskiej kuchni z modernistycznymi technikami, tworzące unikalne danie z wyjątkowym smakiem."
             },

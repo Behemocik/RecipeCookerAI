@@ -1,16 +1,17 @@
 {
     "last_cuisines": [
+        "Brazylijska",
         "Japońska (Ramen Shop)"
     ],
     "last_regions": [
+        "Ameryki",
         "Azja"
     ],
     "last_poll": {
-        "message_id": 1448084337319870474,
+        "message_id": 1448215390059630794,
         "options": [
-            "Korean BBQ Ramen Fusion",
-            "Sushiburger Wegetariański",
-            "Matcha Tiramisu Mochi"
+            "Pao de Queijo z Kozim Mlekiem",
+            "Brazylijskie Skirtle z Kurczakiem i Cebulką"
         ]
     }
 }
