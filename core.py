@@ -37,7 +37,6 @@ for i in range(2, 11):
 # Główny klucz (fallback)
 GROQ_API_KEY = GROQ_API_KEYS[0] if GROQ_API_KEYS else None
 
-# Konfiguracja Discorda
 DISCORD_TOKEN = os.environ.get("DISCORD_TOKEN")
 try:
     CHANNEL_ID = int(os.environ.get("DISCORD_CHANNEL_ID", 0))

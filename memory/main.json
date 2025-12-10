@@ -1,17 +1,18 @@
 {
     "last_cuisines": [
-        "Brazylijska",
-        "Japońska (Ramen Shop)"
+        "Turecka (Kebab/Meze)",
+        "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1448215390059630794,
+        "message_id": 1448404101229445171,
         "options": [
-            "Pao de Queijo z Kozim Mlekiem",
-            "Brazylijskie Skirtle z Kurczakiem i Cebulką"
+            "Soczewicza Turecka z Czerwonej Soczewicy",
+            "Vegański Kebab z Soi i Seitanu Tureckiego",
+            "Turecki Słone Ciasto z Fasolką i Szpinakiem (Tort Turecki)"
         ]
     }
 }

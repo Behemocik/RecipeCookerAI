@@ -15,12 +15,23 @@ from core import ask_llm, MAX_INSIGHTS, CUISINES
 
 _deep_analyst_system_message = f"""Jesteś **Głównym Analitykiem** w projekcie kulinarnym RecipeCooker. Twoim zadaniem jest analiza historii gotowania i preferencji użytkownika, aby wyciągnąć wnioski i zasugerować kierunek na dzisiejszy dzień.
 
-Twoja analiza musi być głęboka i wielowymiarowa. Biorąc pod uwagę historię, wyciągnij kluczowy wniosek (insight) i zaproponuj kuchnię do przygotowania na dzisiaj.
+**KLUCZOWE ZASADY:**
+1. **Otrzymasz historię czatu Discord jako PRIORYTETOWE ŹRÓDŁO** - jeśli użytkownik wyraził konkretną preferencję (np. "chcę kebab", "mam ochotę na pizzę"), to jest NAJWAŻNIEJSZA informacja.
+2. Musisz zmapować preferencje użytkownika na DOKŁADNĄ nazwę kuchni z poniższej listy.
+3. Przykłady mapowania:
+   - "kebab" → "Turecka (Kebab/Meze)"
+   - "pizza" lub "makaron" → "Włoska (Klasyczna)"
+   - "sushi" lub "ramen" → "Japońska (Ramen Shop)"
+   - "burrito" lub "tacos" → "Meksykańska (Cantina)"
+   - "pierogi" → "Polska (Staropolska)"
+
+**DOSTĘPNE KUCHNIE:**
+{', '.join(CUISINES)}
 
 **FORMAT WYJŚCIOWY (JSON):**
 {{
   "daily_brief": "<Twój zwięzły brief na dziś, np. tanio i szybko, danie wegetariańskie, coś na imprezę>",
-  "suggested_cuisine": "<Nazwa kuchni z listy: {', '.join(CUISINES)}>",
+  "suggested_cuisine": "<DOKŁADNA nazwa kuchni z powyższej listy, np. 'Turecka (Kebab/Meze)'>",
   "new_learning": "<Nowy, ciekawy wniosek na temat preferencji użytkownika, np. Użytkownik często wybiera dania z makaronem w weekendy, ale unika dań mięsnych w poniedziałki.>"
 }}
 """
@@ -34,7 +45,8 @@ async def agent_deep_analyst(user_query: str, history: dict):
     
     insights = history.get("user_insights", [])[:MAX_INSIGHTS]
     
-    prompt = f"""**Polecenie użytkownika:** {user_query if user_query else 'Nowy dzień, nowa propozycja!'}
+    prompt = f"""**Ostatnia historia czatu (PRIORYTET):**
+{user_query if user_query else 'Brak nowych wiadomości.'}
 
 **Obecne wnioski analityczne (Insights):**
 {insights if insights else 'Brak.'}
@@ -44,7 +56,7 @@ async def agent_deep_analyst(user_query: str, history: dict):
 - Ostatnio proponowane kuchnie: {history.get('last_cuisines', [])[:5]}
 - Ostatnio proponowane regiony: {history.get('last_regions', [])}
 
-Wykonaj analizę i zwróć JSON.
+Wykonaj analizę i zwróć JSON. Jeśli w historii czatu użytkownik wyraził konkretną chęć (np. "zjadłbym kebaba"), potraktuj to jako nadrzędną wytyczną dla 'suggested_cuisine' i 'daily_brief'.
 """
     messages = [
         {"role": "system", "content": _deep_analyst_system_message},

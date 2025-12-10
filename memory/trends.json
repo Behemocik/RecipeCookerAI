@@ -2,38 +2,42 @@
     "last_trends": [
         [
             {
-                "nazwa": "Pao de Queijo z Kozim Mlekiem",
-                "opis": "Klasyczne brazylijskie pączki z kozim mlekiem i serem, które będą idealnym pomysłem na lunch lub snack."
+                "nazwa": "Soczewicza Turecka z Czerwonej Soczewicy",
+                "opis": "Tradycyjna turecka potrawa z czerwonej soczewicy, idealna jako szybki i smaczny wegański przepis."
             },
             {
-                "nazwa": "Feijoada z Szybkim Piekarnikiem",
-                "opis": "Tradycyjna brazylijska feijoada gotowana w szybkim piekarniku, co pozwoli na szybkie przygotowanie smacznego i aromatycznego dania."
+                "nazwa": "Wegański Kebab z Soi i Seitanu",
+                "opis": "Szybki i tanio przygotowywalny wegański kebab z soi i seitanu, idealny jako fast food."
             },
             {
-                "nazwa": "Brazyliańskie Skirtle z Kaczką i Cebulką",
-                "opis": "Nowoczesna wersja tradycyjnego brazylijskiego skirtle, z kaczką i cebulką, które będą dodawać specjalny smak i aromat do dania."
+                "nazwa": "Torte Salate - Słone Ciasto",
+                "opis": "Dania wegetariańskie, proste, tanie, zdrowe i szybkie w przygotowaniu, idealne jako przekąska lub dodatek do dania głównego."
+            },
+            {
+                "nazwa": "Chora Bademjan - Pieczony Warzywny Kebab",
+                "opis": "Turecki przepis na kebab z pieczonymi warzywami i przyprawami, idealny jako danie główne lub dodatek do kolacji."
+            },
+            {
+                "nazwa": "Börülce Çorbası - Zupa z Zielonej Soczewicy",
+                "opis": "Tradycyjna turecka zupa z zielonej soczewicy, idealna jako wegański przepis na szybki i smaczny obiad."
             }
         ],
         [
             {
-                "nazwa": "Ramen Fusion",
-                "opis": "Nowoczesne połączenie tradycyjnej japońskiej kuchni z modernistycznymi technikami, tworzące unikalne danie z wyjątkowym smakiem."
+                "nazwa": "Chinkali Gruzińskie",
+                "opis": "Pierścieniowe pierogi z mięsa mielonego, smażone z dodatkiem przypraw i ziół, idealne jako danie samodzielne lub dodatek do kolacji."
             },
             {
-                "nazwa": "Sushiburger",
-                "opis": "Klasyczne japońskie sushimaki połączone z amerykańskim burgerem, tworzące niepowtarzalne i smaczne doświadczenie kulinarne."
+                "nazwa": "Hummus z Marchewki",
+                "opis": "Smaczny i zdrowy przepis na hummus z gotowanej na parze marchwi, idealny jako przekąska lub dodatek do dania głównego."
             },
             {
-                "nazwa": "Ciasto Japońskie z niezwykłymi składnikami",
-                "opis": "Proste i eleganckie ciasto japońskie, które łączy tradycyjne składniki z nowoczesnymi i niezwykłymi dodatkami, tworzące unikalne danie."
+                "nazwa": "Supra Gruzińska",
+                "opis": "Kolacja składająca się z różnych dania, w tym chinkali, hummusu i innych potraw, idealna jako okazja do spotkania z rodziną i przyjaciółmi."
             },
             {
-                "nazwa": "Banchany z niezwykłymi składnikami",
-                "opis": "Tradycyjne japońskie banchany, które zostały zmodernizowane przez niezwykłe i smaczne składniki, tworzące nowoczesne i niepowtarzalne danie."
-            },
-            {
-                "nazwa": "Japońskie Piwo z wyjątkowymi składnikami",
-                "opis": "Wyjątkowe japońskie piwo, które zostało urozmaicone przez niezwykłe składniki, tworzące unikalne i smaczne doświadczenie kulinarne."
+                "nazwa": "Pizza Gruzińska",
+                "opis": "Szybka i pyszna wersja domowej pizzy z dodatkiem gruzińskich przypraw i składników, idealna jako przekąska lub danie główne."
             }
         ]
     ]

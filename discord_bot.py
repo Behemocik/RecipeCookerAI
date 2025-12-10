@@ -267,8 +267,19 @@ class RecipeCookerClient(discord.Client):
         print("\n--- FAZA 1: Analiza i Planowanie ---")
         await self.analyze_last_poll(channel)
 
+        # 0. Pobranie historii czatu (dla kontekstu)
+        print("💬 Pobieram historię czatu Discord (dla analityka)...")
+        chat_history_list = []
+        async for message in channel.history(limit=10):
+            chat_history_list.append(f"{message.author.name}: {message.content}")
+        chat_history_list.reverse()
+        chat_history_str = "\n".join(chat_history_list)
+        print(f"📜 [DEBUG] Historia czatu ({len(chat_history_list)} wiadomości):")
+        for msg in chat_history_list[-3:]:  # Pokaż ostatnie 3
+            print(f"   {msg}")
+
         # 1. Głęboka Analiza (Deep Analyst)
-        analysis_str = await agent_deep_analyst("", self.history)
+        analysis_str = await agent_deep_analyst(chat_history_str, self.history)
         try: analysis_result = json.loads(analysis_str)
         except (json.JSONDecodeError, AttributeError): analysis_result = {}
 
@@ -277,13 +288,16 @@ class RecipeCookerClient(discord.Client):
         suggested_cuisine = analysis_result.get("suggested_cuisine", "")
         
         print(f"📝 Codzienny brief: {daily_brief}")
+        print(f"🔍 [DEBUG] Analityk zasugerował: '{suggested_cuisine}'")
         if new_insight: 
             print(f"💡 Nowy wniosek o użytkowniku: {new_insight}")
             self.history.setdefault("user_insights", []).append(new_insight)
 
         # 2. Wybór Kuchni
+        print(f"\n🎯 [DEBUG] Przekazuję '{suggested_cuisine}' do choose_cuisine()")
         cuisine = self.choose_cuisine(suggested_cuisine)
         print(f"🌍 Wybrana kuchnia na dziś: {cuisine}")
+        print(f"✅ [DEBUG] Ostateczna decyzja: {cuisine}")
 
         # 3. Badanie Trendów (Research)
         ideas_str = await self.research_trends(cuisine, daily_brief)
@@ -347,12 +361,6 @@ class RecipeCookerClient(discord.Client):
                     'dinner': {'dish_name': 'Sałatka', 'ingredients': [], 'steps': []}
                 }
 
-        print("💬 Pobieram historię czatu Discord...")
-        chat_history = []
-        async for message in channel.history(limit=10):
-            chat_history.append(f"{message.author.name}: {message.content}")
-        chat_history.reverse()
-
         print("🎉 Prezentuję wyniki na Discordzie!")
         sent_message, final_messages = await present_culinary_journey(
             channel=channel, 
@@ -364,7 +372,7 @@ class RecipeCookerClient(discord.Client):
             meal_plan=star_dish.get('meal_plan'), 
             history=self.history, 
             preferences={}, 
-            chat_history=chat_history
+            chat_history=chat_history_list
         )
 
         # Zapisz plan dnia do Markdown
