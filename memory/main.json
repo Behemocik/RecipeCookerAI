@@ -1,19 +1,20 @@
 {
     "last_cuisines": [
+        "Francuska (Bistro)",
         "USA (Cajun/Creole)",
         "Turecka (Kebab/Meze)",
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Europa",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1448406054085066848,
+        "message_id": 1448578070465347615,
         "options": [
-            "Kebab Cajun z Kurczaka",
-            "Krewetkowe Rollo Kebaby z Cajun Twistem",
-            "Kebab Creole z Frytkami"
+            "Kebab Francuski",
+            "Quiche Kebabowa",
+            "Soupe à L'Oignon Kebab - Wersja Bez Kiełbasy"
         ]
     }
 }

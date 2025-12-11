@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Francuski Kebab Bistro",
+                "opis": "Klasyczny kebab francuski z mięsem, serem i sałatką, podany w stylu bistro francuskim."
+            },
+            {
+                "nazwa": "Quiche Kebabowa",
+                "opis": "Kebabowa wersja klasycznego quiche, z mięsem, jajkami i serem, podana w formie kebabu."
+            },
+            {
+                "nazwa": "Soupe à L'Oignon Kebab",
+                "opis": "Kebabowa wersja francuskiej zupy cebulowej, z cebulą, mięsem i serem, podana w formie kebabu."
+            },
+            {
+                "nazwa": "Pierogi Kebabowe z Ciałem Francuskim",
+                "opis": "Pierogi kebabowe z ciastem francuskim, nadziane mięsem, serem i sałatką."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab Cajun z Kurczaka",
                 "opis": "Kebab z kurczaka w stylu cajun, z dodatkiem przypraw Cajun i smakami południowych Stanów Zjednoczonych."
             },
