@@ -1,20 +1,21 @@
 {
     "last_cuisines": [
+        "Libańska/Arabska",
         "Francuska (Bistro)",
         "USA (Cajun/Creole)",
         "Turecka (Kebab/Meze)",
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Europa",
-        "Ameryki"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1448578070465347615,
+        "message_id": 1448940149915390033,
         "options": [
-            "Kebab Francuski",
-            "Quiche Kebabowa",
-            "Soupe à L'Oignon Kebab - Wersja Bez Kiełbasy"
+            "Kebab z Kurczaka z Warzywami i Cynamonem",
+            "Dolma z Ryby i Sałatki (Libańskie Delikatesy)",
+            "Libańskie Falafelowe Wrap z Warzywami i Tofu"
         ]
     }
 }

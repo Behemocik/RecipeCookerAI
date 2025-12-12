@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab z Kurczaka z Warzywami i Cynamonem",
+                "opis": "Klasyczny kebab z kurczaka, warzywami i cynamonem, inspirowany kuchnią libańską."
+            },
+            {
+                "nazwa": "Dolma z Ryby i Sałatki",
+                "opis": "Zupa z ryby i sałatki, z dodatkiem kardamonu i grzanków, inspirowana kuchnią arabską."
+            },
+            {
+                "nazwa": "Falafelowe Wrap z Warzywami i Tofu",
+                "opis": "Falafelowe wrap z warzywami i tofu, z dodatkiem cynamonu i grzanków, inspirowane kuchnią libańską."
+            }
+        ],
+        [
+            {
                 "nazwa": "Francuski Kebab Bistro",
                 "opis": "Klasyczny kebab francuski z mięsem, serem i sałatką, podany w stylu bistro francuskim."
             },
