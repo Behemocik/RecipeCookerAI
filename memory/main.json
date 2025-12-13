@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Libańska/Arabska",
         "Francuska (Bistro)",
         "USA (Cajun/Creole)",
@@ -8,14 +9,14 @@
     ],
     "last_regions": [
         "Azja",
-        "Europa"
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1448940149915390033,
+        "message_id": 1449302092450627709,
         "options": [
-            "Kebab z Kurczaka z Warzywami i Cynamonem",
-            "Dolma z Ryby i Sałatki (Libańskie Delikatesy)",
-            "Libańskie Falafelowe Wrap z Warzywami i Tofu"
+            "Tureckie Kebaby z Warzywami i Cynamonem",
+            "Meze Tureckie z Jogurtem, Słonym Serem i Czosnkiem",
+            "Tureckie Ciasto z Warzywami i Tofu"
         ]
     }
 }
