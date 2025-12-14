@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
         "Libańska/Arabska",
@@ -9,15 +10,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1449664026488602685,
+        "message_id": 1449671651380691056,
         "options": [
-            "Kebab Warzywno-Orzechowy z NYC",
-            "Rosół z Makaronem Ryżowym i Kebabem Warzywno-Orzechowym (Gruzińska Wersja)",
-            "Calzone Kebab z Cebulą i Sosem Czosnkowym Modyfikowany"
+            "Dyniowe Kopytka z Kurkowym Sosem",
+            "Zupa Grzybowa z Ryżem - Smak Jesieni",
+            "Pomysłowe Pierogi Spiżarniane z Mięsem Wieprzowym i Śliwką"
         ]
     }
 }

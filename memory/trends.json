@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Dyniowe Kopytka z Kurkowym Sosem",
+                "opis": "Pomysłowa wersja kopytek z dynią, która idealnie wpisuje się w smaki jesieni. Dodatek kurkowego sosu dodaje głębi smaku i aromatu."
+            },
+            {
+                "nazwa": "Zupa Grzybowa z Ryżem",
+                "opis": "Prostszy i szybszy przepis na zupę grzybową, która jest doskonała na zimny wieczór. Ugotowany ryż dodaje pełności i smaku."
+            },
+            {
+                "nazwa": "Pierogi Spiżarniane z Mięsem Wieprzowym i Śliwką",
+                "opis": "Klasyczne połączenie smaków, które idealnie reprezentuje smaki jesieni i zimy. Dodatek suszonej śliwki dodaje słodycz i aromat."
+            },
+            {
+                "nazwa": "Keks Dyniowy z Sosem Kurkowym",
+                "opis": "Ciekawy przepis na keks dyniowy, który jest idealny na słodkie przekąski. Dodatek sosu kurkowego dodaje głębi smaku i aromatu."
+            },
+            {
+                "nazwa": "Smaki Jesieni: Pumpkin Spice Latte",
+                "opis": "Klasyczna wersja latte z dodatkiem pumpkin spice, która idealnie wpisuje się w smaki jesieni i zimy. Doskonały dla kawoszy."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab Warzywno-Orzechowy z NYC",
                 "opis": "Szybki i smaczny kebab z warzywami i orzechami, inspirowany przez kuchnię Nowego Jorku."
             },
