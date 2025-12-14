@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab Warzywno-Orzechowy z NYC",
+                "opis": "Szybki i smaczny kebab z warzywami i orzechami, inspirowany przez kuchnię Nowego Jorku."
+            },
+            {
+                "nazwa": "Rosół z Makaronem Ryżowym i Kebabem Warzywno-Orzechowym",
+                "opis": "Smaczny i pełnowartościowy obiad z rosółem z makaronem ryżowym i kebabem warzywno-orzechowym."
+            },
+            {
+                "nazwa": "Calzone Kebab z Cebulą i Sosem Czosnkowym",
+                "opis": "Smaczne i aromatyczne calzone kebab z cebulą i sosem czosnkowym."
+            },
+            {
+                "nazwa": "Kebab Warzywno-Orzechowy z Tofu",
+                "opis": "Szybki i smaczny kebab z warzywami i tofu, doskonały dla wegetarian."
+            },
+            {
+                "nazwa": "Ayranowe Smaczniki z Tureckim Kebabem i Warzywami",
+                "opis": "Smaczne smaczniki z ayranem, tureckim kebabe i warzywami, inspirowane przez turecką kuchnię."
+            }
+        ],
+        [
+            {
                 "nazwa": "Puree z Pomarańczy z Tureckim Ciastem",
                 "opis": "Smaczne ciasto z puree z pomarańczy i mozaiką z kruszonych orzechów, inspirowane przez turecką kuchnię."
             },

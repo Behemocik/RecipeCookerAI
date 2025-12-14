@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
         "Libańska/Arabska",
         "Francuska (Bistro)",
@@ -8,15 +9,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Azja",
+        "Ameryki",
         "Azja"
     ],
     "last_poll": {
-        "message_id": 1449302092450627709,
+        "message_id": 1449664026488602685,
         "options": [
-            "Tureckie Kebaby z Warzywami i Cynamonem",
-            "Meze Tureckie z Jogurtem, Słonym Serem i Czosnkiem",
-            "Tureckie Ciasto z Warzywami i Tofu"
+            "Kebab Warzywno-Orzechowy z NYC",
+            "Rosół z Makaronem Ryżowym i Kebabem Warzywno-Orzechowym (Gruzińska Wersja)",
+            "Calzone Kebab z Cebulą i Sosem Czosnkowym Modyfikowany"
         ]
     }
 }
