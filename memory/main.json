@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Koreańska (K-Drama Food)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
@@ -10,15 +11,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Azja",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1449671651380691056,
+        "message_id": 1450027749023416373,
         "options": [
-            "Dyniowe Kopytka z Kurkowym Sosem",
-            "Zupa Grzybowa z Ryżem - Smak Jesieni",
-            "Pomysłowe Pierogi Spiżarniane z Mięsem Wieprzowym i Śliwką"
+            "Kimchi Bulgogi z Owocową Sałatką",
+            "Koreański Falafel",
+            "Tajskie Kimchi z owocem ananasa"
         ]
     }
 }
