@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Węgierska (Papryka)",
         "Koreańska (K-Drama Food)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
@@ -11,15 +12,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Azja",
-        "Specjalne / Klimatyczne"
+        "Europa",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1450027749023416373,
+        "message_id": 1450389679621804075,
         "options": [
-            "Kimchi Bulgogi z Owocową Sałatką",
-            "Koreański Falafel",
-            "Tajskie Kimchi z owocem ananasa"
+            "Paprykowe Rogale Węgierskie z orzechami",
+            "Koreańskie Falafel z Papryką Węgierską",
+            "Węgierski Paprykarz z Ziemniakami"
         ]
     }
 }

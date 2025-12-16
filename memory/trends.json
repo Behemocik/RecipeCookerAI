@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Paprykowe Rogale",
+                "opis": "Węgierskie rogale z kulkami paprykowymi, dodatkami orzechów i migdałów, idealne na śniadanie lub podawane z kawą."
+            },
+            {
+                "nazwa": "Koreańskie Falafel z Papryką",
+                "opis": "Koreańsko-śródziemnomorskie połączenie, w której falafel z dodatkiem papryki i soju jest doskonałym rozwiązaniem dla tych, którzy poszukują smaku i koloru."
+            },
+            {
+                "nazwa": "Węgierski Paprykarz z Ziemniakami",
+                "opis": "Tętniący smakiem paprykarz z ziemniakami, gotowany w gęstym sosie z suszoną papryką, idealny do podania z chlebem lub makaronem."
+            },
+            {
+                "nazwa": "Paprykowe Kimchi",
+                "opis": "Łączenie węgierskiej papryki z koreańskim kimchi, dodając nietypowe smaki i tekstury, tworząc ciekawe połączenie smaków i aromatów."
+            },
+            {
+                "nazwa": "Węgierskie Bulgogi z Papryką",
+                "opis": "Węgierskie bulgogi z dodatkiem papryki i koreańskich smaków, tworząc kompleksowe i smaczne kolekcyjne danie, idealne do podania z ryżem lub makaronem."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kimchi Bulgogi",
                 "opis": "Łączenie tradycyjnego koreańskiego dania kimchi z popularną potrawą bulgogi, dodając nietypowe smaki i tekstury"
             },
