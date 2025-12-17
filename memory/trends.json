@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab Döner z Sosem Chili",
+                "opis": "Pikantny kebab z sosem chili, inspirowany tradycyjną turecką recepturą, oczarujący smakiem i aromatem"
+            },
+            {
+                "nazwa": "Pasta z Papryką i Fetą",
+                "opis": "Kremowa i lekko pikantna pasta z papryką i fetą, świetnie dostosowana do sezonu i smaków"
+            },
+            {
+                "nazwa": "Meze z Oliwkami i Czosnkiem",
+                "opis": "Pikantne meze z oliwkami, czosnkiem, ziołami i chili, idealne do podania jako przystawka lub aperitif"
+            },
+            {
+                "nazwa": "Kebab Doner z Sosem Jogurtowym",
+                "opis": "Pikantny kebab z sosem jogurtowym, inspirowany smaczkowym przepisem Karola Okrasy, doskonały dla tych, którzy lubią smaczne i oryginalne dania"
+            },
+            {
+                "nazwa": "Paprykowe Falafel z Tureckiej Kuchni",
+                "opis": "Pikantne falafel z dodatkiem papryki i tureckich smaków, idealne do podania z ryżem lub makaronem"
+            }
+        ],
+        [
+            {
                 "nazwa": "Paprykowe Rogale",
                 "opis": "Węgierskie rogale z kulkami paprykowymi, dodatkami orzechów i migdałów, idealne na śniadanie lub podawane z kawą."
             },
