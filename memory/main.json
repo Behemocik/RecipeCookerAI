@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Peruwiańska",
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
         "Koreańska (K-Drama Food)",
@@ -13,15 +14,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1450752102036013169,
+        "message_id": 1451114429214359677,
         "options": [
-            "Kebab Döner z Sosem Chili (Wegetariańska wersja)",
-            "Bakłażana Kebap Pasta",
-            "Turkuski Meze z Oliwkami i Czosnkiem"
+            "Ryba z Warzywami w Tureckim Ryżu z Piekarnika",
+            "Turecko-Peruwiańska Kebab z Sosem Chili i Jogurtowym",
+            "Paprykowe Falafel z Tureckim Ryżem i Tatarskim Sosem"
         ]
     }
 }

@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ryba z Warzywami w Tureckim Ryżu z Piekarnika",
+                "opis": "Smaczny i łatwy do przygotowania przepis na rybę z warzywami, serwowany z tureckim ryżem i pieczonym w piekarniku."
+            },
+            {
+                "nazwa": "Turecko-Peruwiańska Kebab z Sosem Chili i Jogurtowym",
+                "opis": "Unikalny kebab inspirowany tradycyjną turecką recepturą i peruwiańskimi smakami, smacznie łączący pikantność sosu chili z delikatnością sosu jogurtowego."
+            },
+            {
+                "nazwa": "Paprykowe Falafel z Tureckim Ryżem i Tatarskim Sosem",
+                "opis": "Pikantne falafel z dodatkiem papryki i tureckich smaków, doskonałe do podania z tureckim ryżem i tatarskim sosem, idealnym dodatkiem do przystawki lub aperitifa."
+            },
+            {
+                "nazwa": "Peruwiańska Salsa z Tureckimi Smakami i Ryżem",
+                "opis": "Kremowa i pikantna salsa inspirowana peruwiańską kuchnią, łącząca smaki tureckie z delikatnością ryżu i dodatkiem czosnku i papryki."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab Döner z Sosem Chili",
                 "opis": "Pikantny kebab z sosem chili, inspirowany tradycyjną turecką recepturą, oczarujący smakiem i aromatem"
             },
