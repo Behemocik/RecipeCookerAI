@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Ukraińska (Wareniki/Barszcz)",
         "Peruwiańska",
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
@@ -14,15 +15,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Europa",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1451114429214359677,
+        "message_id": 1451476714948661389,
         "options": [
-            "Ryba z Warzywami w Tureckim Ryżu z Piekarnika",
-            "Turecko-Peruwiańska Kebab z Sosem Chili i Jogurtowym",
-            "Paprykowe Falafel z Tureckim Ryżem i Tatarskim Sosem"
+            "Wareniki z kiełbasą i szpinakiem ukraińskie",
+            "Barszcz Ukraiński z kiełbasą i szpinakiem",
+            "Kiełbasa i szpinak z zdrowym ukraińskim ryżem"
         ]
     }
 }
