@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Indyjska (Curry House)",
         "Ukraińska (Wareniki/Barszcz)",
         "Peruwiańska",
         "Turecka (Kebab/Meze)",
@@ -15,15 +16,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Europa",
-        "Ameryki"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1451476714948661389,
+        "message_id": 1451838195565203541,
         "options": [
-            "Wareniki z kiełbasą i szpinakiem ukraińskie",
-            "Barszcz Ukraiński z kiełbasą i szpinakiem",
-            "Kiełbasa i szpinak z zdrowym ukraińskim ryżem"
+            "Curry z szpinakiem i grillowanymi kiełbasami",
+            "Sałatka z tureckimi kiełbasami i szpinakiem w warkoczyku z indyjskim oddechem",
+            "Turecki Curry z Bakłażanem i Kiełbasą"
         ]
     }
 }
