@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (Southern BBQ)",
         "Indyjska (Curry House)",
         "Ukraińska (Wareniki/Barszcz)",
         "Peruwiańska",
@@ -16,15 +17,15 @@
         "Gruzińska (Supra)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1451838195565203541,
+        "message_id": 1452200848321937441,
         "options": [
-            "Curry z szpinakiem i grillowanymi kiełbasami",
-            "Sałatka z tureckimi kiełbasami i szpinakiem w warkoczyku z indyjskim oddechem",
-            "Turecki Curry z Bakłażanem i Kiełbasą"
+            "BBQ Pulled Pork z Kukurydzą i Szpinakiem",
+            "Kiełbasa z Kiełbasą i Szpinakiem w Warkoczyku z Currym - Southern BBQ",
+            "Turecki BBQ z Bakłażanem i Kiełbasą"
         ]
     }
 }

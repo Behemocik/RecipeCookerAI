@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "BBQ Pulled Pork z Kukurydzą i Szpinakiem",
+                "opis": "Pyszne BBQ z mięsem wieprzowym oraz dodatkiem kukurydzy i szpinaku, idealne dla tych, którzy szukają smacznego i łatwego dania."
+            },
+            {
+                "nazwa": "Kiełbasa z Kiełbasą i Szpinakiem w Warkoczyku z Currym",
+                "opis": "Wypróbuj tę smaczną i kolorową sałatkę z kiełbasą, szpinakiem i warkoczykiem z curry, idealną na pikniki i imprezy!"
+            },
+            {
+                "nazwa": "Turecki BBQ z Bakłażanem i Kiełbasą",
+                "opis": "Ciesz się wybuchową mieszanką smaków w tym tureckim BBQ z bakłażanem, kiełbasą i curry, idealnym dla tych, którzy szukają nowych smaków."
+            },
+            {
+                "nazwa": "Kiełbasa i Szpinak z Currym w Warkoczyku",
+                "opis": "Smaczną i zdrową sałatkę z kiełbasą, szpinakiem i curry w warkoczyku, idealną na szybkie kolacje i lunchy."
+            }
+        ],
+        [
+            {
                 "nazwa": "Curry z szpinakiem i grillowanymi kiełbasami",
                 "opis": "Podawaj to pyszne curry z szpinakiem i grillowanymi kiełbasami wraz z kulkami ryżu lub ziemniakami. Idealne dla tych, którzy szukają łatwego i smacznego dania."
             },
