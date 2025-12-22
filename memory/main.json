@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "USA (Southern BBQ)",
         "Indyjska (Curry House)",
         "Ukraińska (Wareniki/Barszcz)",
@@ -13,19 +14,18 @@
         "Libańska/Arabska",
         "Francuska (Bistro)",
         "USA (Cajun/Creole)",
-        "Turecka (Kebab/Meze)",
-        "Gruzińska (Supra)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1452200848321937441,
+        "message_id": 1452564431128236063,
         "options": [
-            "BBQ Pulled Pork z Kukurydzą i Szpinakiem",
-            "Kiełbasa z Kiełbasą i Szpinakiem w Warkoczyku z Currym - Southern BBQ",
-            "Turecki BBQ z Bakłażanem i Kiełbasą"
+            "Turecki Döner Kebab z Jogurtem i Czosnkiem",
+            "Meze z Grzybami, Fasolką i Czosnkiem",
+            "Grilowane Warzywa z Sosem Jogurtowo-Czosnkowym"
         ]
     }
 }

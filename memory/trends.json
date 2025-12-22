@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Döner Kebab z Jogurtem i Czosnkiem",
+                "opis": "Tradycyjny turecki kebab z mielonej wołowiną lub jagnięciny, podawany z jogurtem i czosnkiem, idealny na szybkie lunchy i kolacje."
+            },
+            {
+                "nazwa": "Meze z Grzybami, Fasolką i Czosnkiem",
+                "opis": "Tureckie przystawki z grzybami, fasolką i czosnkiem, idealne do podania z chlebem pide lub jako dodatek do danego"
+            },
+            {
+                "nazwa": "Grilowane Warzywa z Sosem Jogurtowo-Czosnkowym",
+                "opis": "Szybka i smaczna potrawa, w której grilowane warzywa są podawane z jogurtem i czosnkiem, idealna na letnie dni"
+            },
+            {
+                "nazwa": "Beyti z Jagnięciny i Sosem Pomidorowym",
+                "opis": "Tureckie danie z jagnięcyną, zawiniętą w lawasz, polaną sosem pomidorowym i podawaną z jogurtem, idealne na szybkie kolacje"
+            },
+            {
+                "nazwa": "Chleb Pide z Czosnkiem i Papryką",
+                "opis": "Tradycyjny turecki chleb pide, podawany z czosnkiem i papryką, idealny do smarowania kebabem lub jako dodatek do śniadania"
+            }
+        ],
+        [
+            {
                 "nazwa": "BBQ Pulled Pork z Kukurydzą i Szpinakiem",
                 "opis": "Pyszne BBQ z mięsem wieprzowym oraz dodatkiem kukurydzy i szpinaku, idealne dla tych, którzy szukają smacznego i łatwego dania."
             },
