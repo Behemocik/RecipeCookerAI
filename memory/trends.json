@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Sałatka Grecka z Kiełkami Rzodkiewki",
+                "opis": "Nowa wersja klasycznej sałatki greckiej, z dodaniem kiełków rzodkiewki, które dodają niezwykły smak i teksturę."
+            },
+            {
+                "nazwa": "Feta z Owosem Morza i Warzywami",
+                "opis": "Lekka i orzeźwiająca potrawa, łącząca w sobie soczyste owoce morza, chrupiące warzywa oraz aromatyczny ser feta."
+            },
+            {
+                "nazwa": "Sałatka Wiosenna z Roszponką i Kukurydzą",
+                "opis": "Nowa wersja sałatki wiosennej, z dodaniem roszponki i kukurydzy, która dodaje smaku i koloru."
+            }
+        ],
+        [
+            {
                 "nazwa": "Döner Kebab z Jogurtem i Czosnkiem",
                 "opis": "Tradycyjny turecki kebab z mielonej wołowiną lub jagnięciny, podawany z jogurtem i czosnkiem, idealny na szybkie lunchy i kolacje."
             },
