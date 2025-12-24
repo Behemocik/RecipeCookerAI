@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Meksykańska (Cantina)",
         "Grecka (Tawerna)",
         "Turecka (Kebab/Meze)",
         "USA (Southern BBQ)",
@@ -13,19 +14,18 @@
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
         "Libańska/Arabska",
-        "Francuska (Bistro)",
-        "USA (Cajun/Creole)"
+        "Francuska (Bistro)"
     ],
     "last_regions": [
-        "Europa",
-        "Azja"
+        "Ameryki",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1452926880863752273,
+        "message_id": 1453289052425027735,
         "options": [
-            "Sałatka Grecka z Kiełkami Rzodkiewki z Fasolką i Awokado",
-            "Pomidorowa Feta z Owosem Morza i Warzywami",
-            "Sałatka Wiosenna z Roszponką i Kukurydzą"
+            "Zupa Kukurydziana z Jogurtem i Czosnkiem (Cantina)",
+            "Fiesta Warzyw z Jogurtowo-Czosnkowym Sosem",
+            "Paszteciki kukurydziane z jogurtem i czosnkiem - Cantina style"
         ]
     }
 }

@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Zupa Kukurydziana z Jogurtem i Czosnkiem",
+                "opis": "Klasyczna zupa kukurydziana z dodatkiem jogurtu i czosnku, nadającym jej orzeźwiający smak i chrupiącą teksturę."
+            },
+            {
+                "nazwa": "Grillowane Warzywa z Jogurtowo-Czosnkowym Sosem",
+                "opis": "Smaczne grillowane warzywa w sosie jogurtowo-czosnkowym, perfekcyjne do podania na ciepło lub na zimno."
+            },
+            {
+                "nazwa": "Paszteciki Kukurydziane z Jogurtem i Czosnkiem",
+                "opis": "Kukurydziane paszteciki z jogurtem i czosnkiem, idealne dla tych, którzy szukają zdrowych i smacznego dania."
+            },
+            {
+                "nazwa": "Sałatka Meksykańska z Jogurtem, Czosnkiem i Kukurydzą",
+                "opis": "Ładna sałatka meksykańska z jogurtem, czosnkiem i kukurydzą, łącząca w sobie smaki i kolorystykę południowej Ameryki."
+            },
+            {
+                "nazwa": "Zimne Naleśniki z Jogurtem, Czosnkiem i Kukurydzą",
+                "opis": "Ciekawe naleśniki z jogurtem, czosnkiem i kukurydzą, które sprawią, że Twoje posiłki będą jeszcze bardziej aromatyczne i smaczne."
+            }
+        ],
+        [
+            {
                 "nazwa": "Sałatka Grecka z Kiełkami Rzodkiewki",
                 "opis": "Nowa wersja klasycznej sałatki greckiej, z dodaniem kiełków rzodkiewki, które dodają niezwykły smak i teksturę."
             },
