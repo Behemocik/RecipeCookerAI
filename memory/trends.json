@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Bánh Xèo - Wietnamskie Pancakes z Ogórkami i Herbatą",
+                "opis": "Klasyczne wietnamskie paniki z ogórkami i herbatą, które sprawią, że Twoje posiłki będą jeszcze bardziej aromatyczne i smaczne."
+            },
+            {
+                "nazwa": "Gỏi Cuốn - Wietnamskie Kanapki z Nawozem i Ogórkami",
+                "opis": "Smaczne wietnamskie kanapki z nawozem i ogórkami, które są idealne dla tych, którzy szukają zdrowych i smacznego dania."
+            },
+            {
+                "nazwa": "Phở - Wietnamska Zupa z Nasionami Kokosowymi i Ogórkami",
+                "opis": "Klasyczna wietnamska zupa z nasionami kokosowymi i ogórkami, która jest idealna dla tych, którzy szukają smacznego i orzeźwiającego posiłku."
+            }
+        ],
+        [
+            {
                 "nazwa": "Zupa Kukurydziana z Jogurtem i Czosnkiem",
                 "opis": "Klasyczna zupa kukurydziana z dodatkiem jogurtu i czosnku, nadającym jej orzeźwiający smak i chrupiącą teksturę."
             },

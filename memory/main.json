@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Wietnamska (Street Food)",
         "Meksykańska (Cantina)",
         "Grecka (Tawerna)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
-        "Libańska/Arabska",
-        "Francuska (Bistro)"
+        "Libańska/Arabska"
     ],
     "last_regions": [
-        "Ameryki",
-        "Europa"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1453289052425027735,
+        "message_id": 1453651071124771041,
         "options": [
-            "Zupa Kukurydziana z Jogurtem i Czosnkiem (Cantina)",
-            "Fiesta Warzyw z Jogurtowo-Czosnkowym Sosem",
-            "Paszteciki kukurydziane z jogurtem i czosnkiem - Cantina style"
+            "Bánh Xèo - Wietnamskie Pancakes z Ogórkami i Herbatą",
+            "Gỏi Cuốn - Wietnamskie Kanapki z Nawozem i Ogórkami",
+            "Phở z Nasionami Kokosowymi i Ogórkami"
         ]
     }
 }
