@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Wietnamska (Street Food)",
         "Meksykańska (Cantina)",
         "Grecka (Tawerna)",
@@ -13,19 +14,18 @@
         "Koreańska (K-Drama Food)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
-        "Turecka (Kebab/Meze)",
-        "Libańska/Arabska"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
         "Azja",
-        "Ameryki"
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1453651071124771041,
+        "message_id": 1454013394473582735,
         "options": [
-            "Bánh Xèo - Wietnamskie Pancakes z Ogórkami i Herbatą",
-            "Gỏi Cuốn - Wietnamskie Kanapki z Nawozem i Ogórkami",
-            "Phở z Nasionami Kokosowymi i Ogórkami"
+            "Kebab Adana z Sałatką z Owoców i Warzyw",
+            "Turkijskie Meze",
+            "Turkusowy Döner Kebab"
         ]
     }
 }
