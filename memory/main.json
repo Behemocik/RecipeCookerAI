@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
         "Wietnamska (Street Food)",
         "Meksykańska (Cantina)",
@@ -13,19 +14,18 @@
         "Węgierska (Papryka)",
         "Koreańska (K-Drama Food)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
-        "USA (NYC Style)",
-        "Turecka (Kebab/Meze)"
+        "USA (NYC Style)"
     ],
     "last_regions": [
-        "Azja",
+        "Specjalne / Klimatyczne",
         "Azja"
     ],
     "last_poll": {
-        "message_id": 1454013394473582735,
+        "message_id": 1454738216719618130,
         "options": [
-            "Kebab Adana z Sałatką z Owoców i Warzyw",
-            "Turkijskie Meze",
-            "Turkusowy Döner Kebab"
+            "Doner Kebab z Halloumi - Wegetariańska wersja",
+            "Lahmacun z Ciecierzycą",
+            "Warzywne Pide z Bakłażanem i Cukinią"
         ]
     }
 }

@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tureckie Doner Kebab z Halloumi",
+                "opis": "Smaczne i ciekawe połączenie tureckiego doner kebaba z grillowanym halloumi, idealne dla wegetarian."
+            },
+            {
+                "nazwa": "Lahmacun z Ciecierzycą",
+                "opis": "Tanie i sycące tureckie danie, idealne dla tych, którzy szukają szybkich i łatwych posiłków."
+            },
+            {
+                "nazwa": "Warzywne Pide z Bakłażanem i Cukinią",
+                "opis": "Tradycyjne przepisy tureckie na warzywne pide, które zmieniają swoim smakiem i aromatem Twoje codzienne posiłki."
+            },
+            {
+                "nazwa": "Tureckie Wraps z Miksem Pieczonych Warzyw",
+                "opis": "Ciekawe połączenie tureckich tradycji kulinarnych z wegetariańskimi składnikami, idealne dla tych, którzy szukają zdrowych i smacznego posiłku."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab Adana",
                 "opis": "Tańsze, smaczniejsze i proste do przygotowania tureckie danie, idealne dla tych, którzy szukają szybkich i łatwych posiłków."
             },
@@ -364,24 +382,6 @@
             {
                 "nazwa": "Börülce Çorbası - Zupa z Zielonej Soczewicy",
                 "opis": "Tradycyjna turecka zupa z zielonej soczewicy, idealna jako wegański przepis na szybki i smaczny obiad."
-            }
-        ],
-        [
-            {
-                "nazwa": "Chinkali Gruzińskie",
-                "opis": "Pierścieniowe pierogi z mięsa mielonego, smażone z dodatkiem przypraw i ziół, idealne jako danie samodzielne lub dodatek do kolacji."
-            },
-            {
-                "nazwa": "Hummus z Marchewki",
-                "opis": "Smaczny i zdrowy przepis na hummus z gotowanej na parze marchwi, idealny jako przekąska lub dodatek do dania głównego."
-            },
-            {
-                "nazwa": "Supra Gruzińska",
-                "opis": "Kolacja składająca się z różnych dania, w tym chinkali, hummusu i innych potraw, idealna jako okazja do spotkania z rodziną i przyjaciółmi."
-            },
-            {
-                "nazwa": "Pizza Gruzińska",
-                "opis": "Szybka i pyszna wersja domowej pizzy z dodatkiem gruzińskich przypraw i składników, idealna jako przekąska lub danie główne."
             }
         ]
     ]
