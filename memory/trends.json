@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Prowansalski Baton z Migdałami i Miodem",
+                "opis": "Specjalność regionu Prowansji - cienki, chrupiący baton z migdałami i miodem, idealny na przekąskę lub podawany na śniadanie."
+            },
+            {
+                "nazwa": "Francuskie Naleśniki z Mąki Gryczanej",
+                "opis": "Lekkie i smaczne francuskie naleśniki z mąki gryczanej, idealne na obiad lub do lunchboxa."
+            },
+            {
+                "nazwa": "Warzywne Pide z Bakłażanem i Cukinią",
+                "opis": "Twórcze połączenie francuskich smaków z turecką tradycją kulinarną - chrupiące i smaczne warzywne pide z bakłażanem i cukinią."
+            },
+            {
+                "nazwa": "Winegret z Musztardą Francuską",
+                "opis": "Szybkie i łatwe do przygotowania danie z francuską musztardą, idealne na przekąskę lub do chleba."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tureckie Doner Kebab z Halloumi",
                 "opis": "Smaczne i ciekawe połączenie tureckiego doner kebaba z grillowanym halloumi, idealne dla wegetarian."
             },
@@ -360,28 +378,6 @@
             {
                 "nazwa": "Szybki Kebab Creole z Frytkami",
                 "opis": "Kebab szybki i smaczny, z frytkami i przyprawami w stylu creole, idealny jako danie główne lub dodatek do kolacji."
-            }
-        ],
-        [
-            {
-                "nazwa": "Soczewicza Turecka z Czerwonej Soczewicy",
-                "opis": "Tradycyjna turecka potrawa z czerwonej soczewicy, idealna jako szybki i smaczny wegański przepis."
-            },
-            {
-                "nazwa": "Wegański Kebab z Soi i Seitanu",
-                "opis": "Szybki i tanio przygotowywalny wegański kebab z soi i seitanu, idealny jako fast food."
-            },
-            {
-                "nazwa": "Torte Salate - Słone Ciasto",
-                "opis": "Dania wegetariańskie, proste, tanie, zdrowe i szybkie w przygotowaniu, idealne jako przekąska lub dodatek do dania głównego."
-            },
-            {
-                "nazwa": "Chora Bademjan - Pieczony Warzywny Kebab",
-                "opis": "Turecki przepis na kebab z pieczonymi warzywami i przyprawami, idealny jako danie główne lub dodatek do kolacji."
-            },
-            {
-                "nazwa": "Börülce Çorbası - Zupa z Zielonej Soczewicy",
-                "opis": "Tradycyjna turecka zupa z zielonej soczewicy, idealna jako wegański przepis na szybki i smaczny obiad."
             }
         ]
     ]

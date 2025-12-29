@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Francuska (Prowansalska)",
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
         "Wietnamska (Street Food)",
@@ -13,18 +14,17 @@
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
         "Koreańska (K-Drama Food)",
-        "Smak Jesieni (Dyniowe/Grzybowe)",
-        "USA (NYC Style)"
+        "Smak Jesieni (Dyniowe/Grzybowe)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Azja"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1454738216719618130,
+        "message_id": 1455101668554309716,
         "options": [
-            "Doner Kebab z Halloumi - Wegetariańska wersja",
-            "Lahmacun z Ciecierzycą",
+            "Prowansalski Baton z Migdałami i Miodem",
+            "Gryczane Naleśniki z Mąki Gryczanej - Francuska Wersja",
             "Warzywne Pide z Bakłażanem i Cukinią"
         ]
     }
