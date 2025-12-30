@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Peruwiańska",
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
-        "Koreańska (K-Drama Food)",
-        "Smak Jesieni (Dyniowe/Grzybowe)"
+        "Koreańska (K-Drama Food)"
     ],
     "last_regions": [
-        "Europa",
-        "Specjalne / Klimatyczne"
+        "Ameryki",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1455101668554309716,
+        "message_id": 1455463333959438429,
         "options": [
-            "Prowansalski Baton z Migdałami i Miodem",
-            "Gryczane Naleśniki z Mąki Gryczanej - Francuska Wersja",
-            "Warzywne Pide z Bakłażanem i Cukinią"
+            "Krewetki Creole z Zieloną Papryką",
+            "Furajedzenia Cajun z zielonymi warzywami i owocami",
+            "Cajun-Inspirokane Warzywne Pide z Bakłażanem i Cukinią"
         ]
     }
 }

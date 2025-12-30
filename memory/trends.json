@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Krewetki Creole z Zieloną Papryką",
+                "opis": "Łatwy i zdrowy przepis na krewetki Creole z dodatkiem zielonej papryki, idealny na obiad lub do lunchboxa."
+            },
+            {
+                "nazwa": "Furajedzenia z Cajun Seasoning",
+                "opis": "Proste i smaczne furajedzenia z Cajun Seasoning, idealne na przekąskę lub do chleba."
+            },
+            {
+                "nazwa": "Tureckie-Inspirokane Warzywne Pide z Bakłażanem i Cukinią",
+                "opis": "Twórcze połączenie francuskich smaków z turecką tradycją kulinarną - chrupiące i smaczne warzywne pide z bakłażanem i cukinią."
+            },
+            {
+                "nazwa": "Zdrowe Frittate z Warzywami",
+                "opis": "Czytelny i smaczny przepis na zdrowe frittate z warzywami, idealne na obiad lub do lunchboxa."
+            }
+        ],
+        [
+            {
                 "nazwa": "Prowansalski Baton z Migdałami i Miodem",
                 "opis": "Specjalność regionu Prowansji - cienki, chrupiący baton z migdałami i miodem, idealny na przekąskę lub podawany na śniadanie."
             },
@@ -364,20 +382,6 @@
             {
                 "nazwa": "Pierogi Kebabowe z Ciałem Francuskim",
                 "opis": "Pierogi kebabowe z ciastem francuskim, nadziane mięsem, serem i sałatką."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab Cajun z Kurczaka",
-                "opis": "Kebab z kurczaka w stylu cajun, z dodatkiem przypraw Cajun i smakami południowych Stanów Zjednoczonych."
-            },
-            {
-                "nazwa": "Rollo Kebab z Krewetkami",
-                "opis": "Kebab z krewetkami, kapustą pekińską i kapustą białą, z przyprawami i sosami w stylu amerykańskiego południa."
-            },
-            {
-                "nazwa": "Szybki Kebab Creole z Frytkami",
-                "opis": "Kebab szybki i smaczny, z frytkami i przyprawami w stylu creole, idealny jako danie główne lub dodatek do kolacji."
             }
         ]
     ]
