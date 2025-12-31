@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ramy z Kurczakiem i Szpinakiem w Sosie Kokosowym",
+                "opis": "Klasyczne japońskie danie z kurczakiem i szpinakiem w smacznym sosie kokosowym."
+            },
+            {
+                "nazwa": "Tamagoyaki z Kurczakiem i Zielonym Pieprzem",
+                "opis": "Japoński omlet z kurczakiem, zielonym pieprzem i innymi smacznymi składnikami."
+            },
+            {
+                "nazwa": "Hourensou Goma-Ae z Kurczakiem i Szpinakiem",
+                "opis": "Klasyczne japońskie danie z kurczakiem i szpinakiem w sosie sezamowym."
+            },
+            {
+                "nazwa": "Gyoza z Kurczakiem i Zielonym Pieprzem",
+                "opis": "Małe, japońskie pierożki z kurczakiem, zielonym pieprzem i innymi smacznymi składnikami."
+            },
+            {
+                "nazwa": "Ryż z Mleczkiem Kokosowym i Kurczakiem",
+                "opis": "Smaczny, gotowany ryż z mleczkiem kokosowym i kurczakiem."
+            }
+        ],
+        [
+            {
                 "nazwa": "Krewetki Creole z Zieloną Papryką",
                 "opis": "Łatwy i zdrowy przepis na krewetki Creole z dodatkiem zielonej papryki, idealny na obiad lub do lunchboxa."
             },
@@ -364,24 +386,6 @@
             {
                 "nazwa": "Falafelowe Wrap z Warzywami i Tofu",
                 "opis": "Falafelowe wrap z warzywami i tofu, z dodatkiem cynamonu i grzanków, inspirowane kuchnią libańską."
-            }
-        ],
-        [
-            {
-                "nazwa": "Francuski Kebab Bistro",
-                "opis": "Klasyczny kebab francuski z mięsem, serem i sałatką, podany w stylu bistro francuskim."
-            },
-            {
-                "nazwa": "Quiche Kebabowa",
-                "opis": "Kebabowa wersja klasycznego quiche, z mięsem, jajkami i serem, podana w formie kebabu."
-            },
-            {
-                "nazwa": "Soupe à L'Oignon Kebab",
-                "opis": "Kebabowa wersja francuskiej zupy cebulowej, z cebulą, mięsem i serem, podana w formie kebabu."
-            },
-            {
-                "nazwa": "Pierogi Kebabowe z Ciałem Francuskim",
-                "opis": "Pierogi kebabowe z ciastem francuskim, nadziane mięsem, serem i sałatką."
             }
         ]
     ]

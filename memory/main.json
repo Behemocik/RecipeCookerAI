@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Japońska (Ramen Shop)",
         "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "Ukraińska (Wareniki/Barszcz)",
         "Peruwiańska",
         "Turecka (Kebab/Meze)",
-        "Węgierska (Papryka)",
-        "Koreańska (K-Drama Food)"
+        "Węgierska (Papryka)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Europa"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1455463333959438429,
+        "message_id": 1455826002969362525,
         "options": [
-            "Krewetki Creole z Zieloną Papryką",
-            "Furajedzenia Cajun z zielonymi warzywami i owocami",
-            "Cajun-Inspirokane Warzywne Pide z Bakłażanem i Cukinią"
+            "Ramy z Kurczakiem i Szpinakiem w Sosie Kokosowym",
+            "Tamagoyaki z Kurczakiem i Zielonym Pieprzem",
+            "Hourensou Goma-Ae z Kurczakiem i Szpinakiem"
         ]
     }
 }
