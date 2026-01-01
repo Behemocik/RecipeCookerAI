@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Smak Jesieni (Dyniowe/Grzybowe)",
         "Japońska (Ramen Shop)",
         "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
@@ -13,19 +14,18 @@
         "Indyjska (Curry House)",
         "Ukraińska (Wareniki/Barszcz)",
         "Peruwiańska",
-        "Turecka (Kebab/Meze)",
-        "Węgierska (Papryka)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Azja",
-        "Ameryki"
+        "Specjalne / Klimatyczne",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1455826002969362525,
+        "message_id": 1456188292931387453,
         "options": [
-            "Ramy z Kurczakiem i Szpinakiem w Sosie Kokosowym",
-            "Tamagoyaki z Kurczakiem i Zielonym Pieprzem",
-            "Hourensou Goma-Ae z Kurczakiem i Szpinakiem"
+            "Dyniowy Gulasz z Grzybami i Płatkami Pieprzowymi",
+            "Smażone Warzywa z Sosem Charmoula",
+            "Dyniowe Makarony z Warzywami i Grzybami"
         ]
     }
 }

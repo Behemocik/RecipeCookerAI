@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Dyniowy Gulasz z Grzybami",
+                "opis": "Klasyczne jesienny przepis na gulasz z dyni i grzybami, idealny na zimne wieczory."
+            },
+            {
+                "nazwa": "Smażone Warzywa z Sosem Charmoula",
+                "opis": "Smażone warzywa w połączeniu z sosem charmoula z kolendry, dodatkiem suszonych grzybów i smażonej cebulki."
+            },
+            {
+                "nazwa": "Dyniowe Makarony z Warzywami",
+                "opis": "Smaczne makarony z dynią i warzywami, idealne jako główne danie na imprezę jesiennej."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ramy z Kurczakiem i Szpinakiem w Sosie Kokosowym",
                 "opis": "Klasyczne japońskie danie z kurczakiem i szpinakiem w smacznym sosie kokosowym."
             },
@@ -372,20 +386,6 @@
             {
                 "nazwa": "Ayranowe Smaczniki z Tureckim Kebabem",
                 "opis": "Smaczne smaczniki z ayranem i tureckim kebabe, inspirowane przez turecką kuchnię."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab z Kurczaka z Warzywami i Cynamonem",
-                "opis": "Klasyczny kebab z kurczaka, warzywami i cynamonem, inspirowany kuchnią libańską."
-            },
-            {
-                "nazwa": "Dolma z Ryby i Sałatki",
-                "opis": "Zupa z ryby i sałatki, z dodatkiem kardamonu i grzanków, inspirowana kuchnią arabską."
-            },
-            {
-                "nazwa": "Falafelowe Wrap z Warzywami i Tofu",
-                "opis": "Falafelowe wrap z warzywami i tofu, z dodatkiem cynamonu i grzanków, inspirowane kuchnią libańską."
             }
         ]
     ]
