@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tacos z Mieloną Soczewicą",
+                "opis": "Szybkie i tanie wegetariańskie danie Meksykańskie, idealne na imprezę, z soczewicą oraz kukurydzianą tortillą."
+            },
+            {
+                "nazwa": "Wegetariańskie Kaszotto po Meksykańsku",
+                "opis": "Szybkie i zdrowe danie, idealne na obiad, z kasztanowym mielonych warzywami i słodzonymi składnikami."
+            },
+            {
+                "nazwa": "Salsa-Shop Tex-Mex Zesty Quesadillas",
+                "opis": "Zapiekane quesadillas z zesłonymi składnikami i wypełnione salsą, idealne dla miłośników Tex-Mex."
+            }
+        ],
+        [
+            {
                 "nazwa": "Dyniowy Gulasz z Grzybami",
                 "opis": "Klasyczne jesienny przepis na gulasz z dyni i grzybami, idealny na zimne wieczory."
             },
@@ -364,28 +378,6 @@
             {
                 "nazwa": "Ayranowe Smaczniki z Tureckim Kebabem i Warzywami",
                 "opis": "Smaczne smaczniki z ayranem, tureckim kebabe i warzywami, inspirowane przez turecką kuchnię."
-            }
-        ],
-        [
-            {
-                "nazwa": "Puree z Pomarańczy z Tureckim Ciastem",
-                "opis": "Smaczne ciasto z puree z pomarańczy i mozaiką z kruszonych orzechów, inspirowane przez turecką kuchnię."
-            },
-            {
-                "nazwa": "Tureckie Kebaby z Warzywami i Cynamonem (wegetariańskie)",
-                "opis": "Klasyczne kebaby z warzywami i cynamonem, bez mięsa, inspirowane kuchnią turecką."
-            },
-            {
-                "nazwa": "Meze Tureckie z Jogurtem, Słonym Serem i Czosnkiem",
-                "opis": "Smaczne meze z jogurtem, słonym serem, czosnkiem i przyprawami, inspirowane przez turecką kuchnię."
-            },
-            {
-                "nazwa": "Tureckie Ciasto z Warzywami i Tofu",
-                "opis": "Smaczne ciasto z warzywami i tofu, inspirowane przez turecką kuchnię i kuchnię libańską."
-            },
-            {
-                "nazwa": "Ayranowe Smaczniki z Tureckim Kebabem",
-                "opis": "Smaczne smaczniki z ayranem i tureckim kebabe, inspirowane przez turecką kuchnię."
             }
         ]
     ]

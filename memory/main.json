@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Meksykańska (Tex-Mex)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Japońska (Ramen Shop)",
         "USA (Cajun/Creole)",
@@ -13,19 +14,18 @@
         "USA (Southern BBQ)",
         "Indyjska (Curry House)",
         "Ukraińska (Wareniki/Barszcz)",
-        "Peruwiańska",
-        "Turecka (Kebab/Meze)"
+        "Peruwiańska"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Azja"
+        "Ameryki",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1456188292931387453,
+        "message_id": 1456550826834395146,
         "options": [
-            "Dyniowy Gulasz z Grzybami i Płatkami Pieprzowymi",
-            "Smażone Warzywa z Sosem Charmoula",
-            "Dyniowe Makarony z Warzywami i Grzybami"
+            "Tacos z Mieloną Soczewicą i Smacznym Guacamolem",
+            "Kaszotto Meksykańskie",
+            "Zesty Quesadillas"
         ]
     }
 }
