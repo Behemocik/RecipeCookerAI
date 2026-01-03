@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Babi Kecap - Indonezyjskie Wegetariańskie Danie z Bali",
+                "opis": "Pyszne i tanie wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Babi Kecap."
+            },
+            {
+                "nazwa": "Indonezyjski Pad Thai z Warzywną Miską",
+                "opis": "Szybkie i aromatyczne wegetariańskie danie z orientalną nutą, polegające na szybkim przygotowaniu Pad Thai z dodatkami warzyw w misce."
+            },
+            {
+                "nazwa": "Rendang - Indonezyjskie Wegetariańskie Danie z Bali",
+                "opis": "Pyszne i smaczne wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Rendang."
+            },
+            {
+                "nazwa": "Indonezyjskie Fritters z Warzywną Sosą",
+                "opis": "Lekkie i tanie wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - warzywna sos."
+            },
+            {
+                "nazwa": "Bali Roti z Wegetariańską Fasolą",
+                "opis": "Pyszne i smaczne wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Bali Roti z fasolą."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tacos z Mieloną Soczewicą",
                 "opis": "Szybkie i tanie wegetariańskie danie Meksykańskie, idealne na imprezę, z soczewicą oraz kukurydzianą tortillą."
             },
@@ -356,28 +378,6 @@
             {
                 "nazwa": "Smaki Jesieni: Pumpkin Spice Latte",
                 "opis": "Klasyczna wersja latte z dodatkiem pumpkin spice, która idealnie wpisuje się w smaki jesieni i zimy. Doskonały dla kawoszy."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab Warzywno-Orzechowy z NYC",
-                "opis": "Szybki i smaczny kebab z warzywami i orzechami, inspirowany przez kuchnię Nowego Jorku."
-            },
-            {
-                "nazwa": "Rosół z Makaronem Ryżowym i Kebabem Warzywno-Orzechowym",
-                "opis": "Smaczny i pełnowartościowy obiad z rosółem z makaronem ryżowym i kebabem warzywno-orzechowym."
-            },
-            {
-                "nazwa": "Calzone Kebab z Cebulą i Sosem Czosnkowym",
-                "opis": "Smaczne i aromatyczne calzone kebab z cebulą i sosem czosnkowym."
-            },
-            {
-                "nazwa": "Kebab Warzywno-Orzechowy z Tofu",
-                "opis": "Szybki i smaczny kebab z warzywami i tofu, doskonały dla wegetarian."
-            },
-            {
-                "nazwa": "Ayranowe Smaczniki z Tureckim Kebabem i Warzywami",
-                "opis": "Smaczne smaczniki z ayranem, tureckim kebabe i warzywami, inspirowane przez turecką kuchnię."
             }
         ]
     ]

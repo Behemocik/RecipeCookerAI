@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Indonezyjska (Bali Vibe)",
         "Meksykańska (Tex-Mex)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Japońska (Ramen Shop)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "USA (Southern BBQ)",
         "Indyjska (Curry House)",
-        "Ukraińska (Wareniki/Barszcz)",
-        "Peruwiańska"
+        "Ukraińska (Wareniki/Barszcz)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Specjalne / Klimatyczne"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1456550826834395146,
+        "message_id": 1456912304364064861,
         "options": [
-            "Tacos z Mieloną Soczewicą i Smacznym Guacamolem",
-            "Kaszotto Meksykańskie",
-            "Zesty Quesadillas"
+            "Babi Kecap - Indonezyjskie Wegetariańskie Danie z Bali",
+            "Indonezyjska Pad Thai z Warzywną Miską",
+            "Rendang Balinejskie - Wegetariańska Wersja"
         ]
     }
 }
