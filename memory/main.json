@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Smak Jesieni (Dyniowe/Grzybowe)",
         "Indonezyjska (Bali Vibe)",
         "Meksykańska (Tex-Mex)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
@@ -13,19 +14,18 @@
         "Grecka (Tawerna)",
         "Turecka (Kebab/Meze)",
         "USA (Southern BBQ)",
-        "Indyjska (Curry House)",
-        "Ukraińska (Wareniki/Barszcz)"
+        "Indyjska (Curry House)"
     ],
     "last_regions": [
-        "Azja",
-        "Ameryki"
+        "Specjalne / Klimatyczne",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1456912304364064861,
+        "message_id": 1457275072501780737,
         "options": [
-            "Babi Kecap - Indonezyjskie Wegetariańskie Danie z Bali",
-            "Indonezyjska Pad Thai z Warzywną Miską",
-            "Rendang Balinejskie - Wegetariańska Wersja"
+            "Dyniowe Leczo z Grzybami - Smak Jesieni",
+            "Ratatouille z Warzywami Korzeniowymi - Jesień w Płytce",
+            "Grzybowe Fajtki z Dynią"
         ]
     }
 }

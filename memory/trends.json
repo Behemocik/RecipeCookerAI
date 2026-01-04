@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Dyniowe Leczo z Grzybami",
+                "opis": "Pyszne i smaczne leczko z dyni i grzybami, idealne na jesienne wieczory."
+            },
+            {
+                "nazwa": "Ratatouille z Warzywami Korzeniowymi",
+                "opis": "Ciekawe i aromatyczne ratatouille z warzywami korzeniowymi, idealne na jesienne menu."
+            },
+            {
+                "nazwa": "Grzybowe Fajtki z Dynią",
+                "opis": "Lekkie i tanie fajtki z grzybami i dynią, idealne na szybkie i smaczne jedzenie."
+            },
+            {
+                "nazwa": "Dyniowe Kluski z Warzywami",
+                "opis": "Pyszne i smaczne kluski z dyni i warzywami, idealne na jesienne potrawy."
+            },
+            {
+                "nazwa": "Grzybowe Steki z Dynią",
+                "opis": "Szybkie i aromatyczne steki z grzybami i dynią, idealne na jesienne menu."
+            }
+        ],
+        [
+            {
                 "nazwa": "Babi Kecap - Indonezyjskie Wegetariańskie Danie z Bali",
                 "opis": "Pyszne i tanie wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Babi Kecap."
             },
@@ -356,28 +378,6 @@
             {
                 "nazwa": "Koreańskie Kolekcyjne Danie",
                 "opis": "Zestawienie popularnych koreańskich dań, w tym bibimbap, bulgogi i kimchi, tworząc kompleksowe i smaczne kolekcyjne danie."
-            }
-        ],
-        [
-            {
-                "nazwa": "Dyniowe Kopytka z Kurkowym Sosem",
-                "opis": "Pomysłowa wersja kopytek z dynią, która idealnie wpisuje się w smaki jesieni. Dodatek kurkowego sosu dodaje głębi smaku i aromatu."
-            },
-            {
-                "nazwa": "Zupa Grzybowa z Ryżem",
-                "opis": "Prostszy i szybszy przepis na zupę grzybową, która jest doskonała na zimny wieczór. Ugotowany ryż dodaje pełności i smaku."
-            },
-            {
-                "nazwa": "Pierogi Spiżarniane z Mięsem Wieprzowym i Śliwką",
-                "opis": "Klasyczne połączenie smaków, które idealnie reprezentuje smaki jesieni i zimy. Dodatek suszonej śliwki dodaje słodycz i aromat."
-            },
-            {
-                "nazwa": "Keks Dyniowy z Sosem Kurkowym",
-                "opis": "Ciekawy przepis na keks dyniowy, który jest idealny na słodkie przekąski. Dodatek sosu kurkowego dodaje głębi smaku i aromatu."
-            },
-            {
-                "nazwa": "Smaki Jesieni: Pumpkin Spice Latte",
-                "opis": "Klasyczna wersja latte z dodatkiem pumpkin spice, która idealnie wpisuje się w smaki jesieni i zimy. Doskonały dla kawoszy."
             }
         ]
     ]
