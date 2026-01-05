@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tapioca z warzywami korzeniowymi i mięsem",
+                "opis": "Klasyczne danie brazylijskie z tapiocą, warzywami korzeniowymi i mięsem, idealne na zdrowe i egzotyczne posiłki."
+            },
+            {
+                "nazwa": "Aromatyczne owoce tropikalne z migdałami i jogurtem",
+                "opis": "Smaczne i zdrowe śniadanie z owosem tropikalnym, migdałami i jogurtem, idealne na wiosenny poranek."
+            },
+            {
+                "nazwa": "Grzybowe fajtki z dynią i warzywami korzeniowymi",
+                "opis": "Lekkie i tanie fajtki z grzybami, dynią i warzywami korzeniowymi, idealne na szybkie i smaczne jedzenie."
+            },
+            {
+                "nazwa": "Tapioca z mięsem i warzywami korzeniowymi, podana w egzotycznej skrzynce",
+                "opis": "Klasyczne danie brazylijskie z tapiocą, mięsem i warzywami korzeniowymi, podane w egzotycznej skrzynce, idealne na zdrowe i egzotyczne posiłki."
+            }
+        ],
+        [
+            {
                 "nazwa": "Dyniowe Leczo z Grzybami",
                 "opis": "Pyszne i smaczne leczko z dyni i grzybami, idealne na jesienne wieczory."
             },
@@ -360,24 +378,6 @@
             {
                 "nazwa": "Węgierskie Bulgogi z Papryką",
                 "opis": "Węgierskie bulgogi z dodatkiem papryki i koreańskich smaków, tworząc kompleksowe i smaczne kolekcyjne danie, idealne do podania z ryżem lub makaronem."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kimchi Bulgogi",
-                "opis": "Łączenie tradycyjnego koreańskiego dania kimchi z popularną potrawą bulgogi, dodając nietypowe smaki i tekstury"
-            },
-            {
-                "nazwa": "Koreański Falafel",
-                "opis": "Koreańsko-śródziemnomorskie połączenie, w której falafel z dodatkiem kimchi i soju jest doskonałym rozwiązaniem dla tych, którzy poszukują smaku i koloru."
-            },
-            {
-                "nazwa": "Tajskie Kimchi",
-                "opis": "Łączenie koreańskiego kimchi z tajskimi smakami, w tym z dodatkiem chili i kozieradki, tworząc ciekawe połączenie smaków i tekstur."
-            },
-            {
-                "nazwa": "Koreańskie Kolekcyjne Danie",
-                "opis": "Zestawienie popularnych koreańskich dań, w tym bibimbap, bulgogi i kimchi, tworząc kompleksowe i smaczne kolekcyjne danie."
             }
         ]
     ]

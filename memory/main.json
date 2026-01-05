@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Brazylijska",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Indonezyjska (Bali Vibe)",
         "Meksykańska (Tex-Mex)",
@@ -13,19 +14,18 @@
         "Meksykańska (Cantina)",
         "Grecka (Tawerna)",
         "Turecka (Kebab/Meze)",
-        "USA (Southern BBQ)",
-        "Indyjska (Curry House)"
+        "USA (Southern BBQ)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Azja"
+        "Ameryki",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1457275072501780737,
+        "message_id": 1457639866170081363,
         "options": [
-            "Dyniowe Leczo z Grzybami - Smak Jesieni",
-            "Ratatouille z Warzywami Korzeniowymi - Jesień w Płytce",
-            "Grzybowe Fajtki z Dynią"
+            "Tapioca z warzywami korzeniowymi i tofu",
+            "Tropikalne owoce z migdałami i jogurtem",
+            "Grzybowe fajtki z dynią i warzywami korzeniowymi"
         ]
     }
 }
