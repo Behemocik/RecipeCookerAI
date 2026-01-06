@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Dyniowy Curry z Grzybami",
+                "opis": "Klasyczny curry z currym z dyni, dodatkowo wzbogacony o smak i teksturę grzybów, idealny na wiosenny poranek."
+            },
+            {
+                "nazwa": "Brokoladowy Curry z Kurczakiem i Szałwią",
+                "opis": "Smacznym kurczakiem i brokół, wzbogacony przez szałwię lekarską, w klasycznym curry z currym."
+            },
+            {
+                "nazwa": "Aromatyczny Curry z Dynią i Krokietem z Mięsem",
+                "opis": "Smaczny curry z currym, wzbogacony o aromatyczny smak dyni i chrupiący krokiet z mięsem, idealny na szybkie i tanie jedzenie."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tapioca z warzywami korzeniowymi i mięsem",
                 "opis": "Klasyczne danie brazylijskie z tapiocą, warzywami korzeniowymi i mięsem, idealne na zdrowe i egzotyczne posiłki."
             },
@@ -356,28 +370,6 @@
             {
                 "nazwa": "Paprykowe Falafel z Tureckiej Kuchni",
                 "opis": "Pikantne falafel z dodatkiem papryki i tureckich smaków, idealne do podania z ryżem lub makaronem"
-            }
-        ],
-        [
-            {
-                "nazwa": "Paprykowe Rogale",
-                "opis": "Węgierskie rogale z kulkami paprykowymi, dodatkami orzechów i migdałów, idealne na śniadanie lub podawane z kawą."
-            },
-            {
-                "nazwa": "Koreańskie Falafel z Papryką",
-                "opis": "Koreańsko-śródziemnomorskie połączenie, w której falafel z dodatkiem papryki i soju jest doskonałym rozwiązaniem dla tych, którzy poszukują smaku i koloru."
-            },
-            {
-                "nazwa": "Węgierski Paprykarz z Ziemniakami",
-                "opis": "Tętniący smakiem paprykarz z ziemniakami, gotowany w gęstym sosie z suszoną papryką, idealny do podania z chlebem lub makaronem."
-            },
-            {
-                "nazwa": "Paprykowe Kimchi",
-                "opis": "Łączenie węgierskiej papryki z koreańskim kimchi, dodając nietypowe smaki i tekstury, tworząc ciekawe połączenie smaków i aromatów."
-            },
-            {
-                "nazwa": "Węgierskie Bulgogi z Papryką",
-                "opis": "Węgierskie bulgogi z dodatkiem papryki i koreańskich smaków, tworząc kompleksowe i smaczne kolekcyjne danie, idealne do podania z ryżem lub makaronem."
             }
         ]
     ]

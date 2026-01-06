@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Indyjska (Curry House)",
         "Brazylijska",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Indonezyjska (Bali Vibe)",
@@ -13,19 +14,18 @@
         "Wietnamska (Street Food)",
         "Meksykańska (Cantina)",
         "Grecka (Tawerna)",
-        "Turecka (Kebab/Meze)",
-        "USA (Southern BBQ)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Specjalne / Klimatyczne"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1457639866170081363,
+        "message_id": 1458001183141658626,
         "options": [
-            "Tapioca z warzywami korzeniowymi i tofu",
-            "Tropikalne owoce z migdałami i jogurtem",
-            "Grzybowe fajtki z dynią i warzywami korzeniowymi"
+            "Dyniowy Curry z Grzybami",
+            "Brokoladowy Curry z Kurczakiem i Szałwią",
+            "Aromatyczny Curry z Dynią i Krokietem z Mięsem"
         ]
     }
 }
