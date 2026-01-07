@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Indyjska (Curry House)",
         "Brazylijska",
         "Smak Jesieni (Dyniowe/Grzybowe)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Wietnamska (Street Food)",
         "Meksykańska (Cantina)",
-        "Grecka (Tawerna)",
-        "Turecka (Kebab/Meze)"
+        "Grecka (Tawerna)"
     ],
     "last_regions": [
-        "Azja",
-        "Ameryki"
+        "Specjalne / Klimatyczne",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1458001183141658626,
+        "message_id": 1458363888176205927,
         "options": [
-            "Dyniowy Curry z Grzybami",
-            "Brokoladowy Curry z Kurczakiem i Szałwią",
-            "Aromatyczny Curry z Dynią i Krokietem z Mięsem"
+            "Mandarynkowe Śniadanie z Szałwią i Warzywami",
+            "Śniadanie z Szerokością Świata: Cytryna, Limonka i Szpinak",
+            "Kurczak z Currym z Mandarynką i Szałwią"
         ]
     }
 }

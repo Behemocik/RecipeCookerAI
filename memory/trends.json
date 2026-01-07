@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Mandarynkowe Śniadanie z Kiełbasą i Szałwią",
+                "opis": "Klasyczne śniadanie z mandarynką, która dodaje słodyczy i smaku, łączące się z kiełbasą i szałwią, tworząc niepowtarzalną kombinację smaków."
+            },
+            {
+                "nazwa": "Śniadanie z Szerokością Świata: Cytryna, Limonka i Kiełbasa",
+                "opis": "Śniadanie, które łączy w sobie słodycz cytryny, słoność limonki i smak kiełbasy, stworzone w duchu kulinarnej wędrówki po świecie."
+            },
+            {
+                "nazwa": "Kurczak z Currym z Mandarynką i Szałwią",
+                "opis": "Smaczny kurczak z currym, który dodaje słodyczy i smaku mandarynki i szałwii, tworząc niepowtarzalną kombinację smaków po azjatycku."
+            },
+            {
+                "nazwa": "Szałwiana Kiełbasa z Mandarynką i Cytryną",
+                "opis": "Świąteczna kiełbasa z szałwią, która dodaje smaku i aromatu, łącząca się z mandarynką i cytryną, tworząc niepowtarzalną kombinację smaków."
+            },
+            {
+                "nazwa": "Mandarynkowe Pastelki z Kiełbasą i Szałwią",
+                "opis": "Mandarynkowe pastelki z kiełbasą i szałwią, które dodają słodyczy i smaku, stworzone w duchu tradycyjnych kulinarnej wędrówki po świecie."
+            }
+        ],
+        [
+            {
                 "nazwa": "Dyniowy Curry z Grzybami",
                 "opis": "Klasyczny curry z currym z dyni, dodatkowo wzbogacony o smak i teksturę grzybów, idealny na wiosenny poranek."
             },
@@ -348,28 +370,6 @@
             {
                 "nazwa": "Peruwiańska Salsa z Tureckimi Smakami i Ryżem",
                 "opis": "Kremowa i pikantna salsa inspirowana peruwiańską kuchnią, łącząca smaki tureckie z delikatnością ryżu i dodatkiem czosnku i papryki."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab Döner z Sosem Chili",
-                "opis": "Pikantny kebab z sosem chili, inspirowany tradycyjną turecką recepturą, oczarujący smakiem i aromatem"
-            },
-            {
-                "nazwa": "Pasta z Papryką i Fetą",
-                "opis": "Kremowa i lekko pikantna pasta z papryką i fetą, świetnie dostosowana do sezonu i smaków"
-            },
-            {
-                "nazwa": "Meze z Oliwkami i Czosnkiem",
-                "opis": "Pikantne meze z oliwkami, czosnkiem, ziołami i chili, idealne do podania jako przystawka lub aperitif"
-            },
-            {
-                "nazwa": "Kebab Doner z Sosem Jogurtowym",
-                "opis": "Pikantny kebab z sosem jogurtowym, inspirowany smaczkowym przepisem Karola Okrasy, doskonały dla tych, którzy lubią smaczne i oryginalne dania"
-            },
-            {
-                "nazwa": "Paprykowe Falafel z Tureckiej Kuchni",
-                "opis": "Pikantne falafel z dodatkiem papryki i tureckich smaków, idealne do podania z ryżem lub makaronem"
             }
         ]
     ]
