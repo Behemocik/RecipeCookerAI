@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
         "Indyjska (Curry House)",
         "Brazylijska",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
         "Wietnamska (Street Food)",
-        "Meksykańska (Cantina)",
-        "Grecka (Tawerna)"
+        "Meksykańska (Cantina)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Azja"
+        "Azja",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1458363888176205927,
+        "message_id": 1459088070241681443,
         "options": [
-            "Mandarynkowe Śniadanie z Szałwią i Warzywami",
-            "Śniadanie z Szerokością Świata: Cytryna, Limonka i Szpinak",
-            "Kurczak z Currym z Mandarynką i Szałwią"
+            "Wegetariańskie Meze z Turcji",
+            "Kebaby z Wegetariańskim Twistem - Dynia i Grzyby",
+            "Turkijskie Kebaby z Sałatką z Dynią i Warzywami"
         ]
     }
 }
