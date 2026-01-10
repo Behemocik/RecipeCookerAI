@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tapas Paella Fusion",
+                "opis": "Fuzja tradycyjnych hiszpańskich tapas i paelli z nowymi smakami i tekturemi. Wyobraź sobie tapas z kawałkami kruczaka i owocami morza, podane z czerwoną papryką i szafranowym sosem béarnaise."
+            },
+            {
+                "nazwa": "Szafranowe Tapas z Wegetariańskimi Ingrediencjami",
+                "opis": "Nowy pomysł na wegetariańskie tapas z szafranowym sosem i świeżymi warzywami. Idealne na kolację lub imprezę."
+            },
+            {
+                "nazwa": "Hiszpańskie Paella z Meksykańskimi Smakami",
+                "opis": "Kombinacja smaków hiszpańskiej paelli i meksykańskich przypraw. Świeże warzywa, owoc morza i kawałki kruczaka w smaku i tekture."
+            },
+            {
+                "nazwa": "Tapas z Greckich Ogórków i Szafranem",
+                "opis": "Nowy pomysł na tapas z greckimi ogórkami i szafranem. Świeże warzywa i przyprawy w niepowtarzalnej kombinacji smaków."
+            }
+        ],
+        [
+            {
                 "nazwa": "Wegetariańskie Meze z Turcji",
                 "opis": "Odkryj smaki Turcji w tym wyborze wegetariańskich przepisów meze, które łączą świeże warzywa i przyprawy w niepowtarzalną kombinację smaków."
             },
@@ -356,24 +374,6 @@
             {
                 "nazwa": "Kiełbasa i szpinak w curry z turecką inspiracją",
                 "opis": "Zrób coś nowego z kiełbasą, szpinakiem i curry z turecką inspiracją. Idealne dla tych, którzy szukają łatwego i smacznego dania."
-            }
-        ],
-        [
-            {
-                "nazwa": "Wareniki z kiełbasą i szpinakiem",
-                "opis": "Nowa wersja klasyka ukraińskiej kuchni - słodkie, chrupiące wareniki wypełnione sałatką z kiełbasy i szpinaku."
-            },
-            {
-                "nazwa": "Barszcz z kiełbasą i szpinakiem",
-                "opis": "Smaczny i zdrowy barszcz ukraiński z dodatkiem kiełbasy i szpinaku, idealny na letnie dni."
-            },
-            {
-                "nazwa": "Kiełbasa i szpinak z ukraińskim ryżem",
-                "opis": "Łatwa w przygotowaniu kombinacja kiełbasy, szpinaku i ryżu ukraińskiego, idealna na szybkie kolacje."
-            },
-            {
-                "nazwa": "Sałatka z kiełbą i szpinakiem w warkoczyku",
-                "opis": "Smaczna i kolorowa sałatka z kiełbą i szpinakiem podana w warkoczyku, idealna na pikniki i imprezy."
             }
         ]
     ]
