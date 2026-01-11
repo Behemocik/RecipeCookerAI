@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tureckie Śniadanie z Kebabem i Jajkiem",
+                "opis": "Klasyczne tureckie śniadanie z kebabem, jajkiem i dodatkami, takimi jak sahan kreması i muhammara, które dają unikalny smak i teksturę."
+            },
+            {
+                "nazwa": "Kebabowe Śniadanie z Jajkiem i Sosem Tzatziki",
+                "opis": "Śniadanie z kebabem, jajkiem i sosem tzatziki, który dodaje chłodu i świeżości do klasycznej kombinacji kebabu i jajka."
+            },
+            {
+                "nazwa": "Menemen z Kebabem i Pieczywem",
+                "opis": "Nowy pomysł na śniadanie, w którym menemen, czyli turecka jajecznica, jest kombinowana z kebabem i pieczywem, tworząc unikalną i smaczną kombinację smaków."
+            },
+            {
+                "nazwa": "Turecka Ogień z Kebabem i Jajkiem",
+                "opis": "Śniadanie, które łączy smaki i tekstury kebabu i jajka, z dodatkowymi ingrediencjami, takimi jak papryka i szafran, które dają unikalny smak i barwę."
+            },
+            {
+                "nazwa": "Klasyczne Tureckie Śniadanie z Kebabem i Jajkiem, z Dodatkami",
+                "opis": "Klasyczne tureckie śniadanie z kebabem, jajkiem i dodatkami, takimi jak sahan kreması i muhammara, które dają unikalny smak i teksturę, a także dodatkową świeżość i chłód dzięki sosem tzatziki."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tapas Paella Fusion",
                 "opis": "Fuzja tradycyjnych hiszpańskich tapas i paelli z nowymi smakami i tekturemi. Wyobraź sobie tapas z kawałkami kruczaka i owocami morza, podane z czerwoną papryką i szafranowym sosem béarnaise."
             },
@@ -352,28 +374,6 @@
             {
                 "nazwa": "Kiełbasa i Szpinak z Currym w Warkoczyku",
                 "opis": "Smaczną i zdrową sałatkę z kiełbasą, szpinakiem i curry w warkoczyku, idealną na szybkie kolacje i lunchy."
-            }
-        ],
-        [
-            {
-                "nazwa": "Curry z szpinakiem i grillowanymi kiełbasami",
-                "opis": "Podawaj to pyszne curry z szpinakiem i grillowanymi kiełbasami wraz z kulkami ryżu lub ziemniakami. Idealne dla tych, którzy szukają łatwego i smacznego dania."
-            },
-            {
-                "nazwa": "Sałatka z tureckimi kiełbasami i szpinakiem w warkoczyku",
-                "opis": "Wypróbuj tę smaczną i kolorową sałatkę z tureckimi kiełbasami, szpinakiem i warkoczykiem. Idealna na pikniki i imprezy!"
-            },
-            {
-                "nazwa": "Turecki curry z bakłażanem i kiełbasą",
-                "opis": "Ciesz się wybuchową mieszanką smaków w tym tureckim curry z bakłażanem, kiełbasą i curry. Idealne dla tych, którzy szukają nowych smaków."
-            },
-            {
-                "nazwa": "Sałatka z szpinakiem i kiełbasą z curry",
-                "opis": "Smaczną i zdrową sałatkę z szpinakiem, kiełbasą i curry. Idealna na szybkie kolacje i lunchy."
-            },
-            {
-                "nazwa": "Kiełbasa i szpinak w curry z turecką inspiracją",
-                "opis": "Zrób coś nowego z kiełbasą, szpinakiem i curry z turecką inspiracją. Idealne dla tych, którzy szukają łatwego i smacznego dania."
             }
         ]
     ]

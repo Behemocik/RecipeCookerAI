@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Hiszpańska (Tapas/Paella)",
         "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
         "Babcina Kuchnia (Comfort Food)",
-        "Turecka (Kebab/Meze)",
-        "Wietnamska (Street Food)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Europa",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1459449197102370912,
+        "message_id": 1459811602919591976,
         "options": [
-            "Tapas Paella Fusion",
-            "Szafranowe Tapas z Wegetariańskimi Ingrediencjami",
-            "Paella z Meksykańskimi Smakami"
+            "Tureckie Śniadanie z Kebabem i Jajkiem",
+            "Kebabowe Śniadanie z Jajkiem i Sosem Tzatziki",
+            "Menemen z Kebabem i Pieczywem"
         ]
     }
 }
