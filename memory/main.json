@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Argentyńska",
         "Babcina Kuchnia (Comfort Food)",
         "Hiszpańska (Tapas/Paella)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Japońska (Ramen Shop)",
         "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Turecka (Kebab/Meze)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Europa"
+        "Ameryki",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1459811602919591976,
+        "message_id": 1460176099484106884,
         "options": [
-            "Tureckie Śniadanie z Kebabem i Jajkiem",
-            "Kebabowe Śniadanie z Jajkiem i Sosem Tzatziki",
-            "Menemen z Kebabem i Pieczywem"
+            "Kebab Argentyński z Warzywami i Serem",
+            "Poncz Argentyński",
+            "Tortilla z Kebabem i Warzywami 'Pampa'"
         ]
     }
 }

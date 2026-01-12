@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab Argentyński z Warzywami i Serem",
+                "opis": "Świeży kebab argentyński z różnymi warzywami i serem, idealny dla imprez i pikników."
+            },
+            {
+                "nazwa": "Poncz Alkoholowy Argentyński",
+                "opis": "Szybki i tanio przygotowywalny poncz alkoholowy z argentyńskich składników, idealny na imprezę."
+            },
+            {
+                "nazwa": "Tortilla z Kebabem i Warzywami",
+                "opis": "Smaczne i łatwe w przygotowaniu danie z tortillą, kebabem i różnymi warzywami, idealne dla szybkiego obiadu."
+            },
+            {
+                "nazwa": "Kebabowe Zupa z Warzywami i Serem",
+                "opis": "Świeży i smaczny kebab zupa z różnymi warzywami i serem, idealna na zimowy dzień."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tureckie Śniadanie z Kebabem i Jajkiem",
                 "opis": "Klasyczne tureckie śniadanie z kebabem, jajkiem i dodatkami, takimi jak sahan kreması i muhammara, które dają unikalny smak i teksturę."
             },
@@ -356,24 +374,6 @@
             {
                 "nazwa": "Chleb Pide z Czosnkiem i Papryką",
                 "opis": "Tradycyjny turecki chleb pide, podawany z czosnkiem i papryką, idealny do smarowania kebabem lub jako dodatek do śniadania"
-            }
-        ],
-        [
-            {
-                "nazwa": "BBQ Pulled Pork z Kukurydzą i Szpinakiem",
-                "opis": "Pyszne BBQ z mięsem wieprzowym oraz dodatkiem kukurydzy i szpinaku, idealne dla tych, którzy szukają smacznego i łatwego dania."
-            },
-            {
-                "nazwa": "Kiełbasa z Kiełbasą i Szpinakiem w Warkoczyku z Currym",
-                "opis": "Wypróbuj tę smaczną i kolorową sałatkę z kiełbasą, szpinakiem i warkoczykiem z curry, idealną na pikniki i imprezy!"
-            },
-            {
-                "nazwa": "Turecki BBQ z Bakłażanem i Kiełbasą",
-                "opis": "Ciesz się wybuchową mieszanką smaków w tym tureckim BBQ z bakłażanem, kiełbasą i curry, idealnym dla tych, którzy szukają nowych smaków."
-            },
-            {
-                "nazwa": "Kiełbasa i Szpinak z Currym w Warkoczyku",
-                "opis": "Smaczną i zdrową sałatkę z kiełbasą, szpinakiem i curry w warkoczyku, idealną na szybkie kolacje i lunchy."
             }
         ]
     ]
