@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Wareniki z kapustą i grzybami",
+                "opis": "Pierścieniowe placki z nadzieniem z kapusty i grzybów, idealne dla sezonu wiosennego."
+            },
+            {
+                "nazwa": "Barszcz Czerwony z mięsem wieprzowym",
+                "opis": "Klasyczna ukraińska zupa z czerwonym barszczem i nadzieniem z mięsa wieprzowego, idealna dla zimowego dnia."
+            },
+            {
+                "nazwa": "Kulebiaki z farszem z kapusty i grzybów",
+                "opis": "Duże pierożki z nadzieniem z kapusty i grzybów, idealne dla Wielkanocy lub jako przekąska."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab Argentyński z Warzywami i Serem",
                 "opis": "Świeży kebab argentyński z różnymi warzywami i serem, idealny dla imprez i pikników."
             },
@@ -352,28 +366,6 @@
             {
                 "nazwa": "Sałatka Wiosenna z Roszponką i Kukurydzą",
                 "opis": "Nowa wersja sałatki wiosennej, z dodaniem roszponki i kukurydzy, która dodaje smaku i koloru."
-            }
-        ],
-        [
-            {
-                "nazwa": "Döner Kebab z Jogurtem i Czosnkiem",
-                "opis": "Tradycyjny turecki kebab z mielonej wołowiną lub jagnięciny, podawany z jogurtem i czosnkiem, idealny na szybkie lunchy i kolacje."
-            },
-            {
-                "nazwa": "Meze z Grzybami, Fasolką i Czosnkiem",
-                "opis": "Tureckie przystawki z grzybami, fasolką i czosnkiem, idealne do podania z chlebem pide lub jako dodatek do danego"
-            },
-            {
-                "nazwa": "Grilowane Warzywa z Sosem Jogurtowo-Czosnkowym",
-                "opis": "Szybka i smaczna potrawa, w której grilowane warzywa są podawane z jogurtem i czosnkiem, idealna na letnie dni"
-            },
-            {
-                "nazwa": "Beyti z Jagnięciny i Sosem Pomidorowym",
-                "opis": "Tureckie danie z jagnięcyną, zawiniętą w lawasz, polaną sosem pomidorowym i podawaną z jogurtem, idealne na szybkie kolacje"
-            },
-            {
-                "nazwa": "Chleb Pide z Czosnkiem i Papryką",
-                "opis": "Tradycyjny turecki chleb pide, podawany z czosnkiem i papryką, idealny do smarowania kebabem lub jako dodatek do śniadania"
             }
         ]
     ]

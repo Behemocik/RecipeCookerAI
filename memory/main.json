@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Ukraińska (Wareniki/Barszcz)",
         "Argentyńska",
         "Babcina Kuchnia (Comfort Food)",
         "Hiszpańska (Tapas/Paella)",
@@ -13,19 +14,18 @@
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Japońska (Ramen Shop)",
         "USA (Cajun/Creole)",
-        "Francuska (Prowansalska)",
-        "Babcina Kuchnia (Comfort Food)"
+        "Francuska (Prowansalska)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Specjalne / Klimatyczne"
+        "Europa",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1460176099484106884,
+        "message_id": 1460537703287492619,
         "options": [
-            "Kebab Argentyński z Warzywami i Serem",
-            "Poncz Argentyński",
-            "Tortilla z Kebabem i Warzywami 'Pampa'"
+            "Wareniki z Kapustą i Grzybami z Twistem",
+            "Barszcz Czerwony z kiełbasą",
+            "Kulebiaki z farszem z kapusty i grzybów z ukraińską inspiracją"
         ]
     }
 }
