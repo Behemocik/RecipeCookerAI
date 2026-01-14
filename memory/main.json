@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Wietnamska (Street Food)",
         "Ukraińska (Wareniki/Barszcz)",
         "Argentyńska",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "Meksykańska (Tex-Mex)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Japońska (Ramen Shop)",
-        "USA (Cajun/Creole)",
-        "Francuska (Prowansalska)"
+        "USA (Cajun/Creole)"
     ],
     "last_regions": [
-        "Europa",
-        "Ameryki"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1460537703287492619,
+        "message_id": 1460900303976136737,
         "options": [
-            "Wareniki z Kapustą i Grzybami z Twistem",
-            "Barszcz Czerwony z kiełbasą",
-            "Kulebiaki z farszem z kapusty i grzybów z ukraińską inspiracją"
+            "Banh Mi Ga - Wietnamska Kanapka ze Smażonymi Grzybami i Dynią",
+            "Szybka Zupa Pho Wegetariańska",
+            "Kanapka z Surowką i Warzywami Wietnamskimi"
         ]
     }
 }
