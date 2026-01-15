@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ceviche de Camarones",
+                "opis": "Zapiekanka z krewetkami, zamiast ryby, z owocami morza i delikatnymi słodko-kwaśnymi smakami."
+            },
+            {
+                "nazwa": "Lomo Saltado",
+                "opis": "Danie z kuchni chifa, kolorowe i smaczne, z kawałkami mięsa, warzywami i ryżem, które miesza się z hiszpańską, azjatycką i peruwiańską kuchnią."
+            },
+            {
+                "nazwa": "Papas a la Huancaína",
+                "opis": "Zapiekanka z ziemniaków, papryki i jajek, z delikatnymi słodko-kwaśnymi smakami i kolorowymi dodatkami."
+            },
+            {
+                "nazwa": "Aji de Gallina",
+                "opis": "Tradycyjne danie z kuchni peruwiańskiej, z kawałkami kurczaka, warzywami i owocami morza, które miesza się z delikatnymi słodko-kwaśnymi smakami."
+            },
+            {
+                "nazwa": "Escabeche de Pescado",
+                "opis": "Potrawa ze smażonej ryby, która jest serwowana na zimno, z delikatnymi słodko-kwaśnymi smakami i kolorowymi dodatkami."
+            }
+        ],
+        [
+            {
                 "nazwa": "Banh Mi Ga - Wietnamska Kanapka",
                 "opis": "Klasyczny wietnamski przepis na kanapkę z kurczakiem, która może być łatwo dostosowana do wersji wegetariańskiej."
             },
@@ -352,28 +374,6 @@
             {
                 "nazwa": "Phở - Wietnamska Zupa z Nasionami Kokosowymi i Ogórkami",
                 "opis": "Klasyczna wietnamska zupa z nasionami kokosowymi i ogórkami, która jest idealna dla tych, którzy szukają smacznego i orzeźwiającego posiłku."
-            }
-        ],
-        [
-            {
-                "nazwa": "Zupa Kukurydziana z Jogurtem i Czosnkiem",
-                "opis": "Klasyczna zupa kukurydziana z dodatkiem jogurtu i czosnku, nadającym jej orzeźwiający smak i chrupiącą teksturę."
-            },
-            {
-                "nazwa": "Grillowane Warzywa z Jogurtowo-Czosnkowym Sosem",
-                "opis": "Smaczne grillowane warzywa w sosie jogurtowo-czosnkowym, perfekcyjne do podania na ciepło lub na zimno."
-            },
-            {
-                "nazwa": "Paszteciki Kukurydziane z Jogurtem i Czosnkiem",
-                "opis": "Kukurydziane paszteciki z jogurtem i czosnkiem, idealne dla tych, którzy szukają zdrowych i smacznego dania."
-            },
-            {
-                "nazwa": "Sałatka Meksykańska z Jogurtem, Czosnkiem i Kukurydzą",
-                "opis": "Ładna sałatka meksykańska z jogurtem, czosnkiem i kukurydzą, łącząca w sobie smaki i kolorystykę południowej Ameryki."
-            },
-            {
-                "nazwa": "Zimne Naleśniki z Jogurtem, Czosnkiem i Kukurydzą",
-                "opis": "Ciekawe naleśniki z jogurtem, czosnkiem i kukurydzą, które sprawią, że Twoje posiłki będą jeszcze bardziej aromatyczne i smaczne."
             }
         ]
     ]

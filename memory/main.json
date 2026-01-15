@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Peruwiańska",
         "Wietnamska (Street Food)",
         "Ukraińska (Wareniki/Barszcz)",
         "Argentyńska",
@@ -13,19 +14,18 @@
         "Indonezyjska (Bali Vibe)",
         "Meksykańska (Tex-Mex)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Japońska (Ramen Shop)",
-        "USA (Cajun/Creole)"
+        "Japońska (Ramen Shop)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1460900303976136737,
+        "message_id": 1461262642080649292,
         "options": [
-            "Banh Mi Ga - Wietnamska Kanapka ze Smażonymi Grzybami i Dynią",
-            "Szybka Zupa Pho Wegetariańska",
-            "Kanapka z Surowką i Warzywami Wietnamskimi"
+            "Ceviche de Camarones - Peruwiański Ceviche z Krewetkami",
+            "Lomo Saltado Peruwiański",
+            "Papas a la Huancaína z dodatkiem sałatki warzywnej i owocowej"
         ]
     }
 }
