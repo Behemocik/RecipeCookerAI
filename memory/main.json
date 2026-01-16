@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
         "Wietnamska (Street Food)",
         "Ukraińska (Wareniki/Barszcz)",
@@ -13,19 +14,18 @@
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Indonezyjska (Bali Vibe)",
         "Meksykańska (Tex-Mex)",
-        "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Japońska (Ramen Shop)"
+        "Smak Jesieni (Dyniowe/Grzybowe)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1461262642080649292,
+        "message_id": 1461625098246164622,
         "options": [
-            "Ceviche de Camarones - Peruwiański Ceviche z Krewetkami",
-            "Lomo Saltado Peruwiański",
-            "Papas a la Huancaína z dodatkiem sałatki warzywnej i owocowej"
+            "Pho z Dynią i Grzybami",
+            "Frytki grzybowe z wietnamską sałatką dyniową",
+            "Tofu Pho z Dynią i Grzybami"
         ]
     }
 }

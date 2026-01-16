@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Pho z dynią i grzybami",
+                "opis": "Klasyczne wietnamskie pho z dodatkami dyni i grzybów shiitake, które dodają głębi smaku i aromatyczności."
+            },
+            {
+                "nazwa": "Frytki grzybowe z wietnamską sałatką",
+                "opis": "Klasyczne frytki grzybowe z dodatkową sałatką wietnamską, zawierającą chrupiące warzywa i delikatne słodko-kwaśne smaki."
+            },
+            {
+                "nazwa": "Zupa Pho z tofu i makaronem ryżowym",
+                "opis": "Wegańska wersja klasycznego pho, z dodatkami tofu i makaronu ryżowego, które tworzą delikatną i aromatyczną zupę."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ceviche de Camarones",
                 "opis": "Zapiekanka z krewetkami, zamiast ryby, z owocami morza i delikatnymi słodko-kwaśnymi smakami."
             },
@@ -360,20 +374,6 @@
             {
                 "nazwa": "Pide Tureckie",
                 "opis": "Tradycyjne przepisy w nadzieniu mają najczęściej mięso, ale we współczesnej kuchni tureckiej jest bardzo dużo przepisów na warzywne pide, które są idealne dla tych, którzy szukają zdrowych i smacznego posiłku."
-            }
-        ],
-        [
-            {
-                "nazwa": "Bánh Xèo - Wietnamskie Pancakes z Ogórkami i Herbatą",
-                "opis": "Klasyczne wietnamskie paniki z ogórkami i herbatą, które sprawią, że Twoje posiłki będą jeszcze bardziej aromatyczne i smaczne."
-            },
-            {
-                "nazwa": "Gỏi Cuốn - Wietnamskie Kanapki z Nawozem i Ogórkami",
-                "opis": "Smaczne wietnamskie kanapki z nawozem i ogórkami, które są idealne dla tych, którzy szukają zdrowych i smacznego dania."
-            },
-            {
-                "nazwa": "Phở - Wietnamska Zupa z Nasionami Kokosowymi i Ogórkami",
-                "opis": "Klasyczna wietnamska zupa z nasionami kokosowymi i ogórkami, która jest idealna dla tych, którzy szukają smacznego i orzeźwiającego posiłku."
             }
         ]
     ]
