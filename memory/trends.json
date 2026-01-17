@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tajskie Ciasto z Owsianym Makiem i Mlekiem Kakaowym",
+                "opis": "Klasyczne ciasto z tajskich inspiracji, z dodatkami owsianego maku i mleka kakaowego, które dodają kremową konsystencję i intensywny smak czekoladowy."
+            },
+            {
+                "nazwa": "Wietnamski Pho z Dynią, Grzybami i Kurkumą",
+                "opis": "Unikalna wersja klasycznego pho, z dodatkami dyni, grzybów shiitake i kurkumy, które tworzą głębię smaku i aromatyczność."
+            },
+            {
+                "nazwa": "Prowansalska Zupa z Fasoli, Maku i Ziół",
+                "opis": "Klasyczna zupa prowansalska z dodatkami fasoli, maku i ziół, które tworzą delikatną i aromatyczną zupę."
+            },
+            {
+                "nazwa": "Ciasto z Wietnamską Pastą z Fasoli i Migdałami",
+                "opis": "Klasyczne ciasto z wietnamską pastą z fasoli i migdałami, które dodają delikatny smak i aromatyczność."
+            },
+            {
+                "nazwa": "Grzybowa Sos z Wietnamską Sałatką i Owsianym Makiem",
+                "opis": "Unikalny sos grzybowy z dodatkami wietnamskiej sałatki i owsianego maku, które tworzą głębię smaku i aromatyczność."
+            }
+        ],
+        [
+            {
                 "nazwa": "Pho z dynią i grzybami",
                 "opis": "Klasyczne wietnamskie pho z dodatkami dyni i grzybów shiitake, które dodają głębi smaku i aromatyczności."
             },
@@ -352,28 +374,6 @@
             {
                 "nazwa": "Tureckie Wraps z Miksem Pieczonych Warzyw",
                 "opis": "Ciekawe połączenie tureckich tradycji kulinarnych z wegetariańskimi składnikami, idealne dla tych, którzy szukają zdrowych i smacznego posiłku."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab Adana",
-                "opis": "Tańsze, smaczniejsze i proste do przygotowania tureckie danie, idealne dla tych, którzy szukają szybkich i łatwych posiłków."
-            },
-            {
-                "nazwa": "Meze Tureckie",
-                "opis": "Współczesne przepisy tureckie na warzywne pide, które zmieniają swoim smakiem i aromatem Twoje codzienne posiłki."
-            },
-            {
-                "nazwa": "Döner Kebab",
-                "opis": "Banalnie proste, ale niezwykle smaczne tureckie danie, które jest idealne dla tych, którzy szukają szybkich i łatwych posiłków."
-            },
-            {
-                "nazwa": "Sarma Tureckie",
-                "opis": "Domowe danie tureckie, zwane „sarma”, które dziś zrobiłam, jest idealne dla tych, którzy szukają wyjątkowych i smacznego posiłku."
-            },
-            {
-                "nazwa": "Pide Tureckie",
-                "opis": "Tradycyjne przepisy w nadzieniu mają najczęściej mięso, ale we współczesnej kuchni tureckiej jest bardzo dużo przepisów na warzywne pide, które są idealne dla tych, którzy szukają zdrowych i smacznego posiłku."
             }
         ]
     ]

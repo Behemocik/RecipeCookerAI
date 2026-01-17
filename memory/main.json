@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Francuska (Prowansalska)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
         "Wietnamska (Street Food)",
@@ -13,19 +14,18 @@
         "Brazylijska",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Indonezyjska (Bali Vibe)",
-        "Meksykańska (Tex-Mex)",
-        "Smak Jesieni (Dyniowe/Grzybowe)"
+        "Meksykańska (Tex-Mex)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1461625098246164622,
+        "message_id": 1461985559315611659,
         "options": [
-            "Pho z Dynią i Grzybami",
-            "Frytki grzybowe z wietnamską sałatką dyniową",
-            "Tofu Pho z Dynią i Grzybami"
+            "Ciasto z Owsianym Makiem i Mlekiem Kakaowym",
+            "Pho z Dynią, Grzybami i Kurkumą",
+            "Prowansalska Zupa z Fasoli, Maku i Ziół"
         ]
     }
 }
