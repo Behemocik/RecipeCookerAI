@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Francuska (Prowansalska)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
@@ -13,19 +14,18 @@
         "Indyjska (Curry House)",
         "Brazylijska",
         "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Indonezyjska (Bali Vibe)",
-        "Meksykańska (Tex-Mex)"
+        "Indonezyjska (Bali Vibe)"
     ],
     "last_regions": [
-        "Europa",
-        "Specjalne / Klimatyczne"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1461985559315611659,
+        "message_id": 1462348283115606036,
         "options": [
-            "Ciasto z Owsianym Makiem i Mlekiem Kakaowym",
-            "Pho z Dynią, Grzybami i Kurkumą",
-            "Prowansalska Zupa z Fasoli, Maku i Ziół"
+            "Kebab Wege z Ayranem i Pide",
+            "Hummus Idealny z Tahiny i Ciecierzycy",
+            "Sałatka Gyros z Roślinnymi Opcjami"
         ]
     }
 }

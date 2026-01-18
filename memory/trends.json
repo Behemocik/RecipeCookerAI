@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab Wege z Ayranem i Pide",
+                "opis": "Smaczny kebab wegetariański z ayranem i pide, idealny na szybko i tanio."
+            },
+            {
+                "nazwa": "Hummus Idealny z Tahiny i Ciecierzycy",
+                "opis": "Unikalny hummus z odpowiednią proporcją tahiny i lodowatą wodą, gotowany z łyżeczką sody, idealny dla wegan."
+            },
+            {
+                "nazwa": "Sałatka Gyros z Roślinnymi Opcjami",
+                "opis": "Smaczna sałatka gyros w wersji roślinnej, idealna na imprezę lub jako przystawka."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tajskie Ciasto z Owsianym Makiem i Mlekiem Kakaowym",
                 "opis": "Klasyczne ciasto z tajskich inspiracji, z dodatkami owsianego maku i mleka kakaowego, które dodają kremową konsystencję i intensywny smak czekoladowy."
             },
@@ -356,24 +370,6 @@
             {
                 "nazwa": "Winegret z Musztardą Francuską",
                 "opis": "Szybkie i łatwe do przygotowania danie z francuską musztardą, idealne na przekąskę lub do chleba."
-            }
-        ],
-        [
-            {
-                "nazwa": "Tureckie Doner Kebab z Halloumi",
-                "opis": "Smaczne i ciekawe połączenie tureckiego doner kebaba z grillowanym halloumi, idealne dla wegetarian."
-            },
-            {
-                "nazwa": "Lahmacun z Ciecierzycą",
-                "opis": "Tanie i sycące tureckie danie, idealne dla tych, którzy szukają szybkich i łatwych posiłków."
-            },
-            {
-                "nazwa": "Warzywne Pide z Bakłażanem i Cukinią",
-                "opis": "Tradycyjne przepisy tureckie na warzywne pide, które zmieniają swoim smakiem i aromatem Twoje codzienne posiłki."
-            },
-            {
-                "nazwa": "Tureckie Wraps z Miksem Pieczonych Warzyw",
-                "opis": "Ciekawe połączenie tureckich tradycji kulinarnych z wegetariańskimi składnikami, idealne dla tych, którzy szukają zdrowych i smacznego posiłku."
             }
         ]
     ]
