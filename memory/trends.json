@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Taco Quesadilla",
+                "opis": "Nowa wersja popularnego taquera z dodatkiem włoskiego twarogu i zielonej cebuli, podawana w cieście tortilli."
+            },
+            {
+                "nazwa": "Carpaccio z Meksykańską Zazieleniną",
+                "opis": "Zmodyfikowany wersja włoskiego carpaccio z dodatkiem meksykańskich zazielenin, takich jak zielona papryka i zielony czosnek."
+            },
+            {
+                "nazwa": "Gazpacho z Meksykańskim Akcentem",
+                "opis": "Chłodna zupa gazpacho z dodatkiem meksykańskich składników, takich jak avocado, cynamon i czerwony chili."
+            },
+            {
+                "nazwa": "Polenta z Meksykańskim Kolekcjonerem",
+                "opis": "Ciepła polenta z dodatkiem meksykańskich składników, takich jak szpinak, papryka i zielony czosnek."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab Wege z Ayranem i Pide",
                 "opis": "Smaczny kebab wegetariański z ayranem i pide, idealny na szybko i tanio."
             },
@@ -352,24 +370,6 @@
             {
                 "nazwa": "Zdrowe Frittate z Warzywami",
                 "opis": "Czytelny i smaczny przepis na zdrowe frittate z warzywami, idealne na obiad lub do lunchboxa."
-            }
-        ],
-        [
-            {
-                "nazwa": "Prowansalski Baton z Migdałami i Miodem",
-                "opis": "Specjalność regionu Prowansji - cienki, chrupiący baton z migdałami i miodem, idealny na przekąskę lub podawany na śniadanie."
-            },
-            {
-                "nazwa": "Francuskie Naleśniki z Mąki Gryczanej",
-                "opis": "Lekkie i smaczne francuskie naleśniki z mąki gryczanej, idealne na obiad lub do lunchboxa."
-            },
-            {
-                "nazwa": "Warzywne Pide z Bakłażanem i Cukinią",
-                "opis": "Twórcze połączenie francuskich smaków z turecką tradycją kulinarną - chrupiące i smaczne warzywne pide z bakłażanem i cukinią."
-            },
-            {
-                "nazwa": "Winegret z Musztardą Francuską",
-                "opis": "Szybkie i łatwe do przygotowania danie z francuską musztardą, idealne na przekąskę lub do chleba."
             }
         ]
     ]

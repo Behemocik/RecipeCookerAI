@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
         "Francuska (Prowansalska)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Indyjska (Curry House)",
         "Brazylijska",
-        "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Indonezyjska (Bali Vibe)"
+        "Smak Jesieni (Dyniowe/Grzybowe)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1462348283115606036,
+        "message_id": 1462713061671567411,
         "options": [
-            "Kebab Wege z Ayranem i Pide",
-            "Hummus Idealny z Tahiny i Ciecierzycy",
-            "Sałatka Gyros z Roślinnymi Opcjami"
+            "Taco Quesadilla Fusion",
+            "Carpaccio z Meksykańską Zazieleniną",
+            "Gazpacho z Meksykańskim Akcentem"
         ]
     }
 }
