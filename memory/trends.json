@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab z Meksykańską Zazieleniną",
+                "opis": "Zmodyfikowany kebab turecki z dodatkiem meksykańskich zazielenin, takich jak zielona papryka i zielony czosnek, podawany w cieście tortilli."
+            },
+            {
+                "nazwa": "Adana Kebab z Polentą",
+                "opis": "Tradycyjny kebab Adana z dodatkiem ciepłej polenty, która dodaje nowej tekstury i smaku tej dawnej tureckiej receptury."
+            },
+            {
+                "nazwa": "Beyti Kebab z Gazpacho",
+                "opis": "Nowy wariant Beyti kebabu z dodatkiem chłodnej zupy gazpacho, która dodaje smacznego i świeżego uzupełnienia dla tej popularnej tureckiej receptury."
+            },
+            {
+                "nazwa": "Dürüm z Meksykańskim Kolekcjonerem",
+                "opis": "Nowy wariant popularnego dürümu z dodatkiem meksykańskich składników, takich jak szpinak, papryka i zielony czosnek, który dodaje nowe nuty smaku do tej tradycyjnej tureckiej receptury."
+            }
+        ],
+        [
+            {
                 "nazwa": "Taco Quesadilla",
                 "opis": "Nowa wersja popularnego taquera z dodatkiem włoskiego twarogu i zielonej cebuli, podawana w cieście tortilli."
             },
@@ -352,24 +370,6 @@
             {
                 "nazwa": "Ryż z Mleczkiem Kokosowym i Kurczakiem",
                 "opis": "Smaczny, gotowany ryż z mleczkiem kokosowym i kurczakiem."
-            }
-        ],
-        [
-            {
-                "nazwa": "Krewetki Creole z Zieloną Papryką",
-                "opis": "Łatwy i zdrowy przepis na krewetki Creole z dodatkiem zielonej papryki, idealny na obiad lub do lunchboxa."
-            },
-            {
-                "nazwa": "Furajedzenia z Cajun Seasoning",
-                "opis": "Proste i smaczne furajedzenia z Cajun Seasoning, idealne na przekąskę lub do chleba."
-            },
-            {
-                "nazwa": "Tureckie-Inspirokane Warzywne Pide z Bakłażanem i Cukinią",
-                "opis": "Twórcze połączenie francuskich smaków z turecką tradycją kulinarną - chrupiące i smaczne warzywne pide z bakłażanem i cukinią."
-            },
-            {
-                "nazwa": "Zdrowe Frittate z Warzywami",
-                "opis": "Czytelny i smaczny przepis na zdrowe frittate z warzywami, idealne na obiad lub do lunchboxa."
             }
         ]
     ]

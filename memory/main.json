@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
         "Francuska (Prowansalska)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
         "Indyjska (Curry House)",
-        "Brazylijska",
-        "Smak Jesieni (Dyniowe/Grzybowe)"
+        "Brazylijska"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1462713061671567411,
+        "message_id": 1463075867759743169,
         "options": [
-            "Taco Quesadilla Fusion",
-            "Carpaccio z Meksykańską Zazieleniną",
-            "Gazpacho z Meksykańskim Akcentem"
+            "Meksykańsko-Tureckie Kebaby z Zazieleniną",
+            "Adana Kebab z Polentą",
+            "Beyti Kebab z Gazpacho"
         ]
     }
 }
