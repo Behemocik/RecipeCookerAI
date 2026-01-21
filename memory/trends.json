@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab z Sosem Teriyaki i Zieloną Papryką",
+                "opis": "Klasyczny kebab turecki z dodatkiem ciekawego smaku sosu teriyaki i świeżych zielonych papryczek, które dodają nowej tekstury i smaku tej dawnej tureckiej receptury."
+            },
+            {
+                "nazwa": "Polenta z Sosem Tzatziki i Kiełbasą Japońską",
+                "opis": "Nowy wariant polenty z dodatkiem świeżego sosu tzatziki i kiełbasy japońskiej, która dodaje nowych nut smaku do tej popularnej receptury."
+            },
+            {
+                "nazwa": "Dürüm z Sosem Goma i Warzywnymi Zazieleninami",
+                "opis": "Nowy wariant popularnego dürümu z dodatkiem ciekawego smaku sosu goma i świeżych warzywnych zazielenin, które dodają nowych smaków do tej tradycyjnej tureckiej receptury."
+            },
+            {
+                "nazwa": "Kebab z Ciepłą Polentą i Sosem Sambal Oelek",
+                "opis": "Tradycyjny kebab z dodatkiem ciepłej polenty i ciekawego smaku sosu sambal oelek, który dodaje nowych smaków do tej dawnej tureckiej receptury."
+            },
+            {
+                "nazwa": "Beyti Kebab z Gazpacho i Sosem Sriracha",
+                "opis": "Nowy wariant Beyti kebabu z dodatkiem chłodnej zupy gazpacho i ciekawego smaku sosu sriracha, która dodaje smacznego i świeżego uzupełnienia dla tej popularnej tureckiej receptury."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab z Meksykańską Zazieleniną",
                 "opis": "Zmodyfikowany kebab turecki z dodatkiem meksykańskich zazielenin, takich jak zielona papryka i zielony czosnek, podawany w cieście tortilli."
             },
@@ -348,28 +370,6 @@
             {
                 "nazwa": "Dyniowe Makarony z Warzywami",
                 "opis": "Smaczne makarony z dynią i warzywami, idealne jako główne danie na imprezę jesiennej."
-            }
-        ],
-        [
-            {
-                "nazwa": "Ramy z Kurczakiem i Szpinakiem w Sosie Kokosowym",
-                "opis": "Klasyczne japońskie danie z kurczakiem i szpinakiem w smacznym sosie kokosowym."
-            },
-            {
-                "nazwa": "Tamagoyaki z Kurczakiem i Zielonym Pieprzem",
-                "opis": "Japoński omlet z kurczakiem, zielonym pieprzem i innymi smacznymi składnikami."
-            },
-            {
-                "nazwa": "Hourensou Goma-Ae z Kurczakiem i Szpinakiem",
-                "opis": "Klasyczne japońskie danie z kurczakiem i szpinakiem w sosie sezamowym."
-            },
-            {
-                "nazwa": "Gyoza z Kurczakiem i Zielonym Pieprzem",
-                "opis": "Małe, japońskie pierożki z kurczakiem, zielonym pieprzem i innymi smacznymi składnikami."
-            },
-            {
-                "nazwa": "Ryż z Mleczkiem Kokosowym i Kurczakiem",
-                "opis": "Smaczny, gotowany ryż z mleczkiem kokosowym i kurczakiem."
             }
         ]
     ]

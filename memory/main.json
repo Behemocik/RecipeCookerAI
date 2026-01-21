@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Hiszpańska (Tapas/Paella)",
         "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
-        "Indyjska (Curry House)",
-        "Brazylijska"
+        "Indyjska (Curry House)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Azja",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1463075867759743169,
+        "message_id": 1463437887868768309,
         "options": [
-            "Meksykańsko-Tureckie Kebaby z Zazieleniną",
-            "Adana Kebab z Polentą",
-            "Beyti Kebab z Gazpacho"
+            "Kebab z Sosem Teriyaki i Zieloną Papryką",
+            "Polenta z Sosem Tzatziki i Kiełbasą Japońską",
+            "Dürüm z Sosem Goma i Warzywnymi Zazieleninami"
         ]
     }
 }
