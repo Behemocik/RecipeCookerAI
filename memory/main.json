@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Hiszpańska (Tapas/Paella)",
         "Turecka (Kebab/Meze)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Indyjska (Curry House)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
         "Azja",
-        "Specjalne / Klimatyczne"
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1463437887868768309,
+        "message_id": 1463800162844541086,
         "options": [
-            "Kebab z Sosem Teriyaki i Zieloną Papryką",
-            "Polenta z Sosem Tzatziki i Kiełbasą Japońską",
-            "Dürüm z Sosem Goma i Warzywnymi Zazieleninami"
+            "Meze z Halloumi i Hummusem",
+            "Kebab z Tureckimi Plackami Warzywnymi",
+            "Beyti Kebab z Gazpacho i Sosem Sriracha"
         ]
     }
 }

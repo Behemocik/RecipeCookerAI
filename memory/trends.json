@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Warzywne Meze z Halloumi i Hummusem",
+                "opis": "Smażony halloumi, hummus i świeże owoce morza w harmonijnym połączeniu, idealne dla tych, którzy szukają zdrowego i smacznego rozwiązania."
+            },
+            {
+                "nazwa": "Kebab z Tureckimi Plackami Warzywnymi",
+                "opis": "Klasyczny kebab z dodatkiem tureckich placków warzywnych, które dają nową teksturę i smak tej tradycyjnej receptury."
+            },
+            {
+                "nazwa": "Gazpacho z Beyti Kebabem i Sosem Sriracha",
+                "opis": "Chłodna zupa gazpacho z Beyti kebabem i ciekawym smakiem sosu sriracha, idealne zrównoważenie smaków i temperatur."
+            },
+            {
+                "nazwa": "Polenta z Sosem Chili i Warzywnymi Zazieleninami",
+                "opis": "Nowy wariant polenty z dodatkiem ciekawego smaku sosu chili i świeżych warzywnych zazielenin, które dodają nowych smaków do tej popularnej receptury."
+            },
+            {
+                "nazwa": "Dürüm z Sosem Tzatziki i Kiełbasą Japońską",
+                "opis": "Nowy wariant popularnego dürümu z dodatkiem świeżego sosu tzatziki i kiełbasy japońskiej, która dodaje nowych nut smaku do tej tradycyjnej tureckiej receptury."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab z Sosem Teriyaki i Zieloną Papryką",
                 "opis": "Klasyczny kebab turecki z dodatkiem ciekawego smaku sosu teriyaki i świeżych zielonych papryczek, które dodają nowej tekstury i smaku tej dawnej tureckiej receptury."
             },
@@ -356,20 +378,6 @@
             {
                 "nazwa": "Salsa-Shop Tex-Mex Zesty Quesadillas",
                 "opis": "Zapiekane quesadillas z zesłonymi składnikami i wypełnione salsą, idealne dla miłośników Tex-Mex."
-            }
-        ],
-        [
-            {
-                "nazwa": "Dyniowy Gulasz z Grzybami",
-                "opis": "Klasyczne jesienny przepis na gulasz z dyni i grzybami, idealny na zimne wieczory."
-            },
-            {
-                "nazwa": "Smażone Warzywa z Sosem Charmoula",
-                "opis": "Smażone warzywa w połączeniu z sosem charmoula z kolendry, dodatkiem suszonych grzybów i smażonej cebulki."
-            },
-            {
-                "nazwa": "Dyniowe Makarony z Warzywami",
-                "opis": "Smaczne makarony z dynią i warzywami, idealne jako główne danie na imprezę jesiennej."
             }
         ]
     ]
