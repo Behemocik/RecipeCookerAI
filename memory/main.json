@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Węgierska (Papryka)",
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
         "Japońska (Domowa)",
@@ -13,19 +14,18 @@
         "Ukraińska (Wareniki/Barszcz)",
         "Argentyńska",
         "Babcina Kuchnia (Comfort Food)",
-        "Hiszpańska (Tapas/Paella)",
-        "Turecka (Kebab/Meze)"
+        "Hiszpańska (Tapas/Paella)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Azja"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1464162208094224528,
+        "message_id": 1464522584191271109,
         "options": [
-            "Turbuskie Jajka z Papryką i Halloumi",
-            "Turkiskie Jajka z Hummusem i Papryką",
-            "Mezze z Jajkiem Sadzonym i Halloumi"
+            "Paprykowe Palacsinta",
+            "Faszerowana Papryka z Erös Pista",
+            "Goulash Paprykowy z Nudlami"
         ]
     }
 }

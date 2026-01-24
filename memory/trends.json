@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Paprykowe Palacsinta",
+                "opis": "Klasyczne węgierskie palacsinta z nadzieniem z papryki, mleka i czarnego pieprzu, idealne na śniadanie lub kolację."
+            },
+            {
+                "nazwa": "Faszerowana Papryka z Erös Pista",
+                "opis": "Papryka faszerowana paską z Erös Pista, popularnej węgierskiej pasty z papryki, idealna jako przystawkę lub dodatek do dania głównego."
+            },
+            {
+                "nazwa": "Goulash Paprykowy z Nudlami",
+                "opis": "Klasyczny węgierski goulash z papryką, przygotowany na nucie z makaronem, idealny na zimę lub na szybkie i smaczne lunch."
+            },
+            {
+                "nazwa": "Paprykowe Faszerowane Jajka",
+                "opis": "Jajka faszerowane nadzieniem z papryki, mleka i czarnego pieprzu, idealne na śniadanie lub kolację."
+            }
+        ],
+        [
+            {
                 "nazwa": "Turbuskie Jajka z Papryką i Halloumi",
                 "opis": "Jajka faszerowane pasztetem z dodatkiem smażonego halloumi i świeżej papryki."
             },
@@ -364,28 +382,6 @@
             {
                 "nazwa": "Grzybowe Steki z Dynią",
                 "opis": "Szybkie i aromatyczne steki z grzybami i dynią, idealne na jesienne menu."
-            }
-        ],
-        [
-            {
-                "nazwa": "Babi Kecap - Indonezyjskie Wegetariańskie Danie z Bali",
-                "opis": "Pyszne i tanie wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Babi Kecap."
-            },
-            {
-                "nazwa": "Indonezyjski Pad Thai z Warzywną Miską",
-                "opis": "Szybkie i aromatyczne wegetariańskie danie z orientalną nutą, polegające na szybkim przygotowaniu Pad Thai z dodatkami warzyw w misce."
-            },
-            {
-                "nazwa": "Rendang - Indonezyjskie Wegetariańskie Danie z Bali",
-                "opis": "Pyszne i smaczne wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Rendang."
-            },
-            {
-                "nazwa": "Indonezyjskie Fritters z Warzywną Sosą",
-                "opis": "Lekkie i tanie wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - warzywna sos."
-            },
-            {
-                "nazwa": "Bali Roti z Wegetariańską Fasolą",
-                "opis": "Pyszne i smaczne wegetariańskie danie z Bali, polegające na szybkim i łatwym przygotowaniu, z nietypowym składnikiem - Bali Roti z fasolą."
             }
         ]
     ]
