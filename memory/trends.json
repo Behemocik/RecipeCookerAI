@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kerala-Style Śniadanie",
+                "opis": "Indyjskie śniadanie z tradycyjnymi składnikami Kerala, takimi jak idlis, dosas i chutney, z dodatkiem świeżych owoców i herbaty."
+            },
+            {
+                "nazwa": "Curry-Grilled Ryba z Kadgeree",
+                "opis": "Tajski i indyjski styl smażonej ryby z kadgeree, posypanej curry, z dodatkiem sałatki warzywnej i owocowej."
+            },
+            {
+                "nazwa": "Tarka Dahl z Sałatką Owoocową",
+                "opis": "Indyjski przepis na sałatkę owocową z truskawkami, mango i innymi sezonowymi owocami, oraz tarka dahl z warzywami i herbata."
+            },
+            {
+                "nazwa": "Kolacja z Indyjsko-Tureckiej Sałatki",
+                "opis": "Kolacja z kombinacji składników indyjskich i tureckich, takich jak sałatka warzywna i owocowa, z dodatkiem kurczaka lub rybnej farszówki."
+            }
+        ],
+        [
+            {
                 "nazwa": "Paprykowe Palacsinta",
                 "opis": "Klasyczne węgierskie palacsinta z nadzieniem z papryki, mleka i czarnego pieprzu, idealne na śniadanie lub kolację."
             },
@@ -360,28 +378,6 @@
             {
                 "nazwa": "Tapioca z mięsem i warzywami korzeniowymi, podana w egzotycznej skrzynce",
                 "opis": "Klasyczne danie brazylijskie z tapiocą, mięsem i warzywami korzeniowymi, podane w egzotycznej skrzynce, idealne na zdrowe i egzotyczne posiłki."
-            }
-        ],
-        [
-            {
-                "nazwa": "Dyniowe Leczo z Grzybami",
-                "opis": "Pyszne i smaczne leczko z dyni i grzybami, idealne na jesienne wieczory."
-            },
-            {
-                "nazwa": "Ratatouille z Warzywami Korzeniowymi",
-                "opis": "Ciekawe i aromatyczne ratatouille z warzywami korzeniowymi, idealne na jesienne menu."
-            },
-            {
-                "nazwa": "Grzybowe Fajtki z Dynią",
-                "opis": "Lekkie i tanie fajtki z grzybami i dynią, idealne na szybkie i smaczne jedzenie."
-            },
-            {
-                "nazwa": "Dyniowe Kluski z Warzywami",
-                "opis": "Pyszne i smaczne kluski z dyni i warzywami, idealne na jesienne potrawy."
-            },
-            {
-                "nazwa": "Grzybowe Steki z Dynią",
-                "opis": "Szybkie i aromatyczne steki z grzybami i dynią, idealne na jesienne menu."
             }
         ]
     ]

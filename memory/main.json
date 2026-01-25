@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Indyjska (Curry House)",
         "Węgierska (Papryka)",
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Wietnamska (Street Food)",
         "Ukraińska (Wareniki/Barszcz)",
         "Argentyńska",
-        "Babcina Kuchnia (Comfort Food)",
-        "Hiszpańska (Tapas/Paella)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Europa",
-        "Specjalne / Klimatyczne"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1464522584191271109,
+        "message_id": 1464885481576861802,
         "options": [
-            "Paprykowe Palacsinta",
-            "Faszerowana Papryka z Erös Pista",
-            "Goulash Paprykowy z Nudlami"
+            "Kerala-Style Śniadanie",
+            "Curry-Grilled Ryba z Kadgeree",
+            "Tarka Dahl z Sałatką Owoocową"
         ]
     }
 }
