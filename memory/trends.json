@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tureckie Meze z Sałatką",
+                "opis": "Szybkie i tanie danie z tureckich meze, gotowane na ciepło z warzywami, szpinakiem i serem, z dodatkiem sałatki ziemniaczanej i orzechów."
+            },
+            {
+                "nazwa": "Kebab Solo z Surówką",
+                "opis": "Mały kebab z kurczaka lub wołowiny, smażony na grillu, z dodatkiem surówki z pomidorów, ogórka i cebuli."
+            },
+            {
+                "nazwa": "Tanie i Szybkie Dania z Kaszy",
+                "opis": "Sycąca sałatka z kaszy, która może być spożywana jako obiad, z dodatkiem warzyw i przypraw tureckich."
+            },
+            {
+                "nazwa": "Meze z Dodatkiem Surówki",
+                "opis": "Typowy turecki styl jedzenia, w którym sałatka z warzyw i orzechów jest dodawana do różnych składników meze, takich jak kebab i przystawki."
+            },
+            {
+                "nazwa": "Szybka Sałatka z Warzyw i Orzechów",
+                "opis": "Szybka i zdrowa sałatka z warzyw i orzechów, idealna do spożycia jako przystawka lub dodatek do innych dań."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kerala-Style Śniadanie",
                 "opis": "Indyjskie śniadanie z tradycyjnymi składnikami Kerala, takimi jak idlis, dosas i chutney, z dodatkiem świeżych owoców i herbaty."
             },
@@ -360,24 +382,6 @@
             {
                 "nazwa": "Aromatyczny Curry z Dynią i Krokietem z Mięsem",
                 "opis": "Smaczny curry z currym, wzbogacony o aromatyczny smak dyni i chrupiący krokiet z mięsem, idealny na szybkie i tanie jedzenie."
-            }
-        ],
-        [
-            {
-                "nazwa": "Tapioca z warzywami korzeniowymi i mięsem",
-                "opis": "Klasyczne danie brazylijskie z tapiocą, warzywami korzeniowymi i mięsem, idealne na zdrowe i egzotyczne posiłki."
-            },
-            {
-                "nazwa": "Aromatyczne owoce tropikalne z migdałami i jogurtem",
-                "opis": "Smaczne i zdrowe śniadanie z owosem tropikalnym, migdałami i jogurtem, idealne na wiosenny poranek."
-            },
-            {
-                "nazwa": "Grzybowe fajtki z dynią i warzywami korzeniowymi",
-                "opis": "Lekkie i tanie fajtki z grzybami, dynią i warzywami korzeniowymi, idealne na szybkie i smaczne jedzenie."
-            },
-            {
-                "nazwa": "Tapioca z mięsem i warzywami korzeniowymi, podana w egzotycznej skrzynce",
-                "opis": "Klasyczne danie brazylijskie z tapiocą, mięsem i warzywami korzeniowymi, podane w egzotycznej skrzynce, idealne na zdrowe i egzotyczne posiłki."
             }
         ]
     ]

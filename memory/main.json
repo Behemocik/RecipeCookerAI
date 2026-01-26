@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Indyjska (Curry House)",
         "Węgierska (Papryka)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "Peruwiańska",
         "Wietnamska (Street Food)",
         "Ukraińska (Wareniki/Barszcz)",
-        "Argentyńska",
-        "Babcina Kuchnia (Comfort Food)"
+        "Argentyńska"
     ],
     "last_regions": [
         "Azja",
-        "Europa"
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1464885481576861802,
+        "message_id": 1465249715913232456,
         "options": [
-            "Kerala-Style Śniadanie",
-            "Curry-Grilled Ryba z Kadgeree",
-            "Tarka Dahl z Sałatką Owoocową"
+            "Tureckie Meze z Sałatką",
+            "Kebab Solo z Surówką",
+            "Kebab z Sałatką Warzywną"
         ]
     }
 }
