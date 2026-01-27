@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Wurstowe Kartoflanki z Maślakami",
+                "opis": "Klasyczne niemieckie kartoflanki z dodatkiem maślaków i przyprawami, które idealnie uzupełniają smak kebabu."
+            },
+            {
+                "nazwa": "Kebabowe Wursty z Warzywami i Orzechami",
+                "opis": "Kebabowe wursty z dodatkiem warzyw i orzechów, które dają niepowtarzalny smak i zapach."
+            },
+            {
+                "nazwa": "Tanie i Szybkie Wurstowe Dania z Kaszą",
+                "opis": "Szybkie i tanie danie z kaszą i wurstami, które może być spożywane jako obiad lub przystawka."
+            },
+            {
+                "nazwa": "Niemieckie Wurstowe Kebaby z Surówką",
+                "opis": "Małe kebaby z kurczaka lub wołowiny, smażone na grillu, z dodatkiem surówki z pomidorów, ogórka i cebuli."
+            },
+            {
+                "nazwa": "Wurstowe Dania z Kartoflanką i Warzywami",
+                "opis": "Klasyczne niemieckie dania z kartoflanką i warzywami, które idealnie uzupełniają smak kebabu."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tureckie Meze z Sałatką",
                 "opis": "Szybkie i tanie danie z tureckich meze, gotowane na ciepło z warzywami, szpinakiem i serem, z dodatkiem sałatki ziemniaczanej i orzechów."
             },
@@ -368,20 +390,6 @@
             {
                 "nazwa": "Mandarynkowe Pastelki z Kiełbasą i Szałwią",
                 "opis": "Mandarynkowe pastelki z kiełbasą i szałwią, które dodają słodyczy i smaku, stworzone w duchu tradycyjnych kulinarnej wędrówki po świecie."
-            }
-        ],
-        [
-            {
-                "nazwa": "Dyniowy Curry z Grzybami",
-                "opis": "Klasyczny curry z currym z dyni, dodatkowo wzbogacony o smak i teksturę grzybów, idealny na wiosenny poranek."
-            },
-            {
-                "nazwa": "Brokoladowy Curry z Kurczakiem i Szałwią",
-                "opis": "Smacznym kurczakiem i brokół, wzbogacony przez szałwię lekarską, w klasycznym curry z currym."
-            },
-            {
-                "nazwa": "Aromatyczny Curry z Dynią i Krokietem z Mięsem",
-                "opis": "Smaczny curry z currym, wzbogacony o aromatyczny smak dyni i chrupiący krokiet z mięsem, idealny na szybkie i tanie jedzenie."
             }
         ]
     ]

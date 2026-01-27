@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Niemiecka (Wurst/Kartoffel)",
         "Turecka (Kebab/Meze)",
         "Indyjska (Curry House)",
         "Węgierska (Papryka)",
@@ -13,19 +14,18 @@
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
         "Wietnamska (Street Food)",
-        "Ukraińska (Wareniki/Barszcz)",
-        "Argentyńska"
+        "Ukraińska (Wareniki/Barszcz)"
     ],
     "last_regions": [
-        "Azja",
+        "Europa",
         "Azja"
     ],
     "last_poll": {
-        "message_id": 1465249715913232456,
+        "message_id": 1465612067376726057,
         "options": [
-            "Tureckie Meze z Sałatką",
-            "Kebab Solo z Surówką",
-            "Kebab z Sałatką Warzywną"
+            "Wurstowe Kartoflanki z Maślakami",
+            "Kebabowe Wursty z Warzywami i Orzechami",
+            "Kebab z Sałatką Warzywną i Kaszą"
         ]
     }
 }
