@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Niemiecka (Wurst/Kartoffel)",
         "Turecka (Kebab/Meze)",
         "Indyjska (Curry House)",
@@ -13,19 +14,18 @@
         "Francuska (Prowansalska)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
-        "Wietnamska (Street Food)",
-        "Ukraińska (Wareniki/Barszcz)"
+        "Wietnamska (Street Food)"
     ],
     "last_regions": [
-        "Europa",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1465612067376726057,
+        "message_id": 1465973968853930066,
         "options": [
-            "Wurstowe Kartoflanki z Maślakami",
-            "Kebabowe Wursty z Warzywami i Orzechami",
-            "Kebab z Sałatką Warzywną i Kaszą"
+            "Tureckie Bułki z Kurczakiem i Surówką",
+            "Kurczak z Papryką i Kaszą z Sosem Tureckim",
+            "Tureckie Szaszłyki z Warzywami"
         ]
     }
 }

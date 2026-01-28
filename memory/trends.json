@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tureckie Bułki z Kurczakiem i Surówką",
+                "opis": "Miękkie i delikatne tureckie bułki z kurczakiem i surówką z pomidorów, ogórka i cebuli."
+            },
+            {
+                "nazwa": "Kurczak z Papryką i Kaszą",
+                "opis": "Smaczny i łatwy w przygotowaniu kurczak z papryką i kaszą, który idealnie uzupełnia smak tureckich dań."
+            },
+            {
+                "nazwa": "Tureckie Szaszłyki z Warzywami",
+                "opis": "Pyszne tureckie szaszłyki z warzywami, które dają niepowtarzalny smak i zapach."
+            }
+        ],
+        [
+            {
                 "nazwa": "Wurstowe Kartoflanki z Maślakami",
                 "opis": "Klasyczne niemieckie kartoflanki z dodatkiem maślaków i przyprawami, które idealnie uzupełniają smak kebabu."
             },
@@ -368,28 +382,6 @@
             {
                 "nazwa": "Tureckie Salatki z Wegetariańskimi Ingrediencjami",
                 "opis": "Zobacz, jak przygotować tureckie salatki z wegetariańskimi składnikami, które są idealne na codzienne posiłki lub na imprezę."
-            }
-        ],
-        [
-            {
-                "nazwa": "Mandarynkowe Śniadanie z Kiełbasą i Szałwią",
-                "opis": "Klasyczne śniadanie z mandarynką, która dodaje słodyczy i smaku, łączące się z kiełbasą i szałwią, tworząc niepowtarzalną kombinację smaków."
-            },
-            {
-                "nazwa": "Śniadanie z Szerokością Świata: Cytryna, Limonka i Kiełbasa",
-                "opis": "Śniadanie, które łączy w sobie słodycz cytryny, słoność limonki i smak kiełbasy, stworzone w duchu kulinarnej wędrówki po świecie."
-            },
-            {
-                "nazwa": "Kurczak z Currym z Mandarynką i Szałwią",
-                "opis": "Smaczny kurczak z currym, który dodaje słodyczy i smaku mandarynki i szałwii, tworząc niepowtarzalną kombinację smaków po azjatycku."
-            },
-            {
-                "nazwa": "Szałwiana Kiełbasa z Mandarynką i Cytryną",
-                "opis": "Świąteczna kiełbasa z szałwią, która dodaje smaku i aromatu, łącząca się z mandarynką i cytryną, tworząc niepowtarzalną kombinację smaków."
-            },
-            {
-                "nazwa": "Mandarynkowe Pastelki z Kiełbasą i Szałwią",
-                "opis": "Mandarynkowe pastelki z kiełbasą i szałwią, które dodają słodyczy i smaku, stworzone w duchu tradycyjnych kulinarnej wędrówki po świecie."
             }
         ]
     ]
