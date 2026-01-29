@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kurczak z Grilla z Sałatką Warzywną",
+                "opis": "Smaczny i zdrowy przepis BBQ z sałatką warzywną, gotowany na grilla, z kurczakiem i warzywami, idealny na obiad."
+            },
+            {
+                "nazwa": "Danie BBQ z Warzywami i Rybą",
+                "opis": "Tanie i zdrowe danie BBQ USA z kebabem, gotowane na grilla, z warzywami i rybą, idealne dla osób, które cenią smaczne i zdrowe jedzenie."
+            },
+            {
+                "nazwa": "Sałatka Wiosenna z Warzywami i Grillowanym Kurczakiem",
+                "opis": "Szybki i zdrowy obiad z sałatką wiosenną, gotowaną na grilla, z warzywami i grillowanym kurczakiem."
+            },
+            {
+                "nazwa": "Makaron z Warzywami i Grillowaną Rybą",
+                "opis": "Smaczne i szybkie przepis na obiad, z makaronem, warzywami i grillowaną rybą, idealne dla osób, które szukają zdrowych i smacznych dań."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tureckie Bułki z Kurczakiem i Surówką",
                 "opis": "Miękkie i delikatne tureckie bułki z kurczakiem i surówką z pomidorów, ogórka i cebuli."
             },
@@ -360,28 +378,6 @@
             {
                 "nazwa": "Tapas z Greckich Ogórków i Szafranem",
                 "opis": "Nowy pomysł na tapas z greckimi ogórkami i szafranem. Świeże warzywa i przyprawy w niepowtarzalnej kombinacji smaków."
-            }
-        ],
-        [
-            {
-                "nazwa": "Wegetariańskie Meze z Turcji",
-                "opis": "Odkryj smaki Turcji w tym wyborze wegetariańskich przepisów meze, które łączą świeże warzywa i przyprawy w niepowtarzalną kombinację smaków."
-            },
-            {
-                "nazwa": "Tureckie Kebaby z Wegetariańskimi Ingrediencjami",
-                "opis": "Zastąp tradycyjne kebaby wegetariańskimi składnikami i odkryj nowy smak tej tureckiej klasyki."
-            },
-            {
-                "nazwa": "Szybkie i Tanie Przepisy na Kebaby",
-                "opis": "Zobacz, jak przygotować szybkie i tanie przepisy na kebaby, które są idealne na imprezę lub codzienne posiłki."
-            },
-            {
-                "nazwa": "Imprezowe Przepisy Tureckie na Wesele lub Inną Wydarzenie",
-                "opis": "Odkryj nasze inspirujące pomysły na przepisy tureckie na imprezę, które są idealne na wesele lub inne wydarzenie."
-            },
-            {
-                "nazwa": "Tureckie Salatki z Wegetariańskimi Ingrediencjami",
-                "opis": "Zobacz, jak przygotować tureckie salatki z wegetariańskimi składnikami, które są idealne na codzienne posiłki lub na imprezę."
             }
         ]
     ]

@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (Southern BBQ)",
         "Babcina Kuchnia (Comfort Food)",
         "Niemiecka (Wurst/Kartoffel)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Francuska (Prowansalska)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Peruwiańska",
-        "Wietnamska (Street Food)"
+        "Peruwiańska"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Europa"
+        "Ameryki",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1465973968853930066,
+        "message_id": 1466339670441984247,
         "options": [
-            "Tureckie Bułki z Kurczakiem i Surówką",
-            "Kurczak z Papryką i Kaszą z Sosem Tureckim",
-            "Tureckie Szaszłyki z Warzywami"
+            "Kurczak z Grilla z Sałatką Warzywną",
+            "Kebab BBQ z Sałatką Warzywną",
+            "Sałatka Wiosenna z Warzywami i Grillowanym Kurczakiem"
         ]
     }
 }
