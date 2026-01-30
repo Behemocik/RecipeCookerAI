@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kotlety z Czosnkiem i Ziołami Kuchni Polskiej",
+                "opis": "Klasyczne kotlety z mielonego mięsa z dodatkiem czosnku i ziołów kuchni polskiej, idealne dla osób, które szukają smacznego i prostego jedzenia."
+            },
+            {
+                "nazwa": "Strawberry from Poland - Krem z Truskawek",
+                "opis": "Kremowa potrawa z truskawek, popularny w czasach staropolskich, idealna na wigilijną kolację lub jako deser."
+            },
+            {
+                "nazwa": "Kotlety z Mięsa i Musztardy Stołowej",
+                "opis": "Kotlety z mielonego mięsa z dodatkiem musztardy stołowej, idealne dla osób, które cenią smacznego i proste jedzenie."
+            },
+            {
+                "nazwa": "Polskie Dania Wigilijne - Zapomniane Potrawy",
+                "opis": "Zapomniane potrawy kuchni polskiej, takie jak pierogi, gołąbki i kiełbasa, idealne dla osób, które szukają smacznego i tradycyjnego jedzenia."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kurczak z Grilla z Sałatką Warzywną",
                 "opis": "Smaczny i zdrowy przepis BBQ z sałatką warzywną, gotowany na grilla, z kurczakiem i warzywami, idealny na obiad."
             },
@@ -360,24 +378,6 @@
             {
                 "nazwa": "Klasyczne Tureckie Śniadanie z Kebabem i Jajkiem, z Dodatkami",
                 "opis": "Klasyczne tureckie śniadanie z kebabem, jajkiem i dodatkami, takimi jak sahan kreması i muhammara, które dają unikalny smak i teksturę, a także dodatkową świeżość i chłód dzięki sosem tzatziki."
-            }
-        ],
-        [
-            {
-                "nazwa": "Tapas Paella Fusion",
-                "opis": "Fuzja tradycyjnych hiszpańskich tapas i paelli z nowymi smakami i tekturemi. Wyobraź sobie tapas z kawałkami kruczaka i owocami morza, podane z czerwoną papryką i szafranowym sosem béarnaise."
-            },
-            {
-                "nazwa": "Szafranowe Tapas z Wegetariańskimi Ingrediencjami",
-                "opis": "Nowy pomysł na wegetariańskie tapas z szafranowym sosem i świeżymi warzywami. Idealne na kolację lub imprezę."
-            },
-            {
-                "nazwa": "Hiszpańskie Paella z Meksykańskimi Smakami",
-                "opis": "Kombinacja smaków hiszpańskiej paelli i meksykańskich przypraw. Świeże warzywa, owoc morza i kawałki kruczaka w smaku i tekture."
-            },
-            {
-                "nazwa": "Tapas z Greckich Ogórków i Szafranem",
-                "opis": "Nowy pomysł na tapas z greckimi ogórkami i szafranem. Świeże warzywa i przyprawy w niepowtarzalnej kombinacji smaków."
             }
         ]
     ]

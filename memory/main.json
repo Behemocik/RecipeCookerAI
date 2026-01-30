@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Polska (Staropolska)",
         "USA (Southern BBQ)",
         "Babcina Kuchnia (Comfort Food)",
         "Niemiecka (Wurst/Kartoffel)",
@@ -13,19 +14,18 @@
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
         "Francuska (Prowansalska)",
-        "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Peruwiańska"
+        "Smak Jesieni (Dyniowe/Grzybowe)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Specjalne / Klimatyczne"
+        "Europa",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1466339670441984247,
+        "message_id": 1466701436279591080,
         "options": [
-            "Kurczak z Grilla z Sałatką Warzywną",
-            "Kebab BBQ z Sałatką Warzywną",
-            "Sałatka Wiosenna z Warzywami i Grillowanym Kurczakiem"
+            "Kotlety z Czosnkiem i Ziołami Kuchni Polskiej",
+            "Smacznica z Truskawek",
+            "Kotlety z Mięsa i Musztardy Stołowej z Sałatką Warzywno-Owocową"
         ]
     }
 }
