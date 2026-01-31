@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Polska (Staropolska)",
         "USA (Southern BBQ)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
-        "Francuska (Prowansalska)",
-        "Smak Jesieni (Dyniowe/Grzybowe)"
+        "Francuska (Prowansalska)"
     ],
     "last_regions": [
-        "Europa",
-        "Ameryki"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1466701436279591080,
+        "message_id": 1467061705350713521,
         "options": [
-            "Kotlety z Czosnkiem i Ziołami Kuchni Polskiej",
-            "Smacznica z Truskawek",
-            "Kotlety z Mięsa i Musztardy Stołowej z Sałatką Warzywno-Owocową"
+            "Kebab w Tortilli",
+            "Domowe Pierożki Kebabowe",
+            "Meze z Soczewicą"
         ]
     }
 }

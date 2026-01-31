@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab w Tortilli",
+                "opis": "Pyszne, szybkie i tanie danie, idealne na obiad i każdą imprezę. Tortilla zastąpiona kebabem, a sos czosnkowy dodaje odkrywczy smak."
+            },
+            {
+                "nazwa": "Domowe Pierożki Kebabowe",
+                "opis": "Proste i szybkie przepisy na pyszne pierożki kebabowe, idealne na każdą domową imprezę. Klasyczne kebaby w nowoczesnej formie."
+            },
+            {
+                "nazwa": "Meze z Soczewicą",
+                "opis": "Tanio, zdrowo i szybko przygotowywane danie, idealne dla zajętych studentów i osób szukających smacznego i łatwego jedzenia. Soczewica w nowoczesnej interpretacji cypryjskiej kuchni."
+            },
+            {
+                "nazwa": "Turecka Sałatka z Kebabem",
+                "opis": "Klasyczna turecka sałatka, która idealnie komponuje się z kebabem. Klasyczny smak z nowoczesną formą."
+            },
+            {
+                "nazwa": "Bulion z Kiełbasą Kebabową",
+                "opis": "Smaczny i tradycyjny bulion z kiełbasą kebabową. Nowoczesna interpretacja polskich dań wigilijnych."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kotlety z Czosnkiem i Ziołami Kuchni Polskiej",
                 "opis": "Klasyczne kotlety z mielonego mięsa z dodatkiem czosnku i ziołów kuchni polskiej, idealne dla osób, które szukają smacznego i prostego jedzenia."
             },
@@ -356,28 +378,6 @@
             {
                 "nazwa": "Kebabowe Zupa z Warzywami i Serem",
                 "opis": "Świeży i smaczny kebab zupa z różnymi warzywami i serem, idealna na zimowy dzień."
-            }
-        ],
-        [
-            {
-                "nazwa": "Tureckie Śniadanie z Kebabem i Jajkiem",
-                "opis": "Klasyczne tureckie śniadanie z kebabem, jajkiem i dodatkami, takimi jak sahan kreması i muhammara, które dają unikalny smak i teksturę."
-            },
-            {
-                "nazwa": "Kebabowe Śniadanie z Jajkiem i Sosem Tzatziki",
-                "opis": "Śniadanie z kebabem, jajkiem i sosem tzatziki, który dodaje chłodu i świeżości do klasycznej kombinacji kebabu i jajka."
-            },
-            {
-                "nazwa": "Menemen z Kebabem i Pieczywem",
-                "opis": "Nowy pomysł na śniadanie, w którym menemen, czyli turecka jajecznica, jest kombinowana z kebabem i pieczywem, tworząc unikalną i smaczną kombinację smaków."
-            },
-            {
-                "nazwa": "Turecka Ogień z Kebabem i Jajkiem",
-                "opis": "Śniadanie, które łączy smaki i tekstury kebabu i jajka, z dodatkowymi ingrediencjami, takimi jak papryka i szafran, które dają unikalny smak i barwę."
-            },
-            {
-                "nazwa": "Klasyczne Tureckie Śniadanie z Kebabem i Jajkiem, z Dodatkami",
-                "opis": "Klasyczne tureckie śniadanie z kebabem, jajkiem i dodatkami, takimi jak sahan kreması i muhammara, które dają unikalny smak i teksturę, a także dodatkową świeżość i chłód dzięki sosem tzatziki."
             }
         ]
     ]
