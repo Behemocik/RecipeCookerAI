@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
         "Polska (Staropolska)",
         "USA (Southern BBQ)",
@@ -13,19 +14,18 @@
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
-        "Turecka (Kebab/Meze)",
-        "Francuska (Prowansalska)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1467061705350713521,
+        "message_id": 1467425906631901288,
         "options": [
-            "Kebab w Tortilli",
-            "Domowe Pierożki Kebabowe",
-            "Meze z Soczewicą"
+            "Pomysłowe Kebabowe Placki",
+            "Sałatka Kebabowo-Jogurtowa",
+            "Kiełbasa Kebabowa z Sałatką NYC Style"
         ]
     }
 }

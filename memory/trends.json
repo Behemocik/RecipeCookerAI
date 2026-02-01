@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebabowe Placki",
+                "opis": "Nowoczesna wersja klasycznych placków, z kebabem jako głównym składnikiem. Idealne dla tych, którzy szukają szybkiego i smacznego obiadu."
+            },
+            {
+                "nazwa": "Sałatka Kebabowo-Jogurtowa",
+                "opis": "Połączenie ciepłych kebabów z chłodnym jogurtem i smacznymi warzywami. Klasyczna turecka sałatka z nowoczesną twistem."
+            },
+            {
+                "nazwa": "Kiełbasa Kebabowa z Sałatką",
+                "opis": "Tradi cyjny polski przepis na kiełbasę, z kebabową odsłoną. Idealne dla tych, którzy szukają smacznego i łatwego jedzenia."
+            },
+            {
+                "nazwa": "Pierożki Kebabowe z Kawą",
+                "opis": "Klasyczne tureckie pierożki z kebabowym nadzieniem, serwowane z aromatyczną kawą. Idealne na każdą domową imprezę."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab w Tortilli",
                 "opis": "Pyszne, szybkie i tanie danie, idealne na obiad i każdą imprezę. Tortilla zastąpiona kebabem, a sos czosnkowy dodaje odkrywczy smak."
             },
@@ -360,24 +378,6 @@
             {
                 "nazwa": "Kulebiaki z farszem z kapusty i grzybów",
                 "opis": "Duże pierożki z nadzieniem z kapusty i grzybów, idealne dla Wielkanocy lub jako przekąska."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab Argentyński z Warzywami i Serem",
-                "opis": "Świeży kebab argentyński z różnymi warzywami i serem, idealny dla imprez i pikników."
-            },
-            {
-                "nazwa": "Poncz Alkoholowy Argentyński",
-                "opis": "Szybki i tanio przygotowywalny poncz alkoholowy z argentyńskich składników, idealny na imprezę."
-            },
-            {
-                "nazwa": "Tortilla z Kebabem i Warzywami",
-                "opis": "Smaczne i łatwe w przygotowaniu danie z tortillą, kebabem i różnymi warzywami, idealne dla szybkiego obiadu."
-            },
-            {
-                "nazwa": "Kebabowe Zupa z Warzywami i Serem",
-                "opis": "Świeży i smaczny kebab zupa z różnymi warzywami i serem, idealna na zimowy dzień."
             }
         ]
     ]
