@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
         "Polska (Staropolska)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
-        "Meksykańska (Cantina)",
-        "Turecka (Kebab/Meze)"
+        "Meksykańska (Cantina)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1467425906631901288,
+        "message_id": 1467791121789751409,
         "options": [
-            "Pomysłowe Kebabowe Placki",
-            "Sałatka Kebabowo-Jogurtowa",
-            "Kiełbasa Kebabowa z Sałatką NYC Style"
+            "Dyniowe Tatarze z Grzybami",
+            "Bakława z Dynią i Orzechami",
+            "Kebabowe Placki z Grzybami i Dynią"
         ]
     }
 }

@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Dyniowe Tatarze z Grzybami",
+                "opis": "Połączenie smaczków dyni i grzybów w formie tatarów, idealnych jako przystawka lub dodatek do kebabu."
+            },
+            {
+                "nazwa": "Bakława z Dynią i Orzechami",
+                "opis": "Nowoczesna wersja klasyka, z dodatkiem słodkiej dyni i orzechów, idealna jako słodycz lub przekąska."
+            },
+            {
+                "nazwa": "Kebabowe Placki z Grzybami i Dynią",
+                "opis": "Nowoczesna wersja kebabowych placków, z dodatkiem grzybów i dyni, idealna jako obiad lub przekąska."
+            },
+            {
+                "nazwa": "Sałatka Kebabowo-Jogurtowa z Dynią",
+                "opis": "Połączenie ciepłych kebabów z chłodnym jogurtem, dynią i warzywami, idealna jako sałatka lub przystawka."
+            },
+            {
+                "nazwa": "Pierożki Kebabowe z Dynią i Kawą",
+                "opis": "Klasyczne tureckie pierożki z kebabowym nadzieniem, dynią i aromatyczną kawą, idealne na każdą domową imprezę."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebabowe Placki",
                 "opis": "Nowoczesna wersja klasycznych placków, z kebabem jako głównym składnikiem. Idealne dla tych, którzy szukają szybkiego i smacznego obiadu."
             },
@@ -364,20 +386,6 @@
             {
                 "nazwa": "Wietnamski Makaron z Warzywami i Surówką",
                 "opis": "Prosty i szybki przepis na makaron z warzywami i surówką, który może być idealnym rozwiązaniem dla wieczornego obiadu."
-            }
-        ],
-        [
-            {
-                "nazwa": "Wareniki z kapustą i grzybami",
-                "opis": "Pierścieniowe placki z nadzieniem z kapusty i grzybów, idealne dla sezonu wiosennego."
-            },
-            {
-                "nazwa": "Barszcz Czerwony z mięsem wieprzowym",
-                "opis": "Klasyczna ukraińska zupa z czerwonym barszczem i nadzieniem z mięsa wieprzowego, idealna dla zimowego dnia."
-            },
-            {
-                "nazwa": "Kulebiaki z farszem z kapusty i grzybów",
-                "opis": "Duże pierożki z nadzieniem z kapusty i grzybów, idealne dla Wielkanocy lub jako przekąska."
             }
         ]
     ]
