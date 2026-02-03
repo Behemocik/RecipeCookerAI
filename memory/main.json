@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Hiszpańska (Tapas/Paella)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
         "Japońska (Domowa)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Meksykańska (Cantina)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1467791121789751409,
+        "message_id": 1468153379296383052,
         "options": [
-            "Dyniowe Tatarze z Grzybami",
-            "Bakława z Dynią i Orzechami",
-            "Kebabowe Placki z Grzybami i Dynią"
+            "Churro z Sensem Chimichurri z Zielonymi Warzywami",
+            "Paella z Warzywami i Sernikiem",
+            "Tapas de Lola - Kebab z Sałatką Warzywną"
         ]
     }
 }

@@ -2,6 +2,20 @@
     "last_trends": [
         [
             {
+                "nazwa": "Churro z Sosem Chimichurri",
+                "opis": "Tradycyjny hiszpański wypiek churro podawany z oryginalnym sosem z Argentyny, idealny jako przystawka lub deser."
+            },
+            {
+                "nazwa": "Paella z Warzywami i Sernikiem",
+                "opis": "Oryginalna, hiszpańska paella z warzywami i dodatkiem kremowego sernika, idealna jako główny przysmak."
+            },
+            {
+                "nazwa": "Tapas de Lola z Nowego Jorku",
+                "opis": "Autentyczne, hiszpańskie tapas w stylu nowojorskim, idealne do degustacji jako przystawki lub snacki."
+            }
+        ],
+        [
+            {
                 "nazwa": "Dyniowe Tatarze z Grzybami",
                 "opis": "Połączenie smaczków dyni i grzybów w formie tatarów, idealnych jako przystawka lub dodatek do kebabu."
             },
@@ -364,28 +378,6 @@
             {
                 "nazwa": "Escabeche de Pescado",
                 "opis": "Potrawa ze smażonej ryby, która jest serwowana na zimno, z delikatnymi słodko-kwaśnymi smakami i kolorowymi dodatkami."
-            }
-        ],
-        [
-            {
-                "nazwa": "Banh Mi Ga - Wietnamska Kanapka",
-                "opis": "Klasyczny wietnamski przepis na kanapkę z kurczakiem, która może być łatwo dostosowana do wersji wegetariańskiej."
-            },
-            {
-                "nazwa": "Zupa Pho (Wersja Wegetariańska)",
-                "opis": "Tradycyjny wietnamski rosół, który może być łatwo dostosowany do wersji wegetariańskiej, bez konieczności gotowania mięsa."
-            },
-            {
-                "nazwa": "Kanapka z Surowką i Warzywami",
-                "opis": "Inspirująca wersja kanapki z surowką ze startej marchewki, buraka i kapusty pekińskiej, która może być idealnym dodatkiem do wieczornego obiadu."
-            },
-            {
-                "nazwa": "Pad Thaia z Wegetariańskim Nadzieniem",
-                "opis": "Wietnamski przepis na pad thai, który może być łatwo dostosowany do wersji wegetariańskiej, z nadzieniem z warzyw i surówki."
-            },
-            {
-                "nazwa": "Wietnamski Makaron z Warzywami i Surówką",
-                "opis": "Prosty i szybki przepis na makaron z warzywami i surówką, który może być idealnym rozwiązaniem dla wieczornego obiadu."
             }
         ]
     ]
