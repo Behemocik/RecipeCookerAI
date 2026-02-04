@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Hiszpańska (Tapas/Paella)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
@@ -13,19 +14,18 @@
         "Węgierska (Papryka)",
         "Babcina Kuchnia (Comfort Food)",
         "Turecka (Kebab/Meze)",
-        "Japońska (Domowa)",
-        "Babcina Kuchnia (Comfort Food)"
+        "Japońska (Domowa)"
     ],
     "last_regions": [
-        "Europa",
-        "Specjalne / Klimatyczne"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1468153379296383052,
+        "message_id": 1468515041556037693,
         "options": [
-            "Churro z Sensem Chimichurri z Zielonymi Warzywami",
-            "Paella z Warzywami i Sernikiem",
-            "Tapas de Lola - Kebab z Sałatką Warzywną"
+            "Pide Tureckie z Grilla",
+            "Meze z Jogurtem i Słonym Serem",
+            "Baklava z Pistacjami i Orzechami"
         ]
     }
 }

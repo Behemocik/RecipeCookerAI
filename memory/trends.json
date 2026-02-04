@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Pide Tureckie z Grilla",
+                "opis": "Klasyczne tureckie pide z pełnym smakiem grillowanego mięsa, warzyw i przypraw."
+            },
+            {
+                "nazwa": "Meze z Jogurtem i Słonym Serem",
+                "opis": "Tureckie meze z jogurtem, słonym serem, czosnkiem i oliwą - idealne jako przystawka lub snack."
+            },
+            {
+                "nazwa": "Baklava z Pistacjami i Orzechami",
+                "opis": "Niezwykła baklava z pistacjami i orzechami, idealna jako deser lub przystawka."
+            },
+            {
+                "nazwa": "Kebab Rollo z Surówkami i Sosem",
+                "opis": "Turecki kebab rollo z surówkami i sosem, idealny jako główny przysmak."
+            }
+        ],
+        [
+            {
                 "nazwa": "Churro z Sosem Chimichurri",
                 "opis": "Tradycyjny hiszpański wypiek churro podawany z oryginalnym sosem z Argentyny, idealny jako przystawka lub deser."
             },
@@ -356,28 +374,6 @@
             {
                 "nazwa": "Zupa Pho z tofu i makaronem ryżowym",
                 "opis": "Wegańska wersja klasycznego pho, z dodatkami tofu i makaronu ryżowego, które tworzą delikatną i aromatyczną zupę."
-            }
-        ],
-        [
-            {
-                "nazwa": "Ceviche de Camarones",
-                "opis": "Zapiekanka z krewetkami, zamiast ryby, z owocami morza i delikatnymi słodko-kwaśnymi smakami."
-            },
-            {
-                "nazwa": "Lomo Saltado",
-                "opis": "Danie z kuchni chifa, kolorowe i smaczne, z kawałkami mięsa, warzywami i ryżem, które miesza się z hiszpańską, azjatycką i peruwiańską kuchnią."
-            },
-            {
-                "nazwa": "Papas a la Huancaína",
-                "opis": "Zapiekanka z ziemniaków, papryki i jajek, z delikatnymi słodko-kwaśnymi smakami i kolorowymi dodatkami."
-            },
-            {
-                "nazwa": "Aji de Gallina",
-                "opis": "Tradycyjne danie z kuchni peruwiańskiej, z kawałkami kurczaka, warzywami i owocami morza, które miesza się z delikatnymi słodko-kwaśnymi smakami."
-            },
-            {
-                "nazwa": "Escabeche de Pescado",
-                "opis": "Potrawa ze smażonej ryby, która jest serwowana na zimno, z delikatnymi słodko-kwaśnymi smakami i kolorowymi dodatkami."
             }
         ]
     ]
