@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
         "Hiszpańska (Tapas/Paella)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
@@ -13,19 +14,18 @@
         "Indyjska (Curry House)",
         "Węgierska (Papryka)",
         "Babcina Kuchnia (Comfort Food)",
-        "Turecka (Kebab/Meze)",
-        "Japońska (Domowa)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1468515041556037693,
+        "message_id": 1468878135830249637,
         "options": [
-            "Pide Tureckie z Grilla",
-            "Meze z Jogurtem i Słonym Serem",
-            "Baklava z Pistacjami i Orzechami"
+            "Szybkie Fasolkowe Gulaszki z Turystycznym Przytakiem",
+            "Baja Burrito z Kebsa",
+            "Pęczak po Meksykańsku"
         ]
     }
 }

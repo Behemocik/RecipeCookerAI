@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Szybkie Fasolkowe Gulaszki",
+                "opis": "Szybki i smaczny gulasz z fasolką, idealny do szybkiego przygotowania na wielką imprezę"
+            },
+            {
+                "nazwa": "Baja Burrito",
+                "opis": "Tanie meksykańskie jedzenie w postaci burrito, idealne dla wielkiej imprezy"
+            },
+            {
+                "nazwa": "Stir-fry z Pęczakiem po Meksykańsku",
+                "opis": "Wegetariańskie danie z pęczakiem i warzywami, idealne jako główny przysmak"
+            },
+            {
+                "nazwa": "Paprykowe Naleśniki",
+                "opis": "Szybko i smacznie przygotowane naleśniki z papryką, idealne jako przekąska lub danie główne"
+            },
+            {
+                "nazwa": "Cukiniowe Stir-fry",
+                "opis": "Wegetariańskie danie z cukinią, idealne jako główny przysmak na wielką imprezę"
+            }
+        ],
+        [
+            {
                 "nazwa": "Pide Tureckie z Grilla",
                 "opis": "Klasyczne tureckie pide z pełnym smakiem grillowanego mięsa, warzyw i przypraw."
             },
@@ -360,20 +382,6 @@
             {
                 "nazwa": "Grzybowa Sos z Wietnamską Sałatką i Owsianym Makiem",
                 "opis": "Unikalny sos grzybowy z dodatkami wietnamskiej sałatki i owsianego maku, które tworzą głębię smaku i aromatyczność."
-            }
-        ],
-        [
-            {
-                "nazwa": "Pho z dynią i grzybami",
-                "opis": "Klasyczne wietnamskie pho z dodatkami dyni i grzybów shiitake, które dodają głębi smaku i aromatyczności."
-            },
-            {
-                "nazwa": "Frytki grzybowe z wietnamską sałatką",
-                "opis": "Klasyczne frytki grzybowe z dodatkową sałatką wietnamską, zawierającą chrupiące warzywa i delikatne słodko-kwaśne smaki."
-            },
-            {
-                "nazwa": "Zupa Pho z tofu i makaronem ryżowym",
-                "opis": "Wegańska wersja klasycznego pho, z dodatkami tofu i makaronu ryżowego, które tworzą delikatną i aromatyczną zupę."
             }
         ]
     ]
