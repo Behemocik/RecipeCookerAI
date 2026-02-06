@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Turecki Obiad dla Rodziny",
+                "opis": "Smaczny i tani obiad z mięsa mielonego, marchewki, groszku i ziemniaków, idealny dla większej rodziny."
+            },
+            {
+                "nazwa": "Turecka Zupa Jarzynowa z Kurczakiem",
+                "opis": "Prosty i zdrowy przepis na obiad, który pokocha cała rodzina."
+            },
+            {
+                "nazwa": "Beyti Kebab z Piekarnika",
+                "opis": "Tradycyjne tureckie danie, które możesz przygotować w swoim piekarniku."
+            },
+            {
+                "nazwa": "Lahmacun z Polakami",
+                "opis": "Turecka wersja pizza, idealna jako przekąska lub danie główne."
+            },
+            {
+                "nazwa": "Tureckie Przystawki (Meze)",
+                "opis": "Smaczne i łatwe w przygotowaniu przystawki, które są idealne jako start do dalszej degustacji tureckiej kuchni."
+            }
+        ],
+        [
+            {
                 "nazwa": "Szybkie Fasolkowe Gulaszki",
                 "opis": "Szybki i smaczny gulasz z fasolką, idealny do szybkiego przygotowania na wielką imprezę"
             },
@@ -360,28 +382,6 @@
             {
                 "nazwa": "Sałatka Gyros z Roślinnymi Opcjami",
                 "opis": "Smaczna sałatka gyros w wersji roślinnej, idealna na imprezę lub jako przystawka."
-            }
-        ],
-        [
-            {
-                "nazwa": "Tajskie Ciasto z Owsianym Makiem i Mlekiem Kakaowym",
-                "opis": "Klasyczne ciasto z tajskich inspiracji, z dodatkami owsianego maku i mleka kakaowego, które dodają kremową konsystencję i intensywny smak czekoladowy."
-            },
-            {
-                "nazwa": "Wietnamski Pho z Dynią, Grzybami i Kurkumą",
-                "opis": "Unikalna wersja klasycznego pho, z dodatkami dyni, grzybów shiitake i kurkumy, które tworzą głębię smaku i aromatyczność."
-            },
-            {
-                "nazwa": "Prowansalska Zupa z Fasoli, Maku i Ziół",
-                "opis": "Klasyczna zupa prowansalska z dodatkami fasoli, maku i ziół, które tworzą delikatną i aromatyczną zupę."
-            },
-            {
-                "nazwa": "Ciasto z Wietnamską Pastą z Fasoli i Migdałami",
-                "opis": "Klasyczne ciasto z wietnamską pastą z fasoli i migdałami, które dodają delikatny smak i aromatyczność."
-            },
-            {
-                "nazwa": "Grzybowa Sos z Wietnamską Sałatką i Owsianym Makiem",
-                "opis": "Unikalny sos grzybowy z dodatkami wietnamskiej sałatki i owsianego maku, które tworzą głębię smaku i aromatyczność."
             }
         ]
     ]

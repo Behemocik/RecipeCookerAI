@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
         "Hiszpańska (Tapas/Paella)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Indyjska (Curry House)",
         "Węgierska (Papryka)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Turecka (Kebab/Meze)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1468878135830249637,
+        "message_id": 1469240062305632377,
         "options": [
-            "Szybkie Fasolkowe Gulaszki z Turystycznym Przytakiem",
-            "Baja Burrito z Kebsa",
-            "Pęczak po Meksykańsku"
+            "Turecki Obiad dla Rodziny z Sałatką",
+            "Turecka Zupa Jarzynowa z Kurczakiem",
+            "Beyti Kebab z Piekarnika - Sałatka Warzywna"
         ]
     }
 }
