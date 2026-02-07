@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Polska (Bar Mleczny)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Niemiecka (Wurst/Kartoffel)",
         "Turecka (Kebab/Meze)",
         "Indyjska (Curry House)",
-        "Węgierska (Papryka)",
-        "Babcina Kuchnia (Comfort Food)"
+        "Węgierska (Papryka)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1469240062305632377,
+        "message_id": 1469599453475377234,
         "options": [
-            "Turecki Obiad dla Rodziny z Sałatką",
-            "Turecka Zupa Jarzynowa z Kurczakiem",
-            "Beyti Kebab z Piekarnika - Sałatka Warzywna"
+            "Pomysłowe Pierogi Ruskie z Nadzieniem ziemniaczanym",
+            "Naleśniki z Serem i Ziołami",
+            "Kopytka z Sosem Jagodowym"
         ]
     }
 }

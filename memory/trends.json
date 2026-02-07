@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Pierogi Ruskie z Nadzieniem ziemniaczanym",
+                "opis": "Klasyczne polskie pierogi z nadzieniem ziemniaczanym, twarogiem i cebulą, idealne na gorącą imprezę lub obiad."
+            },
+            {
+                "nazwa": "Naleśniki z Serem i Ziołami",
+                "opis": "Smaczne i łatwe w przygotowaniu naleśniki z serem i ziołami, idealne jako przekąska lub danie główne."
+            },
+            {
+                "nazwa": "Kopytka z Sosem Jagodowym",
+                "opis": "Tradycyjne polskie kopytka z sosem jagodowym, idealne jako przystawka lub dodatek do obiadu."
+            },
+            {
+                "nazwa": "Wegetariański Obiad z Warzywami",
+                "opis": "Szybki i zdrowy obiad z warzywami, idealny dla wegetarian i wegan, z opcją dodania sosu lub nadzienia."
+            }
+        ],
+        [
+            {
                 "nazwa": "Turecki Obiad dla Rodziny",
                 "opis": "Smaczny i tani obiad z mięsa mielonego, marchewki, groszku i ziemniaków, idealny dla większej rodziny."
             },
@@ -368,20 +386,6 @@
             {
                 "nazwa": "Polenta z Meksykańskim Kolekcjonerem",
                 "opis": "Ciepła polenta z dodatkiem meksykańskich składników, takich jak szpinak, papryka i zielony czosnek."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab Wege z Ayranem i Pide",
-                "opis": "Smaczny kebab wegetariański z ayranem i pide, idealny na szybko i tanio."
-            },
-            {
-                "nazwa": "Hummus Idealny z Tahiny i Ciecierzycy",
-                "opis": "Unikalny hummus z odpowiednią proporcją tahiny i lodowatą wodą, gotowany z łyżeczką sody, idealny dla wegan."
-            },
-            {
-                "nazwa": "Sałatka Gyros z Roślinnymi Opcjami",
-                "opis": "Smaczna sałatka gyros w wersji roślinnej, idealna na imprezę lub jako przystawka."
             }
         ]
     ]
