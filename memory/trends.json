@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ryba w Sosie Po Włosku z Kapustą i Ziemniakami",
+                "opis": "Klasyczne węgierskie danie, w którym filet rybny przygotowany jest w sosie po włosku i podawany z kapustą i ziemniakami."
+            },
+            {
+                "nazwa": "Kwaśnica z Ziemniakami i Buraczkami",
+                "opis": "Tradycyjna polska zupa góralska przygotowana według receptury z kapustą, ziemniakami i buraczkami."
+            },
+            {
+                "nazwa": "Sandacz w Migdałach z Surówką z Kiszonej Kapusty",
+                "opis": "Smaczny i aromatyczny sandacz w migdałach, podawany z surówką z kiszonej kapusty i ziemniakami."
+            },
+            {
+                "nazwa": "Ryba Panierowana z Kapustą i Ziemniakami",
+                "opis": "Klasyczne węgierskie danie, w którym ryba panierowana podawana jest z kapustą i ziemniakami."
+            },
+            {
+                "nazwa": "Rosół z Koperkiem i Ziemniakami",
+                "opis": "Smaczny i aromatyczny rosół z koperkiem i ziemniakami, idealny jako przystawka lub dodatek do obiadu."
+            }
+        ],
+        [
+            {
                 "nazwa": "Pierogi Ruskie z Nadzieniem ziemniaczanym",
                 "opis": "Klasyczne polskie pierogi z nadzieniem ziemniaczanym, twarogiem i cebulą, idealne na gorącą imprezę lub obiad."
             },
@@ -368,24 +390,6 @@
             {
                 "nazwa": "Dürüm z Meksykańskim Kolekcjonerem",
                 "opis": "Nowy wariant popularnego dürümu z dodatkiem meksykańskich składników, takich jak szpinak, papryka i zielony czosnek, który dodaje nowe nuty smaku do tej tradycyjnej tureckiej receptury."
-            }
-        ],
-        [
-            {
-                "nazwa": "Taco Quesadilla",
-                "opis": "Nowa wersja popularnego taquera z dodatkiem włoskiego twarogu i zielonej cebuli, podawana w cieście tortilli."
-            },
-            {
-                "nazwa": "Carpaccio z Meksykańską Zazieleniną",
-                "opis": "Zmodyfikowany wersja włoskiego carpaccio z dodatkiem meksykańskich zazielenin, takich jak zielona papryka i zielony czosnek."
-            },
-            {
-                "nazwa": "Gazpacho z Meksykańskim Akcentem",
-                "opis": "Chłodna zupa gazpacho z dodatkiem meksykańskich składników, takich jak avocado, cynamon i czerwony chili."
-            },
-            {
-                "nazwa": "Polenta z Meksykańskim Kolekcjonerem",
-                "opis": "Ciepła polenta z dodatkiem meksykańskich składników, takich jak szpinak, papryka i zielony czosnek."
             }
         ]
     ]

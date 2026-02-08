@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Węgierska (Papryka)",
         "Polska (Bar Mleczny)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Niemiecka (Wurst/Kartoffel)",
         "Turecka (Kebab/Meze)",
-        "Indyjska (Curry House)",
-        "Węgierska (Papryka)"
+        "Indyjska (Curry House)"
     ],
     "last_regions": [
         "Europa",
-        "Specjalne / Klimatyczne"
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1469599453475377234,
+        "message_id": 1469962936922406964,
         "options": [
-            "Pomysłowe Pierogi Ruskie z Nadzieniem ziemniaczanym",
-            "Naleśniki z Serem i Ziołami",
-            "Kopytka z Sosem Jagodowym"
+            "Ryba w Płatkach z Kapustą i Ziemniakami z Tureckim Twistem",
+            "Kwaśnica z Ziemniakami i Buraczkami",
+            "Sandacz w Migdałach z Surówką z Kiszonej Kapusty"
         ]
     }
 }
