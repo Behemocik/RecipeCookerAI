@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab z Kurczaka i Sałatą Turecką",
+                "opis": "Tradycyjne tureckie danie kebab, z kurczakiem i sałatką turecką, idealne dla tych, którzy szukają smacznego i szybkiego posiłku."
+            },
+            {
+                "nazwa": "Bakłażanowe Meze z Tureckimi Przepisami",
+                "opis": "Pomidorowe meze z bakłażanem, z Tureckimi przepisami, to idealna propozycja dla tych, którzy szukają smacznego i zdrowego posiłku."
+            },
+            {
+                "nazwa": "Testi Kebab - Klasyczne Dziecko Kuchni Tureckiej",
+                "opis": "Testi Kebab to tradycyjne tureckie danie, które najlepiej smakuje dzielone z innymi, to idealna propozycja dla tych, którzy szukają smacznego i tradycyjnego posiłku."
+            },
+            {
+                "nazwa": "Kiszone Buraki z Tureckimi Przepisami",
+                "opis": "Kiszone buraki z Tureckimi przepisami to idealna propozycja dla tych, którzy szukają smacznego i zdrowego posiłku."
+            },
+            {
+                "nazwa": "Turcja w Kuchni - Przepisy na Szybko",
+                "opis": "Turcja w kuchni to propozycja dla tych, którzy szukają smacznego i szybkiego posiłku, z Tureckimi przepisami, idealnymi dla dnia codziennego."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ryba w Sosie Po Włosku z Kapustą i Ziemniakami",
                 "opis": "Klasyczne węgierskie danie, w którym filet rybny przygotowany jest w sosie po włosku i podawany z kapustą i ziemniakami."
             },
@@ -372,24 +394,6 @@
             {
                 "nazwa": "Beyti Kebab z Gazpacho i Sosem Sriracha",
                 "opis": "Nowy wariant Beyti kebabu z dodatkiem chłodnej zupy gazpacho i ciekawego smaku sosu sriracha, która dodaje smacznego i świeżego uzupełnienia dla tej popularnej tureckiej receptury."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab z Meksykańską Zazieleniną",
-                "opis": "Zmodyfikowany kebab turecki z dodatkiem meksykańskich zazielenin, takich jak zielona papryka i zielony czosnek, podawany w cieście tortilli."
-            },
-            {
-                "nazwa": "Adana Kebab z Polentą",
-                "opis": "Tradycyjny kebab Adana z dodatkiem ciepłej polenty, która dodaje nowej tekstury i smaku tej dawnej tureckiej receptury."
-            },
-            {
-                "nazwa": "Beyti Kebab z Gazpacho",
-                "opis": "Nowy wariant Beyti kebabu z dodatkiem chłodnej zupy gazpacho, która dodaje smacznego i świeżego uzupełnienia dla tej popularnej tureckiej receptury."
-            },
-            {
-                "nazwa": "Dürüm z Meksykańskim Kolekcjonerem",
-                "opis": "Nowy wariant popularnego dürümu z dodatkiem meksykańskich składników, takich jak szpinak, papryka i zielony czosnek, który dodaje nowe nuty smaku do tej tradycyjnej tureckiej receptury."
             }
         ]
     ]

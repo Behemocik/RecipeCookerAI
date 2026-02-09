@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
         "Polska (Bar Mleczny)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "USA (Southern BBQ)",
         "Babcina Kuchnia (Comfort Food)",
         "Niemiecka (Wurst/Kartoffel)",
-        "Turecka (Kebab/Meze)",
-        "Indyjska (Curry House)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Europa",
+        "Azja",
         "Europa"
     ],
     "last_poll": {
-        "message_id": 1469962936922406964,
+        "message_id": 1470329723107414089,
         "options": [
-            "Ryba w Płatkach z Kapustą i Ziemniakami z Tureckim Twistem",
-            "Kwaśnica z Ziemniakami i Buraczkami",
-            "Sandacz w Migdałach z Surówką z Kiszonej Kapusty"
+            "Kebab z Kurczaka i Sałatą Turecką",
+            "Bakłażanowe Meze z Tureckimi Przepisami",
+            "Kebab z Sałatką Warzywną"
         ]
     }
 }
