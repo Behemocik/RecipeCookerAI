@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ceviche Meksykańskie",
+                "opis": "Wyjątkowe ceviche z owocami morza i warzywami, inspirujące się tradycyjną kuchnią Meksykanów, idealne do podania jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Tortilla-Wraps Bezglutenowe",
+                "opis": "Wygodne i smaczne tortilla-wraps bezglutenowe, idealne dla miłośników kuchni Tex-Mex, którzy cenią sobie wygodę i smak."
+            },
+            {
+                "nazwa": "Sałatka Warzywna z Surówką Meksykańską",
+                "opis": "Wspaniała sałatka warzywna z dodatkiem surówki meksykańskiej, idealna do podania jako przystawka lub lunch, ze smakiem i kolorami inspirowanymi kuchnią Meksykańską."
+            },
+            {
+                "nazwa": "Guacamole na Sałatki Owocowe",
+                "opis": "Wyjątkowe guacamole do sałatek owocowych, inspirowane tradycyjną kuchnią Meksykańską, idealne do dodania smaku i koloru do Twojej sałatki."
+            },
+            {
+                "nazwa": "Tortilla-Chips z Sałatką Warzywną",
+                "opis": "Smaczne i wygodne tortilla-chips z sałatką warzywną, idealne do podania jako przystawka lub lunch, ze smakiem i kolorami inspirowanymi kuchnią Meksykańską."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab z Kurczaka i Sałatą Turecką",
                 "opis": "Tradycyjne tureckie danie kebab, z kurczakiem i sałatką turecką, idealne dla tych, którzy szukają smacznego i szybkiego posiłku."
             },
@@ -372,28 +394,6 @@
             {
                 "nazwa": "Dürüm z Sosem Tzatziki i Kiełbasą Japońską",
                 "opis": "Nowy wariant popularnego dürümu z dodatkiem świeżego sosu tzatziki i kiełbasy japońskiej, która dodaje nowych nut smaku do tej tradycyjnej tureckiej receptury."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab z Sosem Teriyaki i Zieloną Papryką",
-                "opis": "Klasyczny kebab turecki z dodatkiem ciekawego smaku sosu teriyaki i świeżych zielonych papryczek, które dodają nowej tekstury i smaku tej dawnej tureckiej receptury."
-            },
-            {
-                "nazwa": "Polenta z Sosem Tzatziki i Kiełbasą Japońską",
-                "opis": "Nowy wariant polenty z dodatkiem świeżego sosu tzatziki i kiełbasy japońskiej, która dodaje nowych nut smaku do tej popularnej receptury."
-            },
-            {
-                "nazwa": "Dürüm z Sosem Goma i Warzywnymi Zazieleninami",
-                "opis": "Nowy wariant popularnego dürümu z dodatkiem ciekawego smaku sosu goma i świeżych warzywnych zazielenin, które dodają nowych smaków do tej tradycyjnej tureckiej receptury."
-            },
-            {
-                "nazwa": "Kebab z Ciepłą Polentą i Sosem Sambal Oelek",
-                "opis": "Tradycyjny kebab z dodatkiem ciepłej polenty i ciekawego smaku sosu sambal oelek, który dodaje nowych smaków do tej dawnej tureckiej receptury."
-            },
-            {
-                "nazwa": "Beyti Kebab z Gazpacho i Sosem Sriracha",
-                "opis": "Nowy wariant Beyti kebabu z dodatkiem chłodnej zupy gazpacho i ciekawego smaku sosu sriracha, która dodaje smacznego i świeżego uzupełnienia dla tej popularnej tureckiej receptury."
             }
         ]
     ]

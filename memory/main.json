@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Meksykańska (Tex-Mex)",
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
         "Polska (Bar Mleczny)",
@@ -13,19 +14,18 @@
         "Polska (Staropolska)",
         "USA (Southern BBQ)",
         "Babcina Kuchnia (Comfort Food)",
-        "Niemiecka (Wurst/Kartoffel)",
-        "Turecka (Kebab/Meze)"
+        "Niemiecka (Wurst/Kartoffel)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1470329723107414089,
+        "message_id": 1470692734783459413,
         "options": [
-            "Kebab z Kurczaka i Sałatą Turecką",
-            "Bakłażanowe Meze z Tureckimi Przepisami",
-            "Kebab z Sałatką Warzywną"
+            "Ceviche Meksykańskie - Poprawiona Wersja",
+            "Tortilla-Wraps Bezglutenowe z Turecką Sałatką",
+            "Sałatka Warzywna z Surówką Meksykańską"
         ]
     }
 }
