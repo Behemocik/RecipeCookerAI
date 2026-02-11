@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Tex-Mex)",
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Polska (Staropolska)",
         "USA (Southern BBQ)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Niemiecka (Wurst/Kartoffel)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1470692734783459413,
+        "message_id": 1471054758222627059,
         "options": [
-            "Ceviche Meksykańskie - Poprawiona Wersja",
-            "Tortilla-Wraps Bezglutenowe z Turecką Sałatką",
-            "Sałatka Warzywna z Surówką Meksykańską"
+            "Kebab z Sałatką Warzywną - Wersja Zdrowa",
+            "Pączki Lokma z Miodem i Cynamonem",
+            "Pancarli Bulgur z Buraczkami i Surówką Meksykańską z Kiełbaską"
         ]
     }
 }

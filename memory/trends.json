@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kebab z Sałatką Warzywną",
+                "opis": "Turecki kebab z mięsem i warzywami, podany z sałatką warzywną i różnymi daniami tureckimi."
+            },
+            {
+                "nazwa": "Pączki Lokma z Miodem i Cynamonem",
+                "opis": "Tureckie pączki Lokma, smażone i posypane miodem i cynamonem, idealne jako przystawka lub deser."
+            },
+            {
+                "nazwa": "Pancarli Bulgur z Buraczkami i Surówką Meksykańską",
+                "opis": "Turecki przepis na placki warzywne, z dodatkiem buraczków i surówki meksykańskiej, idealne do podania jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Kebab z Kaszą Bulgur i Warzywami",
+                "opis": "Turecki kebab z mięsem, kaszą bulgur i warzywami, idealne jako główny dań lub lunch."
+            },
+            {
+                "nazwa": "Sałatka Warzywna z Kaszą Bulgur i Czosnkiem",
+                "opis": "Turecka sałatka warzywna z kaszą bulgur, cebulą i czosnkiem, idealne do podania jako przystawka lub lunch."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ceviche Meksykańskie",
                 "opis": "Wyjątkowe ceviche z owocami morza i warzywami, inspirujące się tradycyjną kuchnią Meksykanów, idealne do podania jako przystawka lub lunch."
             },
@@ -372,28 +394,6 @@
             {
                 "nazwa": "Dürüm z Sosem Tzatziki i Warzywnymi Zazieleninami",
                 "opis": "Nowy wariant popularnego dürümu z dodatkiem świeżego sosu tzatziki i świeżych warzywnych zazielenin."
-            }
-        ],
-        [
-            {
-                "nazwa": "Warzywne Meze z Halloumi i Hummusem",
-                "opis": "Smażony halloumi, hummus i świeże owoce morza w harmonijnym połączeniu, idealne dla tych, którzy szukają zdrowego i smacznego rozwiązania."
-            },
-            {
-                "nazwa": "Kebab z Tureckimi Plackami Warzywnymi",
-                "opis": "Klasyczny kebab z dodatkiem tureckich placków warzywnych, które dają nową teksturę i smak tej tradycyjnej receptury."
-            },
-            {
-                "nazwa": "Gazpacho z Beyti Kebabem i Sosem Sriracha",
-                "opis": "Chłodna zupa gazpacho z Beyti kebabem i ciekawym smakiem sosu sriracha, idealne zrównoważenie smaków i temperatur."
-            },
-            {
-                "nazwa": "Polenta z Sosem Chili i Warzywnymi Zazieleninami",
-                "opis": "Nowy wariant polenty z dodatkiem ciekawego smaku sosu chili i świeżych warzywnych zazielenin, które dodają nowych smaków do tej popularnej receptury."
-            },
-            {
-                "nazwa": "Dürüm z Sosem Tzatziki i Kiełbasą Japońską",
-                "opis": "Nowy wariant popularnego dürümu z dodatkiem świeżego sosu tzatziki i kiełbasy japońskiej, która dodaje nowych nut smaku do tej tradycyjnej tureckiej receptury."
             }
         ]
     ]
