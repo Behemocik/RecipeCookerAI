@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tsukune z Sałatką Warzywną",
+                "opis": "Japońskie klopsiki z mięsem, podane z sałatką warzywną i sosem teriyaki."
+            },
+            {
+                "nazwa": "Sałatka Warzywna z Ryżem i Sezamem",
+                "opis": "Sałatka warzywna w stylu azjatyckim, z dodatkiem ryżu i sezamu, idealna jako zdrowy obiad."
+            },
+            {
+                "nazwa": "Sushi z Sałatką Warzywną",
+                "opis": "Szybkie i zdrowe sushi z sałatką warzywną, idealne jako opcja na wynos."
+            },
+            {
+                "nazwa": "Sałatka Warzywna z Awokado i Japońskim Sosem",
+                "opis": "Sałatka warzywna z awokado i japońskim sosem, idealna jako zdrowy i smaczny przystawka."
+            },
+            {
+                "nazwa": "Ryżowe Pankejki z Sałatką Warzywną",
+                "opis": "Szybkie i zdrowe ryżowe pankejki z sałatką warzywną, idealne jako zdrowy lunch."
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab z Sałatką Warzywną",
                 "opis": "Turecki kebab z mięsem i warzywami, podany z sałatką warzywną i różnymi daniami tureckimi."
             },
@@ -372,28 +394,6 @@
             {
                 "nazwa": "Paprykowe Faszerowane Jajka",
                 "opis": "Jajka faszerowane nadzieniem z papryki, mleka i czarnego pieprzu, idealne na śniadanie lub kolację."
-            }
-        ],
-        [
-            {
-                "nazwa": "Turbuskie Jajka z Papryką i Halloumi",
-                "opis": "Jajka faszerowane pasztetem z dodatkiem smażonego halloumi i świeżej papryki."
-            },
-            {
-                "nazwa": "Hummus z Turkuskim Jajkiem",
-                "opis": "Klasyczny hummus z dodatkiem turbuskiego jajka i świeżej natki pietruszki."
-            },
-            {
-                "nazwa": "Mezze z Jajkiem Sadzonym i Halloumi",
-                "opis": "Śniadanie mezze z jajkiem sadzonym, halloumi i hummusem, idealne dla tych, którzy szukają zdrowego i smacznego rozwiązania."
-            },
-            {
-                "nazwa": "Gazpacho z Beyti Kebabem i Sosem Sriracha",
-                "opis": "Chłodna zupa gazpacho z Beyti kebabem i ciekawym smakiem sosu sriracha, idealne zrównoważenie smaków i temperatur."
-            },
-            {
-                "nazwa": "Dürüm z Sosem Tzatziki i Warzywnymi Zazieleninami",
-                "opis": "Nowy wariant popularnego dürümu z dodatkiem świeżego sosu tzatziki i świeżych warzywnych zazielenin."
             }
         ]
     ]
