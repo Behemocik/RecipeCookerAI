@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Japońska (Ramen Shop)",
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Tex-Mex)",
@@ -13,19 +14,18 @@
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
         "Turecka (Kebab/Meze)",
-        "Polska (Staropolska)",
-        "USA (Southern BBQ)"
+        "Polska (Staropolska)"
     ],
     "last_regions": [
         "Azja",
-        "Specjalne / Klimatyczne"
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1471415928515465246,
+        "message_id": 1471777644579393698,
         "options": [
-            "Tsukune z Sałatką Warzywną - Japoński Klasycz",
-            "Sałatka Warzywna z Ryżem i Sezamem",
-            "Sushi z Sałatką Warzywną"
+            "Omelet z Wędzonym Szpinakiem i Awokado",
+            "Sałatka Warzywna z Ryżem, Sezamem i Ogórkami - Kebabowa",
+            "Ryzykowanie Zdrowej Sałatki z Glonami i Awokado"
         ]
     }
 }

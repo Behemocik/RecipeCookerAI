@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Omelet z Wędzonym Szpinakiem i Awokado",
+                "opis": "Smaczny i zdrowy omelet z wędzonym szpinakiem i awokado, idealny jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Sałatka Warzywna z Ryżem, Sezamem i Ogórkami",
+                "opis": "Klasyczna japońska sałatka warzywna z ryżem, sezamem i ogórkami, idealna jako zdrowy obiad."
+            },
+            {
+                "nazwa": "Ryzykowanie Zdrowej Sałatki z Glonami i Awokado",
+                "opis": "Unikalna sałatka warzywna z glonami i awokado, idealna jako zdrowy i smaczny przystawka."
+            },
+            {
+                "nazwa": "Tsukune z Sałatką Warzywną i Sosem Teriyaki",
+                "opis": "Japońskie klopsiki z mięsem, podane z sałatką warzywną i sosem teriyaki, idealne jako zdrowy lunch."
+            }
+        ],
+        [
+            {
                 "nazwa": "Tsukune z Sałatką Warzywną",
                 "opis": "Japońskie klopsiki z mięsem, podane z sałatką warzywną i sosem teriyaki."
             },
@@ -376,24 +394,6 @@
             {
                 "nazwa": "Kolacja z Indyjsko-Tureckiej Sałatki",
                 "opis": "Kolacja z kombinacji składników indyjskich i tureckich, takich jak sałatka warzywna i owocowa, z dodatkiem kurczaka lub rybnej farszówki."
-            }
-        ],
-        [
-            {
-                "nazwa": "Paprykowe Palacsinta",
-                "opis": "Klasyczne węgierskie palacsinta z nadzieniem z papryki, mleka i czarnego pieprzu, idealne na śniadanie lub kolację."
-            },
-            {
-                "nazwa": "Faszerowana Papryka z Erös Pista",
-                "opis": "Papryka faszerowana paską z Erös Pista, popularnej węgierskiej pasty z papryki, idealna jako przystawkę lub dodatek do dania głównego."
-            },
-            {
-                "nazwa": "Goulash Paprykowy z Nudlami",
-                "opis": "Klasyczny węgierski goulash z papryką, przygotowany na nucie z makaronem, idealny na zimę lub na szybkie i smaczne lunch."
-            },
-            {
-                "nazwa": "Paprykowe Faszerowane Jajka",
-                "opis": "Jajka faszerowane nadzieniem z papryki, mleka i czarnego pieprzu, idealne na śniadanie lub kolację."
             }
         ]
     ]
