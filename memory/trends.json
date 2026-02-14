@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ceviche Nikkei",
+                "opis": "Połączenie peruwiańskiego ceviche z japońskimi elementami, takimi jak sos wasabi i ryż udon."
+            },
+            {
+                "nazwa": "Tempura Ceviche",
+                "opis": "Tempura z morskich ryb lub owoców morza marynowanych w leche de tigre, z dodatkiem soków owocowych i kwasu limonowego."
+            },
+            {
+                "nazwa": "Seriola Nikkei",
+                "opis": "Sashimi z seriolei, serwowane z sosem ponzu i dodatkiem peruwiańskich składników, takich jak kawę ziemniaczaną i paprykę."
+            },
+            {
+                "nazwa": "Ryż Nikkei",
+                "opis": "Ryż udon z peruwiańskimi składnikami, takimi jak kawa ziemniaczana, papryka i cebula, z dodatkiem japońskich elementów, takich jak sos teriyaki."
+            }
+        ],
+        [
+            {
                 "nazwa": "Omelet z Wędzonym Szpinakiem i Awokado",
                 "opis": "Smaczny i zdrowy omelet z wędzonym szpinakiem i awokado, idealny jako przystawka lub lunch."
             },
@@ -376,24 +394,6 @@
             {
                 "nazwa": "Szybka Sałatka z Warzyw i Orzechów",
                 "opis": "Szybka i zdrowa sałatka z warzyw i orzechów, idealna do spożycia jako przystawka lub dodatek do innych dań."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kerala-Style Śniadanie",
-                "opis": "Indyjskie śniadanie z tradycyjnymi składnikami Kerala, takimi jak idlis, dosas i chutney, z dodatkiem świeżych owoców i herbaty."
-            },
-            {
-                "nazwa": "Curry-Grilled Ryba z Kadgeree",
-                "opis": "Tajski i indyjski styl smażonej ryby z kadgeree, posypanej curry, z dodatkiem sałatki warzywnej i owocowej."
-            },
-            {
-                "nazwa": "Tarka Dahl z Sałatką Owoocową",
-                "opis": "Indyjski przepis na sałatkę owocową z truskawkami, mango i innymi sezonowymi owocami, oraz tarka dahl z warzywami i herbata."
-            },
-            {
-                "nazwa": "Kolacja z Indyjsko-Tureckiej Sałatki",
-                "opis": "Kolacja z kombinacji składników indyjskich i tureckich, takich jak sałatka warzywna i owocowa, z dodatkiem kurczaka lub rybnej farszówki."
             }
         ]
     ]

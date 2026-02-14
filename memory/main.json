@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Peruwiańska",
         "Japońska (Ramen Shop)",
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "Hiszpańska (Tapas/Paella)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "USA (NYC Style)",
-        "Turecka (Kebab/Meze)",
-        "Polska (Staropolska)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Azja",
+        "Ameryki",
         "Azja"
     ],
     "last_poll": {
-        "message_id": 1471777644579393698,
+        "message_id": 1472137718669643808,
         "options": [
-            "Omelet z Wędzonym Szpinakiem i Awokado",
-            "Sałatka Warzywna z Ryżem, Sezamem i Ogórkami - Kebabowa",
-            "Ryzykowanie Zdrowej Sałatki z Glonami i Awokado"
+            "Ceviche Nikkei z Sałatką Warzywną i Owocową",
+            "Seriola Nikkei",
+            "Ryż Nikkei z kebabcem"
         ]
     }
 }
