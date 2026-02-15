@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
         "Japońska (Ramen Shop)",
         "Japońska (Domowa)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Hiszpańska (Tapas/Paella)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
-        "USA (NYC Style)",
-        "Turecka (Kebab/Meze)"
+        "USA (NYC Style)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1472137718669643808,
+        "message_id": 1472499743065378980,
         "options": [
-            "Ceviche Nikkei z Sałatką Warzywną i Owocową",
-            "Seriola Nikkei",
-            "Ryż Nikkei z kebabcem"
+            "Ramen z Dynią i Grzybami",
+            "Krupnik z dynią i grzybami",
+            "Dynia z grzybami i zielonym groszkiem (Smak Jesieni)"
         ]
     }
 }
