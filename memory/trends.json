@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Borscht z dynią i grzybami (Skandynawskie Borscht)",
+                "opis": "Klasyczny borscht skandynawski z dodatkiem dyni i grzybów, idealny na jesienne wieczory."
+            },
+            {
+                "nazwa": "Grzybowy Pączek z dynią (Kuchnia Skandynawska)",
+                "opis": "Pączek z grzybami i dynią, idealny jako przekąska lub dodatek do innych dań."
+            },
+            {
+                "nazwa": "Zupa Krem z dynią, grzybami i kozim serem (Hygge)",
+                "opis": "Smaczna zupa krem z dynią, grzybami i kozim serem, idealna na zimowe wieczory."
+            },
+            {
+                "nazwa": "Kotlety z dynią i grzybami w sosie smalcu (Skandynawskie Kotlety)",
+                "opis": "Kotlety z dynią i grzybami w sosie smalcu, idealne jako główny posiłek lub dodatek do innych dań."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ramen z dynią i grzybami",
                 "opis": "Autentyczny ramen z japońskim zamiarem, wzbogacony o smaczne dynia i grzyby."
             },
@@ -372,28 +390,6 @@
             {
                 "nazwa": "Tureckie Szaszłyki z Warzywami",
                 "opis": "Pyszne tureckie szaszłyki z warzywami, które dają niepowtarzalny smak i zapach."
-            }
-        ],
-        [
-            {
-                "nazwa": "Wurstowe Kartoflanki z Maślakami",
-                "opis": "Klasyczne niemieckie kartoflanki z dodatkiem maślaków i przyprawami, które idealnie uzupełniają smak kebabu."
-            },
-            {
-                "nazwa": "Kebabowe Wursty z Warzywami i Orzechami",
-                "opis": "Kebabowe wursty z dodatkiem warzyw i orzechów, które dają niepowtarzalny smak i zapach."
-            },
-            {
-                "nazwa": "Tanie i Szybkie Wurstowe Dania z Kaszą",
-                "opis": "Szybkie i tanie danie z kaszą i wurstami, które może być spożywane jako obiad lub przystawka."
-            },
-            {
-                "nazwa": "Niemieckie Wurstowe Kebaby z Surówką",
-                "opis": "Małe kebaby z kurczaka lub wołowiny, smażone na grillu, z dodatkiem surówki z pomidorów, ogórka i cebuli."
-            },
-            {
-                "nazwa": "Wurstowe Dania z Kartoflanką i Warzywami",
-                "opis": "Klasyczne niemieckie dania z kartoflanką i warzywami, które idealnie uzupełniają smak kebabu."
             }
         ]
     ]

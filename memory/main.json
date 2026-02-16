@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Skandynawska (Hygge)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
         "Japońska (Ramen Shop)",
@@ -13,19 +14,18 @@
         "Meksykańska (Cantina)",
         "Turecka (Kebab/Meze)",
         "Hiszpańska (Tapas/Paella)",
-        "Smak Jesieni (Dyniowe/Grzybowe)",
-        "USA (NYC Style)"
+        "Smak Jesieni (Dyniowe/Grzybowe)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1472499743065378980,
+        "message_id": 1472865959587876937,
         "options": [
-            "Ramen z Dynią i Grzybami",
-            "Krupnik z dynią i grzybami",
-            "Dynia z grzybami i zielonym groszkiem (Smak Jesieni)"
+            "Borscht z dynią i grzybami (Skandynawskie Borscht)",
+            "Grzybowy Pączek z dynią",
+            "Zupa Krem z dynią, grzybami i kozim serem (Hygge)"
         ]
     }
 }
