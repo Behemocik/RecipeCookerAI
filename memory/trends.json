@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Rendang",
+                "opis": "Tradycyjne, aromatyczne danie z bogatymi smakami Indonezji, gotowane w sosie curry z mięsem lub warzywami."
+            },
+            {
+                "nazwa": "Kubki smakowe zupy indonezyjskiej",
+                "opis": "Sycące i tanie kubki zupy, idealne jako przekąska lub dodatek do innych dań, z bogatymi smakami Indonezji."
+            },
+            {
+                "nazwa": "Poke bowl indonezyjskie",
+                "opis": "Szybkie i zdrowe danie z warzywami, ryżem i sosami indonezyjskimi, idealne jako przekąska lub lunch."
+            },
+            {
+                "nazwa": "Nasi goreng indonezyjskie",
+                "opis": "Klasyczne, szybkie i tanie danie z ryżem, warzywami i sosami indonezyjskimi, idealne jako główny posiłek lub dodatek."
+            },
+            {
+                "nazwa": "Gado-gado indonezyjskie",
+                "opis": "Tradycyjne, sycące danie z warzywami, tofu i sosami indonezyjskimi, idealne jako przekąska lub dodatek do innych dań."
+            }
+        ],
+        [
+            {
                 "nazwa": "Borscht z dynią i grzybami (Skandynawskie Borscht)",
                 "opis": "Klasyczny borscht skandynawski z dodatkiem dyni i grzybów, idealny na jesienne wieczory."
             },
@@ -376,20 +398,6 @@
             {
                 "nazwa": "Makaron z Warzywami i Grillowaną Rybą",
                 "opis": "Smaczne i szybkie przepis na obiad, z makaronem, warzywami i grillowaną rybą, idealne dla osób, które szukają zdrowych i smacznych dań."
-            }
-        ],
-        [
-            {
-                "nazwa": "Tureckie Bułki z Kurczakiem i Surówką",
-                "opis": "Miękkie i delikatne tureckie bułki z kurczakiem i surówką z pomidorów, ogórka i cebuli."
-            },
-            {
-                "nazwa": "Kurczak z Papryką i Kaszą",
-                "opis": "Smaczny i łatwy w przygotowaniu kurczak z papryką i kaszą, który idealnie uzupełnia smak tureckich dań."
-            },
-            {
-                "nazwa": "Tureckie Szaszłyki z Warzywami",
-                "opis": "Pyszne tureckie szaszłyki z warzywami, które dają niepowtarzalny smak i zapach."
             }
         ]
     ]
