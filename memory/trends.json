@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tapioca z warzywami i owocami",
+                "opis": "Lekkie i smaczne danie z tapiocą, warzywami i owocami, inspirujące się tradycyjną kuchnią brazylijską."
+            },
+            {
+                "nazwa": "Moqueca z warzywami i owocami morza",
+                "opis": "Szybkie i zdrowe danie z warzywami, owocami morza i sosami brazylijskimi, idealne jako główny posiłek lub dodatek."
+            },
+            {
+                "nazwa": "Salata brazylijska z warzywami i owocami",
+                "opis": "Szybkie i zdrowe danie z warzywami, owocami i sosami brazylijskimi, idealne jako przekąska lub lunch."
+            },
+            {
+                "nazwa": "Kuskus z warzywami i owocami",
+                "opis": "Tradycyjne, sycące danie z kuskusem, warzywami i owocami, inspirujące się kuchnią brazylijską."
+            },
+            {
+                "nazwa": "Batata z owocami i warzywami",
+                "opis": "Szybkie i smaczne danie z batatą, owocami i warzywami, idealne jako główny posiłek lub dodatek."
+            }
+        ],
+        [
+            {
                 "nazwa": "Rendang",
                 "opis": "Tradycyjne, aromatyczne danie z bogatymi smakami Indonezji, gotowane w sosie curry z mięsem lub warzywami."
             },
@@ -380,24 +402,6 @@
             {
                 "nazwa": "Polskie Dania Wigilijne - Zapomniane Potrawy",
                 "opis": "Zapomniane potrawy kuchni polskiej, takie jak pierogi, gołąbki i kiełbasa, idealne dla osób, które szukają smacznego i tradycyjnego jedzenia."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kurczak z Grilla z Sałatką Warzywną",
-                "opis": "Smaczny i zdrowy przepis BBQ z sałatką warzywną, gotowany na grilla, z kurczakiem i warzywami, idealny na obiad."
-            },
-            {
-                "nazwa": "Danie BBQ z Warzywami i Rybą",
-                "opis": "Tanie i zdrowe danie BBQ USA z kebabem, gotowane na grilla, z warzywami i rybą, idealne dla osób, które cenią smaczne i zdrowe jedzenie."
-            },
-            {
-                "nazwa": "Sałatka Wiosenna z Warzywami i Grillowanym Kurczakiem",
-                "opis": "Szybki i zdrowy obiad z sałatką wiosenną, gotowaną na grilla, z warzywami i grillowanym kurczakiem."
-            },
-            {
-                "nazwa": "Makaron z Warzywami i Grillowaną Rybą",
-                "opis": "Smaczne i szybkie przepis na obiad, z makaronem, warzywami i grillowaną rybą, idealne dla osób, które szukają zdrowych i smacznych dań."
             }
         ]
     ]

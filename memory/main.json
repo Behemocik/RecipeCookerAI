@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Brazylijska",
         "Indonezyjska (Bali Vibe)",
         "Skandynawska (Hygge)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
@@ -13,19 +14,18 @@
         "Polska (Bar Mleczny)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Cantina)",
-        "Turecka (Kebab/Meze)",
-        "Hiszpańska (Tapas/Paella)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Azja",
-        "Europa"
+        "Ameryki",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1473227875707785226,
+        "message_id": 1473590174528045086,
         "options": [
-            "Rendang Bali Vibe",
-            "Kubki smakowe zupy indonezyjskiej z sałatką warzywną",
-            "Poke Bowl Indyjskie z Sałatką Warzywną i Owoce"
+            "Tapioca z warzywami i owocami Brazylijska",
+            "Moqueca z warzywami i owocami morza",
+            "Brazylijska Salata z Warzywami i Owocami"
         ]
     }
 }
