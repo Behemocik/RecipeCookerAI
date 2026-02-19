@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "Brazylijska",
         "Indonezyjska (Bali Vibe)",
         "Skandynawska (Hygge)",
@@ -13,19 +14,18 @@
         "Węgierska (Papryka)",
         "Polska (Bar Mleczny)",
         "Babcina Kuchnia (Comfort Food)",
-        "Meksykańska (Cantina)",
-        "Turecka (Kebab/Meze)"
+        "Meksykańska (Cantina)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Azja"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1473590174528045086,
+        "message_id": 1473952200207372379,
         "options": [
-            "Tapioca z warzywami i owocami Brazylijska",
-            "Moqueca z warzywami i owocami morza",
-            "Brazylijska Salata z Warzywami i Owocami"
+            "Sałatka Tuńczykowa z Nektarynkami",
+            "Zupa Ryżanka z Ogórkami i Śliwkami",
+            "Sałatka Owoce Morza z Papryką"
         ]
     }
 }
