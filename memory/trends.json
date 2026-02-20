@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Meze: Smaczną Masa z Kiełbasą i Warzywami",
+                "opis": "Klasyczne tureckie meze z kiełbasą i warzywami, idealne jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Kuskus z Sosem Tureckim i Owocami Morza",
+                "opis": "Tradycyjne danie z kuskusem, sosem tureckim i owocami morza, idealne jako główny posiłek lub dodatek."
+            },
+            {
+                "nazwa": "Börek z Szpinakiem i Fasolką",
+                "opis": "Turecki pastel z szpinakiem i fasolką, idealny jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Zupa Bulgur z Cieciorką i Ogórkami",
+                "opis": "Lekka i smaczna zupa bulgur z cieciorką i ogórkami, idealna jako główny posiłek lub dodatek."
+            }
+        ],
+        [
+            {
                 "nazwa": "Sałatka Tuńczykowa z Nektarynkami",
                 "opis": "Klasyczna sałatka tuńczykowa z dodatkiem niktarynek, idealna jako lekki i smaczny przekąsek lub lunch."
             },
@@ -380,28 +398,6 @@
             {
                 "nazwa": "Pierożki Kebabowe z Kawą",
                 "opis": "Klasyczne tureckie pierożki z kebabowym nadzieniem, serwowane z aromatyczną kawą. Idealne na każdą domową imprezę."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab w Tortilli",
-                "opis": "Pyszne, szybkie i tanie danie, idealne na obiad i każdą imprezę. Tortilla zastąpiona kebabem, a sos czosnkowy dodaje odkrywczy smak."
-            },
-            {
-                "nazwa": "Domowe Pierożki Kebabowe",
-                "opis": "Proste i szybkie przepisy na pyszne pierożki kebabowe, idealne na każdą domową imprezę. Klasyczne kebaby w nowoczesnej formie."
-            },
-            {
-                "nazwa": "Meze z Soczewicą",
-                "opis": "Tanio, zdrowo i szybko przygotowywane danie, idealne dla zajętych studentów i osób szukających smacznego i łatwego jedzenia. Soczewica w nowoczesnej interpretacji cypryjskiej kuchni."
-            },
-            {
-                "nazwa": "Turecka Sałatka z Kebabem",
-                "opis": "Klasyczna turecka sałatka, która idealnie komponuje się z kebabem. Klasyczny smak z nowoczesną formą."
-            },
-            {
-                "nazwa": "Bulion z Kiełbasą Kebabową",
-                "opis": "Smaczny i tradycyjny bulion z kiełbasą kebabową. Nowoczesna interpretacja polskich dań wigilijnych."
             }
         ]
     ]

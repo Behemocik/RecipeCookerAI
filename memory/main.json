@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
         "Brazylijska",
         "Indonezyjska (Bali Vibe)",
@@ -13,19 +14,18 @@
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
         "Polska (Bar Mleczny)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Meksykańska (Cantina)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Azja",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1473952200207372379,
+        "message_id": 1474313887167021168,
         "options": [
-            "Sałatka Tuńczykowa z Nektarynkami",
-            "Zupa Ryżanka z Ogórkami i Śliwkami",
-            "Sałatka Owoce Morza z Papryką"
+            "Smaczne Meze: Kiełbasa z Warzywami",
+            "Kuskus z Sosem Tureckim i Owocami Morza",
+            "Börek z Szpinakiem i Fasolką"
         ]
     }
 }
