@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Grillowany Tofu z Turecką Piekarnicą i Ogórkami",
+                "opis": "Tofu grillowany w połączeniu z turecką piekarnicą i ogórkami, idealny jako główny posiłek lub dodatek."
+            },
+            {
+                "nazwa": "Szpinakowe Börek z Fasolką i Kuskusem",
+                "opis": "Tureckie pastel z szpinakiem, fasolką i kuskusem, idealne jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Kiełbasa Grilla z Turecką Sosą i Warzywami",
+                "opis": "Kiełbasa grillowana w połączeniu z turecką sosą i warzywami, idealna jako przystawka lub lunch."
+            },
+            {
+                "nazwa": "Zupa Bulgur z Cieciorką i Ogórkami z Dodatkiem Tofu",
+                "opis": "Lekka i smaczna zupa bulgur z cieciorką, ogórkami i dodatkiem tofu, idealna jako główny posiłek lub dodatek."
+            },
+            {
+                "nazwa": "Grillowane Warzywa z Turecką Pieczarką i Kuskusem",
+                "opis": "Grillowane warzywa w połączeniu z turecką pieczarką i kuskusem, idealne jako główny posiłek lub dodatek."
+            }
+        ],
+        [
+            {
                 "nazwa": "Meze: Smaczną Masa z Kiełbasą i Warzywami",
                 "opis": "Klasyczne tureckie meze z kiełbasą i warzywami, idealne jako przystawka lub lunch."
             },
@@ -380,24 +402,6 @@
             {
                 "nazwa": "Pierożki Kebabowe z Dynią i Kawą",
                 "opis": "Klasyczne tureckie pierożki z kebabowym nadzieniem, dynią i aromatyczną kawą, idealne na każdą domową imprezę."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebabowe Placki",
-                "opis": "Nowoczesna wersja klasycznych placków, z kebabem jako głównym składnikiem. Idealne dla tych, którzy szukają szybkiego i smacznego obiadu."
-            },
-            {
-                "nazwa": "Sałatka Kebabowo-Jogurtowa",
-                "opis": "Połączenie ciepłych kebabów z chłodnym jogurtem i smacznymi warzywami. Klasyczna turecka sałatka z nowoczesną twistem."
-            },
-            {
-                "nazwa": "Kiełbasa Kebabowa z Sałatką",
-                "opis": "Tradi cyjny polski przepis na kiełbasę, z kebabową odsłoną. Idealne dla tych, którzy szukają smacznego i łatwego jedzenia."
-            },
-            {
-                "nazwa": "Pierożki Kebabowe z Kawą",
-                "opis": "Klasyczne tureckie pierożki z kebabowym nadzieniem, serwowane z aromatyczną kawą. Idealne na każdą domową imprezę."
             }
         ]
     ]

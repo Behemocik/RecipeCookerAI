@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Bałkańska (Grill)",
         "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
         "Brazylijska",
@@ -13,19 +14,18 @@
         "Meksykańska (Tex-Mex)",
         "Turecka (Kebab/Meze)",
         "Węgierska (Papryka)",
-        "Polska (Bar Mleczny)",
-        "Babcina Kuchnia (Comfort Food)"
+        "Polska (Bar Mleczny)"
     ],
     "last_regions": [
-        "Azja",
-        "Specjalne / Klimatyczne"
+        "Europa",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1474313887167021168,
+        "message_id": 1474673463112241212,
         "options": [
-            "Smaczne Meze: Kiełbasa z Warzywami",
-            "Kuskus z Sosem Tureckim i Owocami Morza",
-            "Börek z Szpinakiem i Fasolką"
+            "Turecki Grillowany Tofu z Ogórkami i Piekarnicą",
+            "Szpinakowe Börek z Fasolką i Kuskusem",
+            "Kiełbasa Grilla z Turecką Sosą i Warzywami"
         ]
     }
 }
