@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Meksykańska (Cantina)",
         "Bałkańska (Grill)",
         "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
@@ -13,19 +14,18 @@
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Tex-Mex)",
         "Turecka (Kebab/Meze)",
-        "Węgierska (Papryka)",
-        "Polska (Bar Mleczny)"
+        "Węgierska (Papryka)"
     ],
     "last_regions": [
-        "Europa",
-        "Azja"
+        "Ameryki",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1474673463112241212,
+        "message_id": 1475035993550622914,
         "options": [
-            "Turecki Grillowany Tofu z Ogórkami i Piekarnicą",
-            "Szpinakowe Börek z Fasolką i Kuskusem",
-            "Kiełbasa Grilla z Turecką Sosą i Warzywami"
+            "Słodki Kuskus z Owocami i Kremą",
+            "Kebab Meksykański z Ryżem i Warzywami",
+            "Ryba Meksykańska z Sałatką Słodką Owocami"
         ]
     }
 }

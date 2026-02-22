@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kuskus Słodki z Owocami i Kremą",
+                "opis": "Klasyczny meksykański kuskus z owocami i kremą, idealny jako śniadanie lub przystawka."
+            },
+            {
+                "nazwa": "Kebab Meksykański z Ryżem i Warzywami",
+                "opis": "Smaczny kebab meksykański z ryżem i pysznymi warzywami, idealny jako główny posiłek lub lunch."
+            },
+            {
+                "nazwa": "Ryba Meksykańska z Sałatką Słodką Owocami",
+                "opis": "Lekka i smaczna ryba meksykańska z sałatką słodką owocami, idealna jako główny posiłek lub dodatek."
+            },
+            {
+                "nazwa": "Burrito Meksykański z Kurczakiem i Warzywami",
+                "opis": "Przepyszny burrito meksykański z kurczakiem i pysznymi warzywami, idealny jako główny posiłek lub lunch."
+            },
+            {
+                "nazwa": "Kuskus z Mięsem i Ogórkami",
+                "opis": "Klasyczny meksykański kuskus z mięsem i ogórkami, idealny jako główny posiłek lub dodatek."
+            }
+        ],
+        [
+            {
                 "nazwa": "Grillowany Tofu z Turecką Piekarnicą i Ogórkami",
                 "opis": "Tofu grillowany w połączeniu z turecką piekarnicą i ogórkami, idealny jako główny posiłek lub dodatek."
             },
@@ -380,28 +402,6 @@
             {
                 "nazwa": "Tapas de Lola z Nowego Jorku",
                 "opis": "Autentyczne, hiszpańskie tapas w stylu nowojorskim, idealne do degustacji jako przystawki lub snacki."
-            }
-        ],
-        [
-            {
-                "nazwa": "Dyniowe Tatarze z Grzybami",
-                "opis": "Połączenie smaczków dyni i grzybów w formie tatarów, idealnych jako przystawka lub dodatek do kebabu."
-            },
-            {
-                "nazwa": "Bakława z Dynią i Orzechami",
-                "opis": "Nowoczesna wersja klasyka, z dodatkiem słodkiej dyni i orzechów, idealna jako słodycz lub przekąska."
-            },
-            {
-                "nazwa": "Kebabowe Placki z Grzybami i Dynią",
-                "opis": "Nowoczesna wersja kebabowych placków, z dodatkiem grzybów i dyni, idealna jako obiad lub przekąska."
-            },
-            {
-                "nazwa": "Sałatka Kebabowo-Jogurtowa z Dynią",
-                "opis": "Połączenie ciepłych kebabów z chłodnym jogurtem, dynią i warzywami, idealna jako sałatka lub przystawka."
-            },
-            {
-                "nazwa": "Pierożki Kebabowe z Dynią i Kawą",
-                "opis": "Klasyczne tureckie pierożki z kebabowym nadzieniem, dynią i aromatyczną kawą, idealne na każdą domową imprezę."
             }
         ]
     ]
