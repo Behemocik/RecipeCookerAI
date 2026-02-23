@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Libańska/Arabska",
         "Meksykańska (Cantina)",
         "Bałkańska (Grill)",
         "Turecka (Kebab/Meze)",
@@ -13,19 +14,18 @@
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
         "Meksykańska (Tex-Mex)",
-        "Turecka (Kebab/Meze)",
-        "Węgierska (Papryka)"
+        "Turecka (Kebab/Meze)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Europa"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1475035993550622914,
+        "message_id": 1475403053921337425,
         "options": [
-            "Słodki Kuskus z Owocami i Kremą",
-            "Kebab Meksykański z Ryżem i Warzywami",
-            "Ryba Meksykańska z Sałatką Słodką Owocami"
+            "Kibbeh Nayeh z Owosem i Orzechami",
+            "Naleśniki z Sera Twarogowego i Jogurtem z Owosem",
+            "Owsianka z Owsem i Orzechami z Kawą Arabską"
         ]
     }
 }

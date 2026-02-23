@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Kibbeh Nayeh z Owosem i Orzechami",
+                "opis": "Klasyczna libańska kibbeh z owocem i orzechami, idealna jako zdrowe śniadanie z pełnym smakiem"
+            },
+            {
+                "nazwa": "Naleśniki z Sera Twarogowego i Jogurtem z Owosem",
+                "opis": "Słodkie i zdrowe naleśniki z sera twarogowego i jogurtem, dodatkowo posypane owosem i orzechami"
+            },
+            {
+                "nazwa": "Owsianka z Owosem i Orzechami z Kawą Arabską",
+                "opis": "Sycąca owsianka z owocem i orzechami, dodatkowo posypana kawą arabską, idealna jako zdrowe śniadanie z pełnym smakiem"
+            },
+            {
+                "nazwa": "Bob z Sera Twarogowego i Zielonym Ogórkiem",
+                "opis": "Idealne sycące danie na bazie bobu, dodatkowo posypane serem twarogowym i zielonym ogórkiem"
+            },
+            {
+                "nazwa": "Sałatka Słodka z Owocami i Orzechami",
+                "opis": "Lekka i smaczna sałatka słodka z owocem i orzechami, idealna jako zdrowe śniadanie lub dodatek"
+            }
+        ],
+        [
+            {
                 "nazwa": "Kuskus Słodki z Owocami i Kremą",
                 "opis": "Klasyczny meksykański kuskus z owocami i kremą, idealny jako śniadanie lub przystawka."
             },
@@ -388,20 +410,6 @@
             {
                 "nazwa": "Kebab Rollo z Surówkami i Sosem",
                 "opis": "Turecki kebab rollo z surówkami i sosem, idealny jako główny przysmak."
-            }
-        ],
-        [
-            {
-                "nazwa": "Churro z Sosem Chimichurri",
-                "opis": "Tradycyjny hiszpański wypiek churro podawany z oryginalnym sosem z Argentyny, idealny jako przystawka lub deser."
-            },
-            {
-                "nazwa": "Paella z Warzywami i Sernikiem",
-                "opis": "Oryginalna, hiszpańska paella z warzywami i dodatkiem kremowego sernika, idealna jako główny przysmak."
-            },
-            {
-                "nazwa": "Tapas de Lola z Nowego Jorku",
-                "opis": "Autentyczne, hiszpańskie tapas w stylu nowojorskim, idealne do degustacji jako przystawki lub snacki."
             }
         ]
     ]
