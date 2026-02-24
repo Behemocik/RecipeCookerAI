@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Tacos Sycylijskie",
+                "opis": "Klasyczne tacos z marinowanym schabem w stylu pibil, serwowane z włoskimi dodatkami, takimi jak sun-dried tomatoes i kozieradki"
+            },
+            {
+                "nazwa": "Guacamole Sycylijskie",
+                "opis": "Nowatorska wersja guacamole, z dodatkiem włoskich składników, takich jak pomidory sun-dried, basilikum i parmezan"
+            },
+            {
+                "nazwa": "Paczki z Awokado i Kozieradkami",
+                "opis": "Słodkie i orzeźwiające paczki z awokado, kozieradkami i włoskimi dodatkami, takimi jak miód i pistacja"
+            },
+            {
+                "nazwa": "Tostada z Sera Twarogowym i Owocami",
+                "opis": "Słodka i orzeźwiająca tostada z twarogiem, owocami i włoskimi dodatkami, takimi jak pesto i kozieradki"
+            },
+            {
+                "nazwa": "Sicilianita",
+                "opis": "Klasyczne włoskie danie, z marinowaną wołowiną, serem mozzarella i owocami, serwowane z włoskimi dodatkami, takimi jak sun-dried tomatoes i kozieradki"
+            }
+        ],
+        [
+            {
                 "nazwa": "Kibbeh Nayeh z Owosem i Orzechami",
                 "opis": "Klasyczna libańska kibbeh z owocem i orzechami, idealna jako zdrowe śniadanie z pełnym smakiem"
             },
@@ -392,24 +414,6 @@
             {
                 "nazwa": "Cukiniowe Stir-fry",
                 "opis": "Wegetariańskie danie z cukinią, idealne jako główny przysmak na wielką imprezę"
-            }
-        ],
-        [
-            {
-                "nazwa": "Pide Tureckie z Grilla",
-                "opis": "Klasyczne tureckie pide z pełnym smakiem grillowanego mięsa, warzyw i przypraw."
-            },
-            {
-                "nazwa": "Meze z Jogurtem i Słonym Serem",
-                "opis": "Tureckie meze z jogurtem, słonym serem, czosnkiem i oliwą - idealne jako przystawka lub snack."
-            },
-            {
-                "nazwa": "Baklava z Pistacjami i Orzechami",
-                "opis": "Niezwykła baklava z pistacjami i orzechami, idealna jako deser lub przystawka."
-            },
-            {
-                "nazwa": "Kebab Rollo z Surówkami i Sosem",
-                "opis": "Turecki kebab rollo z surówkami i sosem, idealny jako główny przysmak."
             }
         ]
     ]

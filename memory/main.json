@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Włoska (Sycylia/Południe)",
         "Libańska/Arabska",
         "Meksykańska (Cantina)",
         "Bałkańska (Grill)",
@@ -13,19 +14,18 @@
         "Japońska (Ramen Shop)",
         "Japońska (Domowa)",
         "Babcina Kuchnia (Comfort Food)",
-        "Meksykańska (Tex-Mex)",
-        "Turecka (Kebab/Meze)"
+        "Meksykańska (Tex-Mex)"
     ],
     "last_regions": [
-        "Azja",
-        "Ameryki"
+        "Europa",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1475403053921337425,
+        "message_id": 1475764466032312373,
         "options": [
-            "Kibbeh Nayeh z Owosem i Orzechami",
-            "Naleśniki z Sera Twarogowego i Jogurtem z Owosem",
-            "Owsianka z Owsem i Orzechami z Kawą Arabską"
+            "Tacos Sycylijskie",
+            "Guacamole Sycylijskie",
+            "Paczki z Awokado i Kozieradkami w stylu Sycylijskim"
         ]
     }
 }
