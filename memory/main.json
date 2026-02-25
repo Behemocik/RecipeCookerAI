@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (NYC Style)",
         "Włoska (Sycylia/Południe)",
         "Libańska/Arabska",
         "Meksykańska (Cantina)",
@@ -13,19 +14,18 @@
         "Peruwiańska",
         "Japońska (Ramen Shop)",
         "Japońska (Domowa)",
-        "Babcina Kuchnia (Comfort Food)",
-        "Meksykańska (Tex-Mex)"
+        "Babcina Kuchnia (Comfort Food)"
     ],
     "last_regions": [
-        "Europa",
-        "Azja"
+        "Ameryki",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1475764466032312373,
+        "message_id": 1476127470616055862,
         "options": [
-            "Tacos Sycylijskie",
-            "Guacamole Sycylijskie",
-            "Paczki z Awokado i Kozieradkami w stylu Sycylijskim"
+            "Karnegie Bagel Sandwich z Tureckim Przeginąłem",
+            "Sałatka Owocowa z Miodem i Pistacją",
+            "Sycylijskie Pulpeciki z Cukinią"
         ]
     }
 }

@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Carnegie Bagel Sandwich",
+                "opis": "Klasyczny bagel z NY, nadziany kłodą wędzonego sznycela i serem cheddar, z dodatkiem świeżych warzyw i sałatki"
+            },
+            {
+                "nazwa": "Sałatka Owocowa z Miodem i Pistacją",
+                "opis": "Kolorowa sałatka owocowa z różnymi rodzajami owoców, polewana miodem i posypana orzechami pistacjowymi"
+            },
+            {
+                "nazwa": "Sycylijskie Pulpeciki z Cukinią",
+                "opis": "Klasyczne włoskie pulpeciki drobiowe z dodatkiem cukinii i włoskimi składnikami, takimi jak sun-dried tomatoes i kozieradki"
+            },
+            {
+                "nazwa": "Tostada z Twarogiem i Owocami",
+                "opis": "Słodka i orzeźwiająca tostada z twarogiem, owocami i włoskimi dodatkami, takimi jak pesto i kozieradki"
+            },
+            {
+                "nazwa": "Piekarnia Ekologiczna z Zdrowymi Płatkami",
+                "opis": "Piekarnia ekologiczna z zdrowymi płatkami, serwowana z różnymi rodzajami owoców i warzyw, a także zdrowymi dodatkami, takimi jak ekologiczne orzechy"
+            }
+        ],
+        [
+            {
                 "nazwa": "Tacos Sycylijskie",
                 "opis": "Klasyczne tacos z marinowanym schabem w stylu pibil, serwowane z włoskimi dodatkami, takimi jak sun-dried tomatoes i kozieradki"
             },
@@ -392,28 +414,6 @@
             {
                 "nazwa": "Tureckie Przystawki (Meze)",
                 "opis": "Smaczne i łatwe w przygotowaniu przystawki, które są idealne jako start do dalszej degustacji tureckiej kuchni."
-            }
-        ],
-        [
-            {
-                "nazwa": "Szybkie Fasolkowe Gulaszki",
-                "opis": "Szybki i smaczny gulasz z fasolką, idealny do szybkiego przygotowania na wielką imprezę"
-            },
-            {
-                "nazwa": "Baja Burrito",
-                "opis": "Tanie meksykańskie jedzenie w postaci burrito, idealne dla wielkiej imprezy"
-            },
-            {
-                "nazwa": "Stir-fry z Pęczakiem po Meksykańsku",
-                "opis": "Wegetariańskie danie z pęczakiem i warzywami, idealne jako główny przysmak"
-            },
-            {
-                "nazwa": "Paprykowe Naleśniki",
-                "opis": "Szybko i smacznie przygotowane naleśniki z papryką, idealne jako przekąska lub danie główne"
-            },
-            {
-                "nazwa": "Cukiniowe Stir-fry",
-                "opis": "Wegetariańskie danie z cukinią, idealne jako główny przysmak na wielką imprezę"
             }
         ]
     ]
