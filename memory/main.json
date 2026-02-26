@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Turecka (Kebab/Meze)",
         "USA (NYC Style)",
         "Włoska (Sycylia/Południe)",
         "Libańska/Arabska",
@@ -13,19 +14,18 @@
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
         "Japońska (Ramen Shop)",
-        "Japońska (Domowa)",
-        "Babcina Kuchnia (Comfort Food)"
+        "Japońska (Domowa)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Europa"
+        "Azja",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1476127470616055862,
+        "message_id": 1476489253784391701,
         "options": [
-            "Karnegie Bagel Sandwich z Tureckim Przeginąłem",
-            "Sałatka Owocowa z Miodem i Pistacją",
-            "Sycylijskie Pulpeciki z Cukinią"
+            "Szpinakowe Kebaby z Sałatką Warzywną",
+            "Sałatka Turecka z Kurczakiem i Owocami",
+            "Kebab w Bułce z Sałatką i Zielonym Ogórkiem"
         ]
     }
 }
