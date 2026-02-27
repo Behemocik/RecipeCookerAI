@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Confit Byaldi",
+                "opis": "Przepis francuskiego szefa kuchni Michela Guérarda, gotowany ziemniak z warzywami i zielonymi oliwkami"
+            },
+            {
+                "nazwa": "Lekka i Szybka Lasagna",
+                "opis": "Świetny pomysł na obiad z białą fasolą, zielonymi oliwkami i ciasto francuskim"
+            },
+            {
+                "nazwa": "Błyskawiczne Ślimaki z Ciastem Francuskim",
+                "opis": "Prosty i smaczny przepis na ślimaki z ciastem francuskim, idealny na imprezę lub przyjęcie"
+            },
+            {
+                "nazwa": "Domowa Lemoniada i Różowe Wino",
+                "opis": "Klasyczny francuski przepis na deser, idealny na ciepłe dni i przyjęcia"
+            },
+            {
+                "nazwa": "Gulasz z Serduszek Drobiowych",
+                "opis": "Tani i smaczny gulasz z serduszkami drobiowymi, idealny na obiad w stylu francuskim"
+            }
+        ],
+        [
+            {
                 "nazwa": "Kebab z Szpinakiem i Sałatką Warzywną",
                 "opis": "Klasyczny turecki kebab z szpinakiem i sałatką warzywną, dodając warzywa i cebulę do oryginalnego przepisu"
             },
@@ -396,24 +418,6 @@
             {
                 "nazwa": "Rosół z Koperkiem i Ziemniakami",
                 "opis": "Smaczny i aromatyczny rosół z koperkiem i ziemniakami, idealny jako przystawka lub dodatek do obiadu."
-            }
-        ],
-        [
-            {
-                "nazwa": "Pierogi Ruskie z Nadzieniem ziemniaczanym",
-                "opis": "Klasyczne polskie pierogi z nadzieniem ziemniaczanym, twarogiem i cebulą, idealne na gorącą imprezę lub obiad."
-            },
-            {
-                "nazwa": "Naleśniki z Serem i Ziołami",
-                "opis": "Smaczne i łatwe w przygotowaniu naleśniki z serem i ziołami, idealne jako przekąska lub danie główne."
-            },
-            {
-                "nazwa": "Kopytka z Sosem Jagodowym",
-                "opis": "Tradycyjne polskie kopytka z sosem jagodowym, idealne jako przystawka lub dodatek do obiadu."
-            },
-            {
-                "nazwa": "Wegetariański Obiad z Warzywami",
-                "opis": "Szybki i zdrowy obiad z warzywami, idealny dla wegetarian i wegan, z opcją dodania sosu lub nadzienia."
             }
         ]
     ]

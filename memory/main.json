@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Francuska (Prowansalska)",
         "Turecka (Kebab/Meze)",
         "USA (NYC Style)",
         "Włoska (Sycylia/Południe)",
@@ -13,19 +14,18 @@
         "Skandynawska (Hygge)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
         "Peruwiańska",
-        "Japońska (Ramen Shop)",
-        "Japońska (Domowa)"
+        "Japońska (Ramen Shop)"
     ],
     "last_regions": [
-        "Azja",
-        "Ameryki"
+        "Europa",
+        "Azja"
     ],
     "last_poll": {
-        "message_id": 1476489253784391701,
+        "message_id": 1476850462706896926,
         "options": [
-            "Szpinakowe Kebaby z Sałatką Warzywną",
-            "Sałatka Turecka z Kurczakiem i Owocami",
-            "Kebab w Bułce z Sałatką i Zielonym Ogórkiem"
+            "Confit Byaldi z Tureckim Zwrotem",
+            "Lasagna Prowansalska",
+            "Błyskawiczne Ślimaki z Ciastem Francuskim"
         ]
     }
 }
