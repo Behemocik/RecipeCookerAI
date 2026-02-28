@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
         "Turecka (Kebab/Meze)",
         "USA (NYC Style)",
@@ -13,19 +14,17 @@
         "Indonezyjska (Bali Vibe)",
         "Skandynawska (Hygge)",
         "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Peruwiańska",
-        "Japońska (Ramen Shop)"
+        "Peruwiańska"
     ],
     "last_regions": [
-        "Europa",
-        "Azja"
+        "Ameryki",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1476850462706896926,
+        "message_id": 1477209494659272855,
         "options": [
-            "Confit Byaldi z Tureckim Zwrotem",
-            "Lasagna Prowansalska",
-            "Błyskawiczne Ślimaki z Ciastem Francuskim"
+            "Gumbo Cajun z Soczewicą",
+            "Kurczak w Pikante Marynacji Cajun z Kaszą Jaglaną"
         ]
     }
 }
