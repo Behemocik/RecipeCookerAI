@@ -2,6 +2,24 @@
     "last_trends": [
         [
             {
+                "nazwa": "Ratatouille Prowansalska z Panierką",
+                "opis": "Klasyczne francuskie danie z ratatouille, podawane w delikatnej panierce prowansalskiej z dodatkiem parmezanu i szparagów."
+            },
+            {
+                "nazwa": "Zupa Prowansalska z Oliwkami i Oliwą",
+                "opis": "Lekka i delikatna zupa prowansalska z chrupiącymi jarzynami, kremowym serem pavé i esencjonalnym bulionem, ozdobiona oliwkami i oliwą z oliwek."
+            },
+            {
+                "nazwa": "Panierka Panko z Elementami Kuchni Provençalskiej",
+                "opis": "Unikalne połączenie smaków - panierka panko z elementami kuchni prowansalskiej, idealna na imprezę lub przyjęcie, dodane zioła prowansalskie nadają potrawie wyjątkowy smak."
+            },
+            {
+                "nazwa": "Lasagna Provençale z Kotletem Cielęcym",
+                "opis": "Klasyczna lasagna prowansalska z kotletem cielęcym, panierką z dodatkiem parmezanu, duszonymi winogronami i szparagami, polana palonym masłem z orzechami włoskimi."
+            }
+        ],
+        [
+            {
                 "nazwa": "Gumbo Cajun z Soczewicą",
                 "opis": "Smaczny i prosty gulasz ziemniaczany w stylu Cajun, zagęszczony szklanką soczewicy."
             },
@@ -388,28 +406,6 @@
             {
                 "nazwa": "Tortilla-Chips z Sałatką Warzywną",
                 "opis": "Smaczne i wygodne tortilla-chips z sałatką warzywną, idealne do podania jako przystawka lub lunch, ze smakiem i kolorami inspirowanymi kuchnią Meksykańską."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab z Kurczaka i Sałatą Turecką",
-                "opis": "Tradycyjne tureckie danie kebab, z kurczakiem i sałatką turecką, idealne dla tych, którzy szukają smacznego i szybkiego posiłku."
-            },
-            {
-                "nazwa": "Bakłażanowe Meze z Tureckimi Przepisami",
-                "opis": "Pomidorowe meze z bakłażanem, z Tureckimi przepisami, to idealna propozycja dla tych, którzy szukają smacznego i zdrowego posiłku."
-            },
-            {
-                "nazwa": "Testi Kebab - Klasyczne Dziecko Kuchni Tureckiej",
-                "opis": "Testi Kebab to tradycyjne tureckie danie, które najlepiej smakuje dzielone z innymi, to idealna propozycja dla tych, którzy szukają smacznego i tradycyjnego posiłku."
-            },
-            {
-                "nazwa": "Kiszone Buraki z Tureckimi Przepisami",
-                "opis": "Kiszone buraki z Tureckimi przepisami to idealna propozycja dla tych, którzy szukają smacznego i zdrowego posiłku."
-            },
-            {
-                "nazwa": "Turcja w Kuchni - Przepisy na Szybko",
-                "opis": "Turcja w kuchni to propozycja dla tych, którzy szukają smacznego i szybkiego posiłku, z Tureckimi przepisami, idealnymi dla dnia codziennego."
             }
         ]
     ]

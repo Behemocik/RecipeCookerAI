@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Babcina Kuchnia (Comfort Food)",
         "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
         "Turecka (Kebab/Meze)",
@@ -13,18 +14,16 @@
         "Brazylijska",
         "Indonezyjska (Bali Vibe)",
         "Skandynawska (Hygge)",
-        "Smak Jesieni (Dyniowe/Grzybowe)",
-        "Peruwiańska"
+        "Smak Jesieni (Dyniowe/Grzybowe)"
     ],
     "last_regions": [
-        "Ameryki",
-        "Europa"
+        "Specjalne / Klimatyczne",
+        "Ameryki"
     ],
     "last_poll": {
-        "message_id": 1477209494659272855,
+        "message_id": 1477574164213796998,
         "options": [
-            "Gumbo Cajun z Soczewicą",
-            "Kurczak w Pikante Marynacji Cajun z Kaszą Jaglaną"
+            "Panierka Panko z Elementami Kuchni Provençalskiej"
         ]
     }
 }
