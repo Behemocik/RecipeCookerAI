@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Polska (Staropolska)",
         "Babcina Kuchnia (Comfort Food)",
         "USA (Cajun/Creole)",
         "Francuska (Prowansalska)",
@@ -13,17 +14,16 @@
         "Babcina Kuchnia (Comfort Food)",
         "Brazylijska",
         "Indonezyjska (Bali Vibe)",
-        "Skandynawska (Hygge)",
-        "Smak Jesieni (Dyniowe/Grzybowe)"
+        "Skandynawska (Hygge)"
     ],
     "last_regions": [
-        "Specjalne / Klimatyczne",
-        "Ameryki"
+        "Europa",
+        "Specjalne / Klimatyczne"
     ],
     "last_poll": {
-        "message_id": 1477574164213796998,
+        "message_id": 1477941567351427103,
         "options": [
-            "Panierka Panko z Elementami Kuchni Provençalskiej"
+            "Pleśniak ze Śliwką i Twarogiem"
         ]
     }
 }

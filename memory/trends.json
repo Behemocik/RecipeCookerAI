@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Łopatka Staropolska z Rabarbarem",
+                "opis": "Klasyczna łopatka staropolska z dodatkiem rabarbaru, przyprawiona specjalnymi przyprawami i serem. Idealna na świąteczne obiady."
+            },
+            {
+                "nazwa": "Pierogi z Owocami Sezonowymi i Kremem",
+                "opis": "Nowoczesne pierogi z owocami sezonowymi i kremowym nadzieniem, podawane z dodatkiem świeżych ziół. Perfekcyjne na każdą porę roku."
+            },
+            {
+                "nazwa": "Kiełbasa Staropolska z Glazurą Owocową",
+                "opis": "Klasyczna kiełbasa staropolska z dodatkiem glazury owocowej, przyprawionej specjalnymi przyprawami i serem. Idealna na świąteczne obiady."
+            },
+            {
+                "nazwa": "Drożdżówka z Rabarbarem i Cukrem",
+                "opis": "Tradycyjna drożdżówka z rabarbarem i cukrem, przyprawiona specjalnymi przyprawami i serem. Perfekcyjna na każdą porę roku."
+            },
+            {
+                "nazwa": "Pleśniak ze Śliwką i Twarogiem",
+                "opis": "Unikalny pleśniak ze śliwką i twarogiem, przyprawiony specjalnymi przyprawami i serem. Idealny na zimowe dni."
+            }
+        ],
+        [
+            {
                 "nazwa": "Ratatouille Prowansalska z Panierką",
                 "opis": "Klasyczne francuskie danie z ratatouille, podawane w delikatnej panierce prowansalskiej z dodatkiem parmezanu i szparagów."
             },
@@ -384,28 +406,6 @@
             {
                 "nazwa": "Sałatka Warzywna z Kaszą Bulgur i Czosnkiem",
                 "opis": "Turecka sałatka warzywna z kaszą bulgur, cebulą i czosnkiem, idealne do podania jako przystawka lub lunch."
-            }
-        ],
-        [
-            {
-                "nazwa": "Ceviche Meksykańskie",
-                "opis": "Wyjątkowe ceviche z owocami morza i warzywami, inspirujące się tradycyjną kuchnią Meksykanów, idealne do podania jako przystawka lub lunch."
-            },
-            {
-                "nazwa": "Tortilla-Wraps Bezglutenowe",
-                "opis": "Wygodne i smaczne tortilla-wraps bezglutenowe, idealne dla miłośników kuchni Tex-Mex, którzy cenią sobie wygodę i smak."
-            },
-            {
-                "nazwa": "Sałatka Warzywna z Surówką Meksykańską",
-                "opis": "Wspaniała sałatka warzywna z dodatkiem surówki meksykańskiej, idealna do podania jako przystawka lub lunch, ze smakiem i kolorami inspirowanymi kuchnią Meksykańską."
-            },
-            {
-                "nazwa": "Guacamole na Sałatki Owocowe",
-                "opis": "Wyjątkowe guacamole do sałatek owocowych, inspirowane tradycyjną kuchnią Meksykańską, idealne do dodania smaku i koloru do Twojej sałatki."
-            },
-            {
-                "nazwa": "Tortilla-Chips z Sałatką Warzywną",
-                "opis": "Smaczne i wygodne tortilla-chips z sałatką warzywną, idealne do podania jako przystawka lub lunch, ze smakiem i kolorami inspirowanymi kuchnią Meksykańską."
             }
         ]
     ]
