@@ -1,5 +1,6 @@
 {
     "last_cuisines": [
+        "Japońska (Domowa)",
         "Polska (Staropolska)",
         "Babcina Kuchnia (Comfort Food)",
         "USA (Cajun/Creole)",
@@ -13,17 +14,17 @@
         "Turecka (Kebab/Meze)",
         "Babcina Kuchnia (Comfort Food)",
         "Brazylijska",
-        "Indonezyjska (Bali Vibe)",
-        "Skandynawska (Hygge)"
+        "Indonezyjska (Bali Vibe)"
     ],
     "last_regions": [
-        "Europa",
-        "Specjalne / Klimatyczne"
+        "Azja",
+        "Europa"
     ],
     "last_poll": {
-        "message_id": 1477941567351427103,
+        "message_id": 1478303454039375984,
         "options": [
-            "Pleśniak ze Śliwką i Twarogiem"
+            "Matcha z Mlekiem i Cukrem - Japoński Twist",
+            "Tamagoyaki z Jajkiem i Cukrem - Japońskie Kebabki"
         ]
     }
 }

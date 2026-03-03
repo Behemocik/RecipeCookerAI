@@ -2,6 +2,28 @@
     "last_trends": [
         [
             {
+                "nazwa": "Temaki z Rybą i Mise",
+                "opis": "Klasyczne japońskie temaki z rybą i miso, przygotowane w domu z wykorzystaniem dostępnych składników."
+            },
+            {
+                "nazwa": "Oden z Warzywami i Kombu",
+                "opis": "Tradycyjne japońskie danie oden z warzywami i kombu, idealne na chłodniejsze dni."
+            },
+            {
+                "nazwa": "Matcha z Mlekiem i Cukrem",
+                "opis": "Kremowy deser z matcha, mlekiem i cukrem, inspirowany tradycyjnym japońskim deserem."
+            },
+            {
+                "nazwa": "Futomaki z Warzywami i Rybą",
+                "opis": "Japońskie rolki futomaki z warzywami i rybą, idealne na lunch lub kolację."
+            },
+            {
+                "nazwa": "Tamagoyaki z Jajkiem i Cukrem",
+                "opis": "Japońskie jajeczne rolki tamagoyaki z jajkiem i cukrem, idealne na śniadanie lub kawę."
+            }
+        ],
+        [
+            {
                 "nazwa": "Łopatka Staropolska z Rabarbarem",
                 "opis": "Klasyczna łopatka staropolska z dodatkiem rabarbaru, przyprawiona specjalnymi przyprawami i serem. Idealna na świąteczne obiady."
             },
@@ -384,28 +406,6 @@
             {
                 "nazwa": "Ryżowe Pankejki z Sałatką Warzywną",
                 "opis": "Szybkie i zdrowe ryżowe pankejki z sałatką warzywną, idealne jako zdrowy lunch."
-            }
-        ],
-        [
-            {
-                "nazwa": "Kebab z Sałatką Warzywną",
-                "opis": "Turecki kebab z mięsem i warzywami, podany z sałatką warzywną i różnymi daniami tureckimi."
-            },
-            {
-                "nazwa": "Pączki Lokma z Miodem i Cynamonem",
-                "opis": "Tureckie pączki Lokma, smażone i posypane miodem i cynamonem, idealne jako przystawka lub deser."
-            },
-            {
-                "nazwa": "Pancarli Bulgur z Buraczkami i Surówką Meksykańską",
-                "opis": "Turecki przepis na placki warzywne, z dodatkiem buraczków i surówki meksykańskiej, idealne do podania jako przystawka lub lunch."
-            },
-            {
-                "nazwa": "Kebab z Kaszą Bulgur i Warzywami",
-                "opis": "Turecki kebab z mięsem, kaszą bulgur i warzywami, idealne jako główny dań lub lunch."
-            },
-            {
-                "nazwa": "Sałatka Warzywna z Kaszą Bulgur i Czosnkiem",
-                "opis": "Turecka sałatka warzywna z kaszą bulgur, cebulą i czosnkiem, idealne do podania jako przystawka lub lunch."
             }
         ]
     ]
